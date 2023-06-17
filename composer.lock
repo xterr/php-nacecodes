@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a6442d90c11b15d18cc1385c9343336e",
+    "content-hash": "2242b69060e0ed72567b3f7b66bca52b",
     "packages": [
         {
             "name": "easyrdf/easyrdf",
