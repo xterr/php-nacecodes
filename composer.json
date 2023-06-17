@@ -1,0 +1,46 @@
+{
+  "name": "xterr/php-nacecodes",
+  "description": "Nace Codes",
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Razvan Ceana",
+      "email": "razvan@ceana.ro"
+    }
+  ],
+  "require": {
+    "php": ">=7.1 || ^8.0",
+    "ext-json": "*",
+    "easyrdf/easyrdf": "^1.1"
+  },
+  "require-dev": {
+    "ergebnis/composer-normalize": "^2.31",
+    "symfony/translation": "^6.3",
+    "symfony/yaml": "^6.3",
+    "symfony/console": "^6.3",
+    "phpunit/phpunit": "^10.2",
+    "vimeo/psalm": "^5.12"
+  },
+  "autoload": {
+    "psr-4": {
+      "Xterr\\NaceCodes\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Xterr\\NaceCodes\\Tests\\": "tests/"
+    }
+  },
+  "config": {
+    "allow-plugins": {
+      "ergebnis/composer-normalize": true
+    }
+  },
+  "extra": {
+    "composer-normalize": {
+      "indent-size": 2,
+      "indent-style": "space"
+    }
+  }
+}

@@ -1,0 +1,5537 @@
+[
+    {
+        "code": "0111",
+        "rawCode": "01.11",
+        "version": 2,
+        "group": "011",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of cereals (except rice), leguminous crops and oil seeds"
+    },
+    {
+        "code": "0112",
+        "rawCode": "01.12",
+        "version": 2,
+        "group": "011",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of rice"
+    },
+    {
+        "code": "0113",
+        "rawCode": "01.13",
+        "version": 2,
+        "group": "011",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of vegetables and melons, roots and tubers"
+    },
+    {
+        "code": "0114",
+        "rawCode": "01.14",
+        "version": 2,
+        "group": "011",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of sugar cane"
+    },
+    {
+        "code": "0115",
+        "rawCode": "01.15",
+        "version": 2,
+        "group": "011",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of tobacco"
+    },
+    {
+        "code": "0116",
+        "rawCode": "01.16",
+        "version": 2,
+        "group": "011",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of fibre crops"
+    },
+    {
+        "code": "0119",
+        "rawCode": "01.19",
+        "version": 2,
+        "group": "011",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of other non-perennial crops"
+    },
+    {
+        "code": "0121",
+        "rawCode": "01.21",
+        "version": 2,
+        "group": "012",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of grapes"
+    },
+    {
+        "code": "0122",
+        "rawCode": "01.22",
+        "version": 2,
+        "group": "012",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of tropical and subtropical fruits"
+    },
+    {
+        "code": "0123",
+        "rawCode": "01.23",
+        "version": 2,
+        "group": "012",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of citrus fruits"
+    },
+    {
+        "code": "0124",
+        "rawCode": "01.24",
+        "version": 2,
+        "group": "012",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of pome fruits and stone fruits"
+    },
+    {
+        "code": "0125",
+        "rawCode": "01.25",
+        "version": 2,
+        "group": "012",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of other tree and bush fruits and nuts"
+    },
+    {
+        "code": "0126",
+        "rawCode": "01.26",
+        "version": 2,
+        "group": "012",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of oleaginous fruits"
+    },
+    {
+        "code": "0127",
+        "rawCode": "01.27",
+        "version": 2,
+        "group": "012",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of beverage crops"
+    },
+    {
+        "code": "0128",
+        "rawCode": "01.28",
+        "version": 2,
+        "group": "012",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of spices, aromatic, drug and pharmaceutical crops"
+    },
+    {
+        "code": "0129",
+        "rawCode": "01.29",
+        "version": 2,
+        "group": "012",
+        "division": "01",
+        "section": "A",
+        "name": "Growing of other perennial crops"
+    },
+    {
+        "code": "0130",
+        "rawCode": "01.30",
+        "version": 2,
+        "group": "013",
+        "division": "01",
+        "section": "A",
+        "name": "Plant propagation"
+    },
+    {
+        "code": "0141",
+        "rawCode": "01.41",
+        "version": 2,
+        "group": "014",
+        "division": "01",
+        "section": "A",
+        "name": "Raising of dairy cattle"
+    },
+    {
+        "code": "0142",
+        "rawCode": "01.42",
+        "version": 2,
+        "group": "014",
+        "division": "01",
+        "section": "A",
+        "name": "Raising of other cattle and buffaloes"
+    },
+    {
+        "code": "0143",
+        "rawCode": "01.43",
+        "version": 2,
+        "group": "014",
+        "division": "01",
+        "section": "A",
+        "name": "Raising of horses and other equines"
+    },
+    {
+        "code": "0144",
+        "rawCode": "01.44",
+        "version": 2,
+        "group": "014",
+        "division": "01",
+        "section": "A",
+        "name": "Raising of camels and camelids"
+    },
+    {
+        "code": "0145",
+        "rawCode": "01.45",
+        "version": 2,
+        "group": "014",
+        "division": "01",
+        "section": "A",
+        "name": "Raising of sheep and goats"
+    },
+    {
+        "code": "0146",
+        "rawCode": "01.46",
+        "version": 2,
+        "group": "014",
+        "division": "01",
+        "section": "A",
+        "name": "Raising of swine\/pigs"
+    },
+    {
+        "code": "0147",
+        "rawCode": "01.47",
+        "version": 2,
+        "group": "014",
+        "division": "01",
+        "section": "A",
+        "name": "Raising of poultry"
+    },
+    {
+        "code": "0149",
+        "rawCode": "01.49",
+        "version": 2,
+        "group": "014",
+        "division": "01",
+        "section": "A",
+        "name": "Raising of other animals"
+    },
+    {
+        "code": "0150",
+        "rawCode": "01.50",
+        "version": 2,
+        "group": "015",
+        "division": "01",
+        "section": "A",
+        "name": "Mixed farming"
+    },
+    {
+        "code": "0161",
+        "rawCode": "01.61",
+        "version": 2,
+        "group": "016",
+        "division": "01",
+        "section": "A",
+        "name": "Support activities for crop production"
+    },
+    {
+        "code": "0162",
+        "rawCode": "01.62",
+        "version": 2,
+        "group": "016",
+        "division": "01",
+        "section": "A",
+        "name": "Support activities for animal production"
+    },
+    {
+        "code": "0163",
+        "rawCode": "01.63",
+        "version": 2,
+        "group": "016",
+        "division": "01",
+        "section": "A",
+        "name": "Post-harvest crop activities"
+    },
+    {
+        "code": "0164",
+        "rawCode": "01.64",
+        "version": 2,
+        "group": "016",
+        "division": "01",
+        "section": "A",
+        "name": "Seed processing for propagation"
+    },
+    {
+        "code": "0170",
+        "rawCode": "01.70",
+        "version": 2,
+        "group": "017",
+        "division": "01",
+        "section": "A",
+        "name": "Hunting, trapping and related service activities"
+    },
+    {
+        "code": "0210",
+        "rawCode": "02.10",
+        "version": 2,
+        "group": "021",
+        "division": "02",
+        "section": "A",
+        "name": "Silviculture and other forestry activities"
+    },
+    {
+        "code": "0220",
+        "rawCode": "02.20",
+        "version": 2,
+        "group": "022",
+        "division": "02",
+        "section": "A",
+        "name": "Logging"
+    },
+    {
+        "code": "0230",
+        "rawCode": "02.30",
+        "version": 2,
+        "group": "023",
+        "division": "02",
+        "section": "A",
+        "name": "Gathering of wild growing non-wood products"
+    },
+    {
+        "code": "0240",
+        "rawCode": "02.40",
+        "version": 2,
+        "group": "024",
+        "division": "02",
+        "section": "A",
+        "name": "Support services to forestry"
+    },
+    {
+        "code": "0311",
+        "rawCode": "03.11",
+        "version": 2,
+        "group": "031",
+        "division": "03",
+        "section": "A",
+        "name": "Marine fishing"
+    },
+    {
+        "code": "0312",
+        "rawCode": "03.12",
+        "version": 2,
+        "group": "031",
+        "division": "03",
+        "section": "A",
+        "name": "Freshwater fishing"
+    },
+    {
+        "code": "0321",
+        "rawCode": "03.21",
+        "version": 2,
+        "group": "032",
+        "division": "03",
+        "section": "A",
+        "name": "Marine aquaculture"
+    },
+    {
+        "code": "0322",
+        "rawCode": "03.22",
+        "version": 2,
+        "group": "032",
+        "division": "03",
+        "section": "A",
+        "name": "Freshwater aquaculture"
+    },
+    {
+        "code": "0510",
+        "rawCode": "05.10",
+        "version": 2,
+        "group": "051",
+        "division": "05",
+        "section": "B",
+        "name": "Mining of hard coal"
+    },
+    {
+        "code": "0520",
+        "rawCode": "05.20",
+        "version": 2,
+        "group": "052",
+        "division": "05",
+        "section": "B",
+        "name": "Mining of lignite"
+    },
+    {
+        "code": "0610",
+        "rawCode": "06.10",
+        "version": 2,
+        "group": "061",
+        "division": "06",
+        "section": "B",
+        "name": "Extraction of crude petroleum"
+    },
+    {
+        "code": "0620",
+        "rawCode": "06.20",
+        "version": 2,
+        "group": "062",
+        "division": "06",
+        "section": "B",
+        "name": "Extraction of natural gas"
+    },
+    {
+        "code": "0710",
+        "rawCode": "07.10",
+        "version": 2,
+        "group": "071",
+        "division": "07",
+        "section": "B",
+        "name": "Mining of iron ores"
+    },
+    {
+        "code": "0721",
+        "rawCode": "07.21",
+        "version": 2,
+        "group": "072",
+        "division": "07",
+        "section": "B",
+        "name": "Mining of uranium and thorium ores"
+    },
+    {
+        "code": "0729",
+        "rawCode": "07.29",
+        "version": 2,
+        "group": "072",
+        "division": "07",
+        "section": "B",
+        "name": "Mining of other non-ferrous metal ores"
+    },
+    {
+        "code": "0811",
+        "rawCode": "08.11",
+        "version": 2,
+        "group": "081",
+        "division": "08",
+        "section": "B",
+        "name": "Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate"
+    },
+    {
+        "code": "0812",
+        "rawCode": "08.12",
+        "version": 2,
+        "group": "081",
+        "division": "08",
+        "section": "B",
+        "name": "Operation of gravel and sand pits; mining of clays and kaolin"
+    },
+    {
+        "code": "0891",
+        "rawCode": "08.91",
+        "version": 2,
+        "group": "089",
+        "division": "08",
+        "section": "B",
+        "name": "Mining of chemical and fertiliser minerals"
+    },
+    {
+        "code": "0892",
+        "rawCode": "08.92",
+        "version": 2,
+        "group": "089",
+        "division": "08",
+        "section": "B",
+        "name": "Extraction of peat"
+    },
+    {
+        "code": "0893",
+        "rawCode": "08.93",
+        "version": 2,
+        "group": "089",
+        "division": "08",
+        "section": "B",
+        "name": "Extraction of salt"
+    },
+    {
+        "code": "0899",
+        "rawCode": "08.99",
+        "version": 2,
+        "group": "089",
+        "division": "08",
+        "section": "B",
+        "name": "Other mining and quarrying n.e.c."
+    },
+    {
+        "code": "0910",
+        "rawCode": "09.10",
+        "version": 2,
+        "group": "091",
+        "division": "09",
+        "section": "B",
+        "name": "Support activities for petroleum and natural gas extraction"
+    },
+    {
+        "code": "0990",
+        "rawCode": "09.90",
+        "version": 2,
+        "group": "099",
+        "division": "09",
+        "section": "B",
+        "name": "Support activities for other mining and quarrying"
+    },
+    {
+        "code": "1011",
+        "rawCode": "10.11",
+        "version": 2,
+        "group": "101",
+        "division": "10",
+        "section": "C",
+        "name": "Processing and preserving of meat"
+    },
+    {
+        "code": "1012",
+        "rawCode": "10.12",
+        "version": 2,
+        "group": "101",
+        "division": "10",
+        "section": "C",
+        "name": "Processing and preserving of poultry meat"
+    },
+    {
+        "code": "1013",
+        "rawCode": "10.13",
+        "version": 2,
+        "group": "101",
+        "division": "10",
+        "section": "C",
+        "name": "Production of meat and poultry meat products"
+    },
+    {
+        "code": "1020",
+        "rawCode": "10.20",
+        "version": 2,
+        "group": "102",
+        "division": "10",
+        "section": "C",
+        "name": "Processing and preserving of fish, crustaceans and molluscs"
+    },
+    {
+        "code": "1031",
+        "rawCode": "10.31",
+        "version": 2,
+        "group": "103",
+        "division": "10",
+        "section": "C",
+        "name": "Processing and preserving of potatoes"
+    },
+    {
+        "code": "1032",
+        "rawCode": "10.32",
+        "version": 2,
+        "group": "103",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of fruit and vegetable juice"
+    },
+    {
+        "code": "1039",
+        "rawCode": "10.39",
+        "version": 2,
+        "group": "103",
+        "division": "10",
+        "section": "C",
+        "name": "Other processing and preserving of fruit and vegetables"
+    },
+    {
+        "code": "1041",
+        "rawCode": "10.41",
+        "version": 2,
+        "group": "104",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of oils and fats"
+    },
+    {
+        "code": "1042",
+        "rawCode": "10.42",
+        "version": 2,
+        "group": "104",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of margarine and similar edible fats"
+    },
+    {
+        "code": "1051",
+        "rawCode": "10.51",
+        "version": 2,
+        "group": "105",
+        "division": "10",
+        "section": "C",
+        "name": "Operation of dairies and cheese making"
+    },
+    {
+        "code": "1052",
+        "rawCode": "10.52",
+        "version": 2,
+        "group": "105",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of ice cream"
+    },
+    {
+        "code": "1061",
+        "rawCode": "10.61",
+        "version": 2,
+        "group": "106",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of grain mill products"
+    },
+    {
+        "code": "1062",
+        "rawCode": "10.62",
+        "version": 2,
+        "group": "106",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of starches and starch products"
+    },
+    {
+        "code": "1071",
+        "rawCode": "10.71",
+        "version": 2,
+        "group": "107",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of bread; manufacture of fresh pastry goods and cakes"
+    },
+    {
+        "code": "1072",
+        "rawCode": "10.72",
+        "version": 2,
+        "group": "107",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes"
+    },
+    {
+        "code": "1073",
+        "rawCode": "10.73",
+        "version": 2,
+        "group": "107",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of macaroni, noodles, couscous and similar farinaceous products"
+    },
+    {
+        "code": "1081",
+        "rawCode": "10.81",
+        "version": 2,
+        "group": "108",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of sugar"
+    },
+    {
+        "code": "1082",
+        "rawCode": "10.82",
+        "version": 2,
+        "group": "108",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of cocoa, chocolate and sugar confectionery"
+    },
+    {
+        "code": "1083",
+        "rawCode": "10.83",
+        "version": 2,
+        "group": "108",
+        "division": "10",
+        "section": "C",
+        "name": "Processing of tea and coffee"
+    },
+    {
+        "code": "1084",
+        "rawCode": "10.84",
+        "version": 2,
+        "group": "108",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of condiments and seasonings"
+    },
+    {
+        "code": "1085",
+        "rawCode": "10.85",
+        "version": 2,
+        "group": "108",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of prepared meals and dishes"
+    },
+    {
+        "code": "1086",
+        "rawCode": "10.86",
+        "version": 2,
+        "group": "108",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of homogenised food preparations and dietetic food"
+    },
+    {
+        "code": "1089",
+        "rawCode": "10.89",
+        "version": 2,
+        "group": "108",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of other food products n.e.c."
+    },
+    {
+        "code": "1091",
+        "rawCode": "10.91",
+        "version": 2,
+        "group": "109",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of prepared feeds for farm animals"
+    },
+    {
+        "code": "1092",
+        "rawCode": "10.92",
+        "version": 2,
+        "group": "109",
+        "division": "10",
+        "section": "C",
+        "name": "Manufacture of prepared pet foods"
+    },
+    {
+        "code": "1101",
+        "rawCode": "11.01",
+        "version": 2,
+        "group": "110",
+        "division": "11",
+        "section": "C",
+        "name": "Distilling, rectifying and blending of spirits"
+    },
+    {
+        "code": "1102",
+        "rawCode": "11.02",
+        "version": 2,
+        "group": "110",
+        "division": "11",
+        "section": "C",
+        "name": "Manufacture of wine from grape"
+    },
+    {
+        "code": "1103",
+        "rawCode": "11.03",
+        "version": 2,
+        "group": "110",
+        "division": "11",
+        "section": "C",
+        "name": "Manufacture of cider and other fruit wines"
+    },
+    {
+        "code": "1104",
+        "rawCode": "11.04",
+        "version": 2,
+        "group": "110",
+        "division": "11",
+        "section": "C",
+        "name": "Manufacture of other non-distilled fermented beverages"
+    },
+    {
+        "code": "1105",
+        "rawCode": "11.05",
+        "version": 2,
+        "group": "110",
+        "division": "11",
+        "section": "C",
+        "name": "Manufacture of beer"
+    },
+    {
+        "code": "1106",
+        "rawCode": "11.06",
+        "version": 2,
+        "group": "110",
+        "division": "11",
+        "section": "C",
+        "name": "Manufacture of malt"
+    },
+    {
+        "code": "1107",
+        "rawCode": "11.07",
+        "version": 2,
+        "group": "110",
+        "division": "11",
+        "section": "C",
+        "name": "Manufacture of soft drinks; production of mineral waters and other bottled waters"
+    },
+    {
+        "code": "1200",
+        "rawCode": "12.00",
+        "version": 2,
+        "group": "120",
+        "division": "12",
+        "section": "C",
+        "name": "Manufacture of tobacco products"
+    },
+    {
+        "code": "1310",
+        "rawCode": "13.10",
+        "version": 2,
+        "group": "131",
+        "division": "13",
+        "section": "C",
+        "name": "Preparation and spinning of textile fibres"
+    },
+    {
+        "code": "1320",
+        "rawCode": "13.20",
+        "version": 2,
+        "group": "132",
+        "division": "13",
+        "section": "C",
+        "name": "Weaving of textiles"
+    },
+    {
+        "code": "1330",
+        "rawCode": "13.30",
+        "version": 2,
+        "group": "133",
+        "division": "13",
+        "section": "C",
+        "name": "Finishing of textiles"
+    },
+    {
+        "code": "1391",
+        "rawCode": "13.91",
+        "version": 2,
+        "group": "139",
+        "division": "13",
+        "section": "C",
+        "name": "Manufacture of knitted and crocheted fabrics"
+    },
+    {
+        "code": "1392",
+        "rawCode": "13.92",
+        "version": 2,
+        "group": "139",
+        "division": "13",
+        "section": "C",
+        "name": "Manufacture of made-up textile articles, except apparel"
+    },
+    {
+        "code": "1393",
+        "rawCode": "13.93",
+        "version": 2,
+        "group": "139",
+        "division": "13",
+        "section": "C",
+        "name": "Manufacture of carpets and rugs"
+    },
+    {
+        "code": "1394",
+        "rawCode": "13.94",
+        "version": 2,
+        "group": "139",
+        "division": "13",
+        "section": "C",
+        "name": "Manufacture of cordage, rope, twine and netting"
+    },
+    {
+        "code": "1395",
+        "rawCode": "13.95",
+        "version": 2,
+        "group": "139",
+        "division": "13",
+        "section": "C",
+        "name": "Manufacture of non-wovens and articles made from non-wovens, except apparel"
+    },
+    {
+        "code": "1396",
+        "rawCode": "13.96",
+        "version": 2,
+        "group": "139",
+        "division": "13",
+        "section": "C",
+        "name": "Manufacture of other technical and industrial textiles"
+    },
+    {
+        "code": "1399",
+        "rawCode": "13.99",
+        "version": 2,
+        "group": "139",
+        "division": "13",
+        "section": "C",
+        "name": "Manufacture of other textiles n.e.c."
+    },
+    {
+        "code": "1411",
+        "rawCode": "14.11",
+        "version": 2,
+        "group": "141",
+        "division": "14",
+        "section": "C",
+        "name": "Manufacture of leather clothes"
+    },
+    {
+        "code": "1412",
+        "rawCode": "14.12",
+        "version": 2,
+        "group": "141",
+        "division": "14",
+        "section": "C",
+        "name": "Manufacture of workwear"
+    },
+    {
+        "code": "1413",
+        "rawCode": "14.13",
+        "version": 2,
+        "group": "141",
+        "division": "14",
+        "section": "C",
+        "name": "Manufacture of other outerwear"
+    },
+    {
+        "code": "1414",
+        "rawCode": "14.14",
+        "version": 2,
+        "group": "141",
+        "division": "14",
+        "section": "C",
+        "name": "Manufacture of underwear"
+    },
+    {
+        "code": "1419",
+        "rawCode": "14.19",
+        "version": 2,
+        "group": "141",
+        "division": "14",
+        "section": "C",
+        "name": "Manufacture of other wearing apparel and accessories"
+    },
+    {
+        "code": "1420",
+        "rawCode": "14.20",
+        "version": 2,
+        "group": "142",
+        "division": "14",
+        "section": "C",
+        "name": "Manufacture of articles of fur"
+    },
+    {
+        "code": "1431",
+        "rawCode": "14.31",
+        "version": 2,
+        "group": "143",
+        "division": "14",
+        "section": "C",
+        "name": "Manufacture of knitted and crocheted hosiery"
+    },
+    {
+        "code": "1439",
+        "rawCode": "14.39",
+        "version": 2,
+        "group": "143",
+        "division": "14",
+        "section": "C",
+        "name": "Manufacture of other knitted and crocheted apparel"
+    },
+    {
+        "code": "1511",
+        "rawCode": "15.11",
+        "version": 2,
+        "group": "151",
+        "division": "15",
+        "section": "C",
+        "name": "Tanning and dressing of leather; dressing and dyeing of fur"
+    },
+    {
+        "code": "1512",
+        "rawCode": "15.12",
+        "version": 2,
+        "group": "151",
+        "division": "15",
+        "section": "C",
+        "name": "Manufacture of luggage, handbags and the like, saddlery and harness"
+    },
+    {
+        "code": "1520",
+        "rawCode": "15.20",
+        "version": 2,
+        "group": "152",
+        "division": "15",
+        "section": "C",
+        "name": "Manufacture of footwear"
+    },
+    {
+        "code": "1610",
+        "rawCode": "16.10",
+        "version": 2,
+        "group": "161",
+        "division": "16",
+        "section": "C",
+        "name": "Sawmilling and planing of wood"
+    },
+    {
+        "code": "1621",
+        "rawCode": "16.21",
+        "version": 2,
+        "group": "162",
+        "division": "16",
+        "section": "C",
+        "name": "Manufacture of veneer sheets and wood-based panels"
+    },
+    {
+        "code": "1622",
+        "rawCode": "16.22",
+        "version": 2,
+        "group": "162",
+        "division": "16",
+        "section": "C",
+        "name": "Manufacture of assembled parquet floors"
+    },
+    {
+        "code": "1623",
+        "rawCode": "16.23",
+        "version": 2,
+        "group": "162",
+        "division": "16",
+        "section": "C",
+        "name": "Manufacture of other builders' carpentry and joinery"
+    },
+    {
+        "code": "1624",
+        "rawCode": "16.24",
+        "version": 2,
+        "group": "162",
+        "division": "16",
+        "section": "C",
+        "name": "Manufacture of wooden containers"
+    },
+    {
+        "code": "1629",
+        "rawCode": "16.29",
+        "version": 2,
+        "group": "162",
+        "division": "16",
+        "section": "C",
+        "name": "Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials"
+    },
+    {
+        "code": "1711",
+        "rawCode": "17.11",
+        "version": 2,
+        "group": "171",
+        "division": "17",
+        "section": "C",
+        "name": "Manufacture of pulp"
+    },
+    {
+        "code": "1712",
+        "rawCode": "17.12",
+        "version": 2,
+        "group": "171",
+        "division": "17",
+        "section": "C",
+        "name": "Manufacture of paper and paperboard"
+    },
+    {
+        "code": "1721",
+        "rawCode": "17.21",
+        "version": 2,
+        "group": "172",
+        "division": "17",
+        "section": "C",
+        "name": "Manufacture of corrugated paper and paperboard and of containers of paper and paperboard"
+    },
+    {
+        "code": "1722",
+        "rawCode": "17.22",
+        "version": 2,
+        "group": "172",
+        "division": "17",
+        "section": "C",
+        "name": "Manufacture of household and sanitary goods and of toilet requisites"
+    },
+    {
+        "code": "1723",
+        "rawCode": "17.23",
+        "version": 2,
+        "group": "172",
+        "division": "17",
+        "section": "C",
+        "name": "Manufacture of paper stationery"
+    },
+    {
+        "code": "1724",
+        "rawCode": "17.24",
+        "version": 2,
+        "group": "172",
+        "division": "17",
+        "section": "C",
+        "name": "Manufacture of wallpaper"
+    },
+    {
+        "code": "1729",
+        "rawCode": "17.29",
+        "version": 2,
+        "group": "172",
+        "division": "17",
+        "section": "C",
+        "name": "Manufacture of other articles of paper and paperboard"
+    },
+    {
+        "code": "1811",
+        "rawCode": "18.11",
+        "version": 2,
+        "group": "181",
+        "division": "18",
+        "section": "C",
+        "name": "Printing of newspapers"
+    },
+    {
+        "code": "1812",
+        "rawCode": "18.12",
+        "version": 2,
+        "group": "181",
+        "division": "18",
+        "section": "C",
+        "name": "Other printing"
+    },
+    {
+        "code": "1813",
+        "rawCode": "18.13",
+        "version": 2,
+        "group": "181",
+        "division": "18",
+        "section": "C",
+        "name": "Pre-press and pre-media services"
+    },
+    {
+        "code": "1814",
+        "rawCode": "18.14",
+        "version": 2,
+        "group": "181",
+        "division": "18",
+        "section": "C",
+        "name": "Binding and related services"
+    },
+    {
+        "code": "1820",
+        "rawCode": "18.20",
+        "version": 2,
+        "group": "182",
+        "division": "18",
+        "section": "C",
+        "name": "Reproduction of recorded media"
+    },
+    {
+        "code": "1910",
+        "rawCode": "19.10",
+        "version": 2,
+        "group": "191",
+        "division": "19",
+        "section": "C",
+        "name": "Manufacture of coke oven products"
+    },
+    {
+        "code": "1920",
+        "rawCode": "19.20",
+        "version": 2,
+        "group": "192",
+        "division": "19",
+        "section": "C",
+        "name": "Manufacture of refined petroleum products"
+    },
+    {
+        "code": "2011",
+        "rawCode": "20.11",
+        "version": 2,
+        "group": "201",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of industrial gases"
+    },
+    {
+        "code": "2012",
+        "rawCode": "20.12",
+        "version": 2,
+        "group": "201",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of dyes and pigments"
+    },
+    {
+        "code": "2013",
+        "rawCode": "20.13",
+        "version": 2,
+        "group": "201",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of other inorganic basic chemicals"
+    },
+    {
+        "code": "2014",
+        "rawCode": "20.14",
+        "version": 2,
+        "group": "201",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of other organic basic chemicals"
+    },
+    {
+        "code": "2015",
+        "rawCode": "20.15",
+        "version": 2,
+        "group": "201",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of fertilisers and nitrogen compounds"
+    },
+    {
+        "code": "2016",
+        "rawCode": "20.16",
+        "version": 2,
+        "group": "201",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of plastics in primary forms"
+    },
+    {
+        "code": "2017",
+        "rawCode": "20.17",
+        "version": 2,
+        "group": "201",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of synthetic rubber in primary forms"
+    },
+    {
+        "code": "2020",
+        "rawCode": "20.20",
+        "version": 2,
+        "group": "202",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of pesticides and other agrochemical products"
+    },
+    {
+        "code": "2030",
+        "rawCode": "20.30",
+        "version": 2,
+        "group": "203",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of paints, varnishes and similar coatings, printing ink and mastics"
+    },
+    {
+        "code": "2041",
+        "rawCode": "20.41",
+        "version": 2,
+        "group": "204",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of soap and detergents, cleaning and polishing preparations"
+    },
+    {
+        "code": "2042",
+        "rawCode": "20.42",
+        "version": 2,
+        "group": "204",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of perfumes and toilet preparations"
+    },
+    {
+        "code": "2051",
+        "rawCode": "20.51",
+        "version": 2,
+        "group": "205",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of explosives"
+    },
+    {
+        "code": "2052",
+        "rawCode": "20.52",
+        "version": 2,
+        "group": "205",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of glues"
+    },
+    {
+        "code": "2053",
+        "rawCode": "20.53",
+        "version": 2,
+        "group": "205",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of essential oils"
+    },
+    {
+        "code": "2059",
+        "rawCode": "20.59",
+        "version": 2,
+        "group": "205",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of other chemical products n.e.c."
+    },
+    {
+        "code": "2060",
+        "rawCode": "20.60",
+        "version": 2,
+        "group": "206",
+        "division": "20",
+        "section": "C",
+        "name": "Manufacture of man-made fibres"
+    },
+    {
+        "code": "2110",
+        "rawCode": "21.10",
+        "version": 2,
+        "group": "211",
+        "division": "21",
+        "section": "C",
+        "name": "Manufacture of basic pharmaceutical products"
+    },
+    {
+        "code": "2120",
+        "rawCode": "21.20",
+        "version": 2,
+        "group": "212",
+        "division": "21",
+        "section": "C",
+        "name": "Manufacture of pharmaceutical preparations"
+    },
+    {
+        "code": "2211",
+        "rawCode": "22.11",
+        "version": 2,
+        "group": "221",
+        "division": "22",
+        "section": "C",
+        "name": "Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres"
+    },
+    {
+        "code": "2219",
+        "rawCode": "22.19",
+        "version": 2,
+        "group": "221",
+        "division": "22",
+        "section": "C",
+        "name": "Manufacture of other rubber products"
+    },
+    {
+        "code": "2221",
+        "rawCode": "22.21",
+        "version": 2,
+        "group": "222",
+        "division": "22",
+        "section": "C",
+        "name": "Manufacture of plastic plates, sheets, tubes and profiles"
+    },
+    {
+        "code": "2222",
+        "rawCode": "22.22",
+        "version": 2,
+        "group": "222",
+        "division": "22",
+        "section": "C",
+        "name": "Manufacture of plastic packing goods"
+    },
+    {
+        "code": "2223",
+        "rawCode": "22.23",
+        "version": 2,
+        "group": "222",
+        "division": "22",
+        "section": "C",
+        "name": "Manufacture of builders' ware of plastic"
+    },
+    {
+        "code": "2229",
+        "rawCode": "22.29",
+        "version": 2,
+        "group": "222",
+        "division": "22",
+        "section": "C",
+        "name": "Manufacture of other plastic products"
+    },
+    {
+        "code": "2311",
+        "rawCode": "23.11",
+        "version": 2,
+        "group": "231",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of flat glass"
+    },
+    {
+        "code": "2312",
+        "rawCode": "23.12",
+        "version": 2,
+        "group": "231",
+        "division": "23",
+        "section": "C",
+        "name": "Shaping and processing of flat glass"
+    },
+    {
+        "code": "2313",
+        "rawCode": "23.13",
+        "version": 2,
+        "group": "231",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of hollow glass"
+    },
+    {
+        "code": "2314",
+        "rawCode": "23.14",
+        "version": 2,
+        "group": "231",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of glass fibres"
+    },
+    {
+        "code": "2319",
+        "rawCode": "23.19",
+        "version": 2,
+        "group": "231",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture and processing of other glass, including technical glassware"
+    },
+    {
+        "code": "2320",
+        "rawCode": "23.20",
+        "version": 2,
+        "group": "232",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of refractory products"
+    },
+    {
+        "code": "2331",
+        "rawCode": "23.31",
+        "version": 2,
+        "group": "233",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of ceramic tiles and flags"
+    },
+    {
+        "code": "2332",
+        "rawCode": "23.32",
+        "version": 2,
+        "group": "233",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of bricks, tiles and construction products, in baked clay"
+    },
+    {
+        "code": "2341",
+        "rawCode": "23.41",
+        "version": 2,
+        "group": "234",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of ceramic household and ornamental articles"
+    },
+    {
+        "code": "2342",
+        "rawCode": "23.42",
+        "version": 2,
+        "group": "234",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of ceramic sanitary fixtures"
+    },
+    {
+        "code": "2343",
+        "rawCode": "23.43",
+        "version": 2,
+        "group": "234",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of ceramic insulators and insulating fittings"
+    },
+    {
+        "code": "2344",
+        "rawCode": "23.44",
+        "version": 2,
+        "group": "234",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of other technical ceramic products"
+    },
+    {
+        "code": "2349",
+        "rawCode": "23.49",
+        "version": 2,
+        "group": "234",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of other ceramic products"
+    },
+    {
+        "code": "2351",
+        "rawCode": "23.51",
+        "version": 2,
+        "group": "235",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of cement"
+    },
+    {
+        "code": "2352",
+        "rawCode": "23.52",
+        "version": 2,
+        "group": "235",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of lime and plaster"
+    },
+    {
+        "code": "2361",
+        "rawCode": "23.61",
+        "version": 2,
+        "group": "236",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of concrete products for construction purposes"
+    },
+    {
+        "code": "2362",
+        "rawCode": "23.62",
+        "version": 2,
+        "group": "236",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of plaster products for construction purposes"
+    },
+    {
+        "code": "2363",
+        "rawCode": "23.63",
+        "version": 2,
+        "group": "236",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of ready-mixed concrete"
+    },
+    {
+        "code": "2364",
+        "rawCode": "23.64",
+        "version": 2,
+        "group": "236",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of mortars"
+    },
+    {
+        "code": "2365",
+        "rawCode": "23.65",
+        "version": 2,
+        "group": "236",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of fibre cement"
+    },
+    {
+        "code": "2369",
+        "rawCode": "23.69",
+        "version": 2,
+        "group": "236",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of other articles of concrete, plaster and cement"
+    },
+    {
+        "code": "2370",
+        "rawCode": "23.70",
+        "version": 2,
+        "group": "237",
+        "division": "23",
+        "section": "C",
+        "name": "Cutting, shaping and finishing of stone"
+    },
+    {
+        "code": "2391",
+        "rawCode": "23.91",
+        "version": 2,
+        "group": "239",
+        "division": "23",
+        "section": "C",
+        "name": "Production of abrasive products"
+    },
+    {
+        "code": "2399",
+        "rawCode": "23.99",
+        "version": 2,
+        "group": "239",
+        "division": "23",
+        "section": "C",
+        "name": "Manufacture of other non-metallic mineral products n.e.c."
+    },
+    {
+        "code": "2410",
+        "rawCode": "24.10",
+        "version": 2,
+        "group": "241",
+        "division": "24",
+        "section": "C",
+        "name": "Manufacture of basic iron and steel and of ferro-alloys"
+    },
+    {
+        "code": "2420",
+        "rawCode": "24.20",
+        "version": 2,
+        "group": "242",
+        "division": "24",
+        "section": "C",
+        "name": "Manufacture of tubes, pipes, hollow profiles and related fittings, of steel"
+    },
+    {
+        "code": "2431",
+        "rawCode": "24.31",
+        "version": 2,
+        "group": "243",
+        "division": "24",
+        "section": "C",
+        "name": "Cold drawing of bars"
+    },
+    {
+        "code": "2432",
+        "rawCode": "24.32",
+        "version": 2,
+        "group": "243",
+        "division": "24",
+        "section": "C",
+        "name": "Cold rolling of narrow strip"
+    },
+    {
+        "code": "2433",
+        "rawCode": "24.33",
+        "version": 2,
+        "group": "243",
+        "division": "24",
+        "section": "C",
+        "name": "Cold forming or folding"
+    },
+    {
+        "code": "2434",
+        "rawCode": "24.34",
+        "version": 2,
+        "group": "243",
+        "division": "24",
+        "section": "C",
+        "name": "Cold drawing of wire"
+    },
+    {
+        "code": "2441",
+        "rawCode": "24.41",
+        "version": 2,
+        "group": "244",
+        "division": "24",
+        "section": "C",
+        "name": "Precious metals production"
+    },
+    {
+        "code": "2442",
+        "rawCode": "24.42",
+        "version": 2,
+        "group": "244",
+        "division": "24",
+        "section": "C",
+        "name": "Aluminium production"
+    },
+    {
+        "code": "2443",
+        "rawCode": "24.43",
+        "version": 2,
+        "group": "244",
+        "division": "24",
+        "section": "C",
+        "name": "Lead, zinc and tin production"
+    },
+    {
+        "code": "2444",
+        "rawCode": "24.44",
+        "version": 2,
+        "group": "244",
+        "division": "24",
+        "section": "C",
+        "name": "Copper production"
+    },
+    {
+        "code": "2445",
+        "rawCode": "24.45",
+        "version": 2,
+        "group": "244",
+        "division": "24",
+        "section": "C",
+        "name": "Other non-ferrous metal production"
+    },
+    {
+        "code": "2446",
+        "rawCode": "24.46",
+        "version": 2,
+        "group": "244",
+        "division": "24",
+        "section": "C",
+        "name": "Processing of nuclear fuel"
+    },
+    {
+        "code": "2451",
+        "rawCode": "24.51",
+        "version": 2,
+        "group": "245",
+        "division": "24",
+        "section": "C",
+        "name": "Casting of iron"
+    },
+    {
+        "code": "2452",
+        "rawCode": "24.52",
+        "version": 2,
+        "group": "245",
+        "division": "24",
+        "section": "C",
+        "name": "Casting of steel"
+    },
+    {
+        "code": "2453",
+        "rawCode": "24.53",
+        "version": 2,
+        "group": "245",
+        "division": "24",
+        "section": "C",
+        "name": "Casting of light metals"
+    },
+    {
+        "code": "2454",
+        "rawCode": "24.54",
+        "version": 2,
+        "group": "245",
+        "division": "24",
+        "section": "C",
+        "name": "Casting of other non-ferrous metals"
+    },
+    {
+        "code": "2511",
+        "rawCode": "25.11",
+        "version": 2,
+        "group": "251",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of metal structures and parts of structures"
+    },
+    {
+        "code": "2512",
+        "rawCode": "25.12",
+        "version": 2,
+        "group": "251",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of doors and windows of metal"
+    },
+    {
+        "code": "2521",
+        "rawCode": "25.21",
+        "version": 2,
+        "group": "252",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of central heating radiators and boilers"
+    },
+    {
+        "code": "2529",
+        "rawCode": "25.29",
+        "version": 2,
+        "group": "252",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of other tanks, reservoirs and containers of metal"
+    },
+    {
+        "code": "2530",
+        "rawCode": "25.30",
+        "version": 2,
+        "group": "253",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of steam generators, except central heating hot water boilers"
+    },
+    {
+        "code": "2540",
+        "rawCode": "25.40",
+        "version": 2,
+        "group": "254",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of weapons and ammunition"
+    },
+    {
+        "code": "2550",
+        "rawCode": "25.50",
+        "version": 2,
+        "group": "255",
+        "division": "25",
+        "section": "C",
+        "name": "Forging, pressing, stamping and roll-forming of metal; powder metallurgy"
+    },
+    {
+        "code": "2561",
+        "rawCode": "25.61",
+        "version": 2,
+        "group": "256",
+        "division": "25",
+        "section": "C",
+        "name": "Treatment and coating of metals"
+    },
+    {
+        "code": "2562",
+        "rawCode": "25.62",
+        "version": 2,
+        "group": "256",
+        "division": "25",
+        "section": "C",
+        "name": "Machining"
+    },
+    {
+        "code": "2571",
+        "rawCode": "25.71",
+        "version": 2,
+        "group": "257",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of cutlery"
+    },
+    {
+        "code": "2572",
+        "rawCode": "25.72",
+        "version": 2,
+        "group": "257",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of locks and hinges"
+    },
+    {
+        "code": "2573",
+        "rawCode": "25.73",
+        "version": 2,
+        "group": "257",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of tools"
+    },
+    {
+        "code": "2591",
+        "rawCode": "25.91",
+        "version": 2,
+        "group": "259",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of steel drums and similar containers"
+    },
+    {
+        "code": "2592",
+        "rawCode": "25.92",
+        "version": 2,
+        "group": "259",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of light metal packaging"
+    },
+    {
+        "code": "2593",
+        "rawCode": "25.93",
+        "version": 2,
+        "group": "259",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of wire products, chain and springs"
+    },
+    {
+        "code": "2594",
+        "rawCode": "25.94",
+        "version": 2,
+        "group": "259",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of fasteners and screw machine products"
+    },
+    {
+        "code": "2599",
+        "rawCode": "25.99",
+        "version": 2,
+        "group": "259",
+        "division": "25",
+        "section": "C",
+        "name": "Manufacture of other fabricated metal products n.e.c."
+    },
+    {
+        "code": "2611",
+        "rawCode": "26.11",
+        "version": 2,
+        "group": "261",
+        "division": "26",
+        "section": "C",
+        "name": "Manufacture of electronic components"
+    },
+    {
+        "code": "2612",
+        "rawCode": "26.12",
+        "version": 2,
+        "group": "261",
+        "division": "26",
+        "section": "C",
+        "name": "Manufacture of loaded electronic boards"
+    },
+    {
+        "code": "2620",
+        "rawCode": "26.20",
+        "version": 2,
+        "group": "262",
+        "division": "26",
+        "section": "C",
+        "name": "Manufacture of computers and peripheral equipment"
+    },
+    {
+        "code": "2630",
+        "rawCode": "26.30",
+        "version": 2,
+        "group": "263",
+        "division": "26",
+        "section": "C",
+        "name": "Manufacture of communication equipment"
+    },
+    {
+        "code": "2640",
+        "rawCode": "26.40",
+        "version": 2,
+        "group": "264",
+        "division": "26",
+        "section": "C",
+        "name": "Manufacture of consumer electronics"
+    },
+    {
+        "code": "2651",
+        "rawCode": "26.51",
+        "version": 2,
+        "group": "265",
+        "division": "26",
+        "section": "C",
+        "name": "Manufacture of instruments and appliances for measuring, testing and navigation"
+    },
+    {
+        "code": "2652",
+        "rawCode": "26.52",
+        "version": 2,
+        "group": "265",
+        "division": "26",
+        "section": "C",
+        "name": "Manufacture of watches and clocks"
+    },
+    {
+        "code": "2660",
+        "rawCode": "26.60",
+        "version": 2,
+        "group": "266",
+        "division": "26",
+        "section": "C",
+        "name": "Manufacture of irradiation, electromedical and electrotherapeutic equipment"
+    },
+    {
+        "code": "2670",
+        "rawCode": "26.70",
+        "version": 2,
+        "group": "267",
+        "division": "26",
+        "section": "C",
+        "name": "Manufacture of optical instruments and photographic equipment"
+    },
+    {
+        "code": "2680",
+        "rawCode": "26.80",
+        "version": 2,
+        "group": "268",
+        "division": "26",
+        "section": "C",
+        "name": "Manufacture of magnetic and optical media"
+    },
+    {
+        "code": "2711",
+        "rawCode": "27.11",
+        "version": 2,
+        "group": "271",
+        "division": "27",
+        "section": "C",
+        "name": "Manufacture of electric motors, generators and transformers"
+    },
+    {
+        "code": "2712",
+        "rawCode": "27.12",
+        "version": 2,
+        "group": "271",
+        "division": "27",
+        "section": "C",
+        "name": "Manufacture of electricity distribution and control apparatus"
+    },
+    {
+        "code": "2720",
+        "rawCode": "27.20",
+        "version": 2,
+        "group": "272",
+        "division": "27",
+        "section": "C",
+        "name": "Manufacture of batteries and accumulators"
+    },
+    {
+        "code": "2731",
+        "rawCode": "27.31",
+        "version": 2,
+        "group": "273",
+        "division": "27",
+        "section": "C",
+        "name": "Manufacture of fibre optic cables"
+    },
+    {
+        "code": "2732",
+        "rawCode": "27.32",
+        "version": 2,
+        "group": "273",
+        "division": "27",
+        "section": "C",
+        "name": "Manufacture of other electronic and electric wires and cables"
+    },
+    {
+        "code": "2733",
+        "rawCode": "27.33",
+        "version": 2,
+        "group": "273",
+        "division": "27",
+        "section": "C",
+        "name": "Manufacture of wiring devices"
+    },
+    {
+        "code": "2740",
+        "rawCode": "27.40",
+        "version": 2,
+        "group": "274",
+        "division": "27",
+        "section": "C",
+        "name": "Manufacture of electric lighting equipment"
+    },
+    {
+        "code": "2751",
+        "rawCode": "27.51",
+        "version": 2,
+        "group": "275",
+        "division": "27",
+        "section": "C",
+        "name": "Manufacture of electric domestic appliances"
+    },
+    {
+        "code": "2752",
+        "rawCode": "27.52",
+        "version": 2,
+        "group": "275",
+        "division": "27",
+        "section": "C",
+        "name": "Manufacture of non-electric domestic appliances"
+    },
+    {
+        "code": "2790",
+        "rawCode": "27.90",
+        "version": 2,
+        "group": "279",
+        "division": "27",
+        "section": "C",
+        "name": "Manufacture of other electrical equipment"
+    },
+    {
+        "code": "2811",
+        "rawCode": "28.11",
+        "version": 2,
+        "group": "281",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of engines and turbines, except aircraft, vehicle and cycle engines"
+    },
+    {
+        "code": "2812",
+        "rawCode": "28.12",
+        "version": 2,
+        "group": "281",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of fluid power equipment"
+    },
+    {
+        "code": "2813",
+        "rawCode": "28.13",
+        "version": 2,
+        "group": "281",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of other pumps and compressors"
+    },
+    {
+        "code": "2814",
+        "rawCode": "28.14",
+        "version": 2,
+        "group": "281",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of other taps and valves"
+    },
+    {
+        "code": "2815",
+        "rawCode": "28.15",
+        "version": 2,
+        "group": "281",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of bearings, gears, gearing and driving elements"
+    },
+    {
+        "code": "2821",
+        "rawCode": "28.21",
+        "version": 2,
+        "group": "282",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of ovens, furnaces and furnace burners"
+    },
+    {
+        "code": "2822",
+        "rawCode": "28.22",
+        "version": 2,
+        "group": "282",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of lifting and handling equipment"
+    },
+    {
+        "code": "2823",
+        "rawCode": "28.23",
+        "version": 2,
+        "group": "282",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of office machinery and equipment (except computers and peripheral equipment)"
+    },
+    {
+        "code": "2824",
+        "rawCode": "28.24",
+        "version": 2,
+        "group": "282",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of power-driven hand tools"
+    },
+    {
+        "code": "2825",
+        "rawCode": "28.25",
+        "version": 2,
+        "group": "282",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of non-domestic cooling and ventilation equipment"
+    },
+    {
+        "code": "2829",
+        "rawCode": "28.29",
+        "version": 2,
+        "group": "282",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of other general-purpose machinery n.e.c."
+    },
+    {
+        "code": "2830",
+        "rawCode": "28.30",
+        "version": 2,
+        "group": "283",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of agricultural and forestry machinery"
+    },
+    {
+        "code": "2841",
+        "rawCode": "28.41",
+        "version": 2,
+        "group": "284",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of metal forming machinery"
+    },
+    {
+        "code": "2849",
+        "rawCode": "28.49",
+        "version": 2,
+        "group": "284",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of other machine tools"
+    },
+    {
+        "code": "2891",
+        "rawCode": "28.91",
+        "version": 2,
+        "group": "289",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of machinery for metallurgy"
+    },
+    {
+        "code": "2892",
+        "rawCode": "28.92",
+        "version": 2,
+        "group": "289",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of machinery for mining, quarrying and construction"
+    },
+    {
+        "code": "2893",
+        "rawCode": "28.93",
+        "version": 2,
+        "group": "289",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of machinery for food, beverage and tobacco processing"
+    },
+    {
+        "code": "2894",
+        "rawCode": "28.94",
+        "version": 2,
+        "group": "289",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of machinery for textile, apparel and leather production"
+    },
+    {
+        "code": "2895",
+        "rawCode": "28.95",
+        "version": 2,
+        "group": "289",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of machinery for paper and paperboard production"
+    },
+    {
+        "code": "2896",
+        "rawCode": "28.96",
+        "version": 2,
+        "group": "289",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of plastic and rubber machinery"
+    },
+    {
+        "code": "2899",
+        "rawCode": "28.99",
+        "version": 2,
+        "group": "289",
+        "division": "28",
+        "section": "C",
+        "name": "Manufacture of other special-purpose machinery n.e.c."
+    },
+    {
+        "code": "2910",
+        "rawCode": "29.10",
+        "version": 2,
+        "group": "291",
+        "division": "29",
+        "section": "C",
+        "name": "Manufacture of motor vehicles"
+    },
+    {
+        "code": "2920",
+        "rawCode": "29.20",
+        "version": 2,
+        "group": "292",
+        "division": "29",
+        "section": "C",
+        "name": "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers"
+    },
+    {
+        "code": "2931",
+        "rawCode": "29.31",
+        "version": 2,
+        "group": "293",
+        "division": "29",
+        "section": "C",
+        "name": "Manufacture of electrical and electronic equipment for motor vehicles"
+    },
+    {
+        "code": "2932",
+        "rawCode": "29.32",
+        "version": 2,
+        "group": "293",
+        "division": "29",
+        "section": "C",
+        "name": "Manufacture of other parts and accessories for motor vehicles"
+    },
+    {
+        "code": "3011",
+        "rawCode": "30.11",
+        "version": 2,
+        "group": "301",
+        "division": "30",
+        "section": "C",
+        "name": "Building of ships and floating structures"
+    },
+    {
+        "code": "3012",
+        "rawCode": "30.12",
+        "version": 2,
+        "group": "301",
+        "division": "30",
+        "section": "C",
+        "name": "Building of pleasure and sporting boats"
+    },
+    {
+        "code": "3020",
+        "rawCode": "30.20",
+        "version": 2,
+        "group": "302",
+        "division": "30",
+        "section": "C",
+        "name": "Manufacture of railway locomotives and rolling stock"
+    },
+    {
+        "code": "3030",
+        "rawCode": "30.30",
+        "version": 2,
+        "group": "303",
+        "division": "30",
+        "section": "C",
+        "name": "Manufacture of air and spacecraft and related machinery"
+    },
+    {
+        "code": "3040",
+        "rawCode": "30.40",
+        "version": 2,
+        "group": "304",
+        "division": "30",
+        "section": "C",
+        "name": "Manufacture of military fighting vehicles"
+    },
+    {
+        "code": "3091",
+        "rawCode": "30.91",
+        "version": 2,
+        "group": "309",
+        "division": "30",
+        "section": "C",
+        "name": "Manufacture of motorcycles"
+    },
+    {
+        "code": "3092",
+        "rawCode": "30.92",
+        "version": 2,
+        "group": "309",
+        "division": "30",
+        "section": "C",
+        "name": "Manufacture of bicycles and invalid carriages"
+    },
+    {
+        "code": "3099",
+        "rawCode": "30.99",
+        "version": 2,
+        "group": "309",
+        "division": "30",
+        "section": "C",
+        "name": "Manufacture of other transport equipment n.e.c."
+    },
+    {
+        "code": "3101",
+        "rawCode": "31.01",
+        "version": 2,
+        "group": "310",
+        "division": "31",
+        "section": "C",
+        "name": "Manufacture of office and shop furniture"
+    },
+    {
+        "code": "3102",
+        "rawCode": "31.02",
+        "version": 2,
+        "group": "310",
+        "division": "31",
+        "section": "C",
+        "name": "Manufacture of kitchen furniture"
+    },
+    {
+        "code": "3103",
+        "rawCode": "31.03",
+        "version": 2,
+        "group": "310",
+        "division": "31",
+        "section": "C",
+        "name": "Manufacture of mattresses"
+    },
+    {
+        "code": "3109",
+        "rawCode": "31.09",
+        "version": 2,
+        "group": "310",
+        "division": "31",
+        "section": "C",
+        "name": "Manufacture of other furniture"
+    },
+    {
+        "code": "3211",
+        "rawCode": "32.11",
+        "version": 2,
+        "group": "321",
+        "division": "32",
+        "section": "C",
+        "name": "Striking of coins"
+    },
+    {
+        "code": "3212",
+        "rawCode": "32.12",
+        "version": 2,
+        "group": "321",
+        "division": "32",
+        "section": "C",
+        "name": "Manufacture of jewellery and related articles"
+    },
+    {
+        "code": "3213",
+        "rawCode": "32.13",
+        "version": 2,
+        "group": "321",
+        "division": "32",
+        "section": "C",
+        "name": "Manufacture of imitation jewellery and related articles"
+    },
+    {
+        "code": "3220",
+        "rawCode": "32.20",
+        "version": 2,
+        "group": "322",
+        "division": "32",
+        "section": "C",
+        "name": "Manufacture of musical instruments"
+    },
+    {
+        "code": "3230",
+        "rawCode": "32.30",
+        "version": 2,
+        "group": "323",
+        "division": "32",
+        "section": "C",
+        "name": "Manufacture of sports goods"
+    },
+    {
+        "code": "3240",
+        "rawCode": "32.40",
+        "version": 2,
+        "group": "324",
+        "division": "32",
+        "section": "C",
+        "name": "Manufacture of games and toys"
+    },
+    {
+        "code": "3250",
+        "rawCode": "32.50",
+        "version": 2,
+        "group": "325",
+        "division": "32",
+        "section": "C",
+        "name": "Manufacture of medical and dental instruments and supplies"
+    },
+    {
+        "code": "3291",
+        "rawCode": "32.91",
+        "version": 2,
+        "group": "329",
+        "division": "32",
+        "section": "C",
+        "name": "Manufacture of brooms and brushes"
+    },
+    {
+        "code": "3299",
+        "rawCode": "32.99",
+        "version": 2,
+        "group": "329",
+        "division": "32",
+        "section": "C",
+        "name": "Other manufacturing n.e.c."
+    },
+    {
+        "code": "3311",
+        "rawCode": "33.11",
+        "version": 2,
+        "group": "331",
+        "division": "33",
+        "section": "C",
+        "name": "Repair of fabricated metal products"
+    },
+    {
+        "code": "3312",
+        "rawCode": "33.12",
+        "version": 2,
+        "group": "331",
+        "division": "33",
+        "section": "C",
+        "name": "Repair of machinery"
+    },
+    {
+        "code": "3313",
+        "rawCode": "33.13",
+        "version": 2,
+        "group": "331",
+        "division": "33",
+        "section": "C",
+        "name": "Repair of electronic and optical equipment"
+    },
+    {
+        "code": "3314",
+        "rawCode": "33.14",
+        "version": 2,
+        "group": "331",
+        "division": "33",
+        "section": "C",
+        "name": "Repair of electrical equipment"
+    },
+    {
+        "code": "3315",
+        "rawCode": "33.15",
+        "version": 2,
+        "group": "331",
+        "division": "33",
+        "section": "C",
+        "name": "Repair and maintenance of ships and boats"
+    },
+    {
+        "code": "3316",
+        "rawCode": "33.16",
+        "version": 2,
+        "group": "331",
+        "division": "33",
+        "section": "C",
+        "name": "Repair and maintenance of aircraft and spacecraft"
+    },
+    {
+        "code": "3317",
+        "rawCode": "33.17",
+        "version": 2,
+        "group": "331",
+        "division": "33",
+        "section": "C",
+        "name": "Repair and maintenance of other transport equipment"
+    },
+    {
+        "code": "3319",
+        "rawCode": "33.19",
+        "version": 2,
+        "group": "331",
+        "division": "33",
+        "section": "C",
+        "name": "Repair of other equipment"
+    },
+    {
+        "code": "3320",
+        "rawCode": "33.20",
+        "version": 2,
+        "group": "332",
+        "division": "33",
+        "section": "C",
+        "name": "Installation of industrial machinery and equipment"
+    },
+    {
+        "code": "3511",
+        "rawCode": "35.11",
+        "version": 2,
+        "group": "351",
+        "division": "35",
+        "section": "D",
+        "name": "Production of electricity"
+    },
+    {
+        "code": "3512",
+        "rawCode": "35.12",
+        "version": 2,
+        "group": "351",
+        "division": "35",
+        "section": "D",
+        "name": "Transmission of electricity"
+    },
+    {
+        "code": "3513",
+        "rawCode": "35.13",
+        "version": 2,
+        "group": "351",
+        "division": "35",
+        "section": "D",
+        "name": "Distribution of electricity"
+    },
+    {
+        "code": "3514",
+        "rawCode": "35.14",
+        "version": 2,
+        "group": "351",
+        "division": "35",
+        "section": "D",
+        "name": "Trade of electricity"
+    },
+    {
+        "code": "3521",
+        "rawCode": "35.21",
+        "version": 2,
+        "group": "352",
+        "division": "35",
+        "section": "D",
+        "name": "Manufacture of gas"
+    },
+    {
+        "code": "3522",
+        "rawCode": "35.22",
+        "version": 2,
+        "group": "352",
+        "division": "35",
+        "section": "D",
+        "name": "Distribution of gaseous fuels through mains"
+    },
+    {
+        "code": "3523",
+        "rawCode": "35.23",
+        "version": 2,
+        "group": "352",
+        "division": "35",
+        "section": "D",
+        "name": "Trade of gas through mains"
+    },
+    {
+        "code": "3530",
+        "rawCode": "35.30",
+        "version": 2,
+        "group": "353",
+        "division": "35",
+        "section": "D",
+        "name": "Steam and air conditioning supply"
+    },
+    {
+        "code": "3600",
+        "rawCode": "36.00",
+        "version": 2,
+        "group": "360",
+        "division": "36",
+        "section": "E",
+        "name": "Water collection, treatment and supply"
+    },
+    {
+        "code": "3700",
+        "rawCode": "37.00",
+        "version": 2,
+        "group": "370",
+        "division": "37",
+        "section": "E",
+        "name": "Sewerage"
+    },
+    {
+        "code": "3811",
+        "rawCode": "38.11",
+        "version": 2,
+        "group": "381",
+        "division": "38",
+        "section": "E",
+        "name": "Collection of non-hazardous waste"
+    },
+    {
+        "code": "3812",
+        "rawCode": "38.12",
+        "version": 2,
+        "group": "381",
+        "division": "38",
+        "section": "E",
+        "name": "Collection of hazardous waste"
+    },
+    {
+        "code": "3821",
+        "rawCode": "38.21",
+        "version": 2,
+        "group": "382",
+        "division": "38",
+        "section": "E",
+        "name": "Treatment and disposal of non-hazardous waste"
+    },
+    {
+        "code": "3822",
+        "rawCode": "38.22",
+        "version": 2,
+        "group": "382",
+        "division": "38",
+        "section": "E",
+        "name": "Treatment and disposal of hazardous waste"
+    },
+    {
+        "code": "3831",
+        "rawCode": "38.31",
+        "version": 2,
+        "group": "383",
+        "division": "38",
+        "section": "E",
+        "name": "Dismantling of wrecks"
+    },
+    {
+        "code": "3832",
+        "rawCode": "38.32",
+        "version": 2,
+        "group": "383",
+        "division": "38",
+        "section": "E",
+        "name": "Recovery of sorted materials"
+    },
+    {
+        "code": "3900",
+        "rawCode": "39.00",
+        "version": 2,
+        "group": "390",
+        "division": "39",
+        "section": "E",
+        "name": "Remediation activities and other waste management services"
+    },
+    {
+        "code": "4110",
+        "rawCode": "41.10",
+        "version": 2,
+        "group": "411",
+        "division": "41",
+        "section": "F",
+        "name": "Development of building projects"
+    },
+    {
+        "code": "4120",
+        "rawCode": "41.20",
+        "version": 2,
+        "group": "412",
+        "division": "41",
+        "section": "F",
+        "name": "Construction of residential and non-residential buildings"
+    },
+    {
+        "code": "4211",
+        "rawCode": "42.11",
+        "version": 2,
+        "group": "421",
+        "division": "42",
+        "section": "F",
+        "name": "Construction of roads and motorways"
+    },
+    {
+        "code": "4212",
+        "rawCode": "42.12",
+        "version": 2,
+        "group": "421",
+        "division": "42",
+        "section": "F",
+        "name": "Construction of railways and underground railways"
+    },
+    {
+        "code": "4213",
+        "rawCode": "42.13",
+        "version": 2,
+        "group": "421",
+        "division": "42",
+        "section": "F",
+        "name": "Construction of bridges and tunnels"
+    },
+    {
+        "code": "4221",
+        "rawCode": "42.21",
+        "version": 2,
+        "group": "422",
+        "division": "42",
+        "section": "F",
+        "name": "Construction of utility projects for fluids"
+    },
+    {
+        "code": "4222",
+        "rawCode": "42.22",
+        "version": 2,
+        "group": "422",
+        "division": "42",
+        "section": "F",
+        "name": "Construction of utility projects for electricity and telecommunications"
+    },
+    {
+        "code": "4291",
+        "rawCode": "42.91",
+        "version": 2,
+        "group": "429",
+        "division": "42",
+        "section": "F",
+        "name": "Construction of water projects"
+    },
+    {
+        "code": "4299",
+        "rawCode": "42.99",
+        "version": 2,
+        "group": "429",
+        "division": "42",
+        "section": "F",
+        "name": "Construction of other civil engineering projects n.e.c."
+    },
+    {
+        "code": "4311",
+        "rawCode": "43.11",
+        "version": 2,
+        "group": "431",
+        "division": "43",
+        "section": "F",
+        "name": "Demolition"
+    },
+    {
+        "code": "4312",
+        "rawCode": "43.12",
+        "version": 2,
+        "group": "431",
+        "division": "43",
+        "section": "F",
+        "name": "Site preparation"
+    },
+    {
+        "code": "4313",
+        "rawCode": "43.13",
+        "version": 2,
+        "group": "431",
+        "division": "43",
+        "section": "F",
+        "name": "Test drilling and boring"
+    },
+    {
+        "code": "4321",
+        "rawCode": "43.21",
+        "version": 2,
+        "group": "432",
+        "division": "43",
+        "section": "F",
+        "name": "Electrical installation"
+    },
+    {
+        "code": "4322",
+        "rawCode": "43.22",
+        "version": 2,
+        "group": "432",
+        "division": "43",
+        "section": "F",
+        "name": "Plumbing, heat and air conditioning installation"
+    },
+    {
+        "code": "4329",
+        "rawCode": "43.29",
+        "version": 2,
+        "group": "432",
+        "division": "43",
+        "section": "F",
+        "name": "Other construction installation"
+    },
+    {
+        "code": "4331",
+        "rawCode": "43.31",
+        "version": 2,
+        "group": "433",
+        "division": "43",
+        "section": "F",
+        "name": "Plastering"
+    },
+    {
+        "code": "4332",
+        "rawCode": "43.32",
+        "version": 2,
+        "group": "433",
+        "division": "43",
+        "section": "F",
+        "name": "Joinery installation"
+    },
+    {
+        "code": "4333",
+        "rawCode": "43.33",
+        "version": 2,
+        "group": "433",
+        "division": "43",
+        "section": "F",
+        "name": "Floor and wall covering"
+    },
+    {
+        "code": "4334",
+        "rawCode": "43.34",
+        "version": 2,
+        "group": "433",
+        "division": "43",
+        "section": "F",
+        "name": "Painting and glazing"
+    },
+    {
+        "code": "4339",
+        "rawCode": "43.39",
+        "version": 2,
+        "group": "433",
+        "division": "43",
+        "section": "F",
+        "name": "Other building completion and finishing"
+    },
+    {
+        "code": "4391",
+        "rawCode": "43.91",
+        "version": 2,
+        "group": "439",
+        "division": "43",
+        "section": "F",
+        "name": "Roofing activities"
+    },
+    {
+        "code": "4399",
+        "rawCode": "43.99",
+        "version": 2,
+        "group": "439",
+        "division": "43",
+        "section": "F",
+        "name": "Other specialised construction activities n.e.c."
+    },
+    {
+        "code": "4511",
+        "rawCode": "45.11",
+        "version": 2,
+        "group": "451",
+        "division": "45",
+        "section": "G",
+        "name": "Sale of cars and light motor vehicles"
+    },
+    {
+        "code": "4519",
+        "rawCode": "45.19",
+        "version": 2,
+        "group": "451",
+        "division": "45",
+        "section": "G",
+        "name": "Sale of other motor vehicles"
+    },
+    {
+        "code": "4520",
+        "rawCode": "45.20",
+        "version": 2,
+        "group": "452",
+        "division": "45",
+        "section": "G",
+        "name": "Maintenance and repair of motor vehicles"
+    },
+    {
+        "code": "4531",
+        "rawCode": "45.31",
+        "version": 2,
+        "group": "453",
+        "division": "45",
+        "section": "G",
+        "name": "Wholesale trade of motor vehicle parts and accessories"
+    },
+    {
+        "code": "4532",
+        "rawCode": "45.32",
+        "version": 2,
+        "group": "453",
+        "division": "45",
+        "section": "G",
+        "name": "Retail trade of motor vehicle parts and accessories"
+    },
+    {
+        "code": "4540",
+        "rawCode": "45.40",
+        "version": 2,
+        "group": "454",
+        "division": "45",
+        "section": "G",
+        "name": "Sale, maintenance and repair of motorcycles and related parts and accessories"
+    },
+    {
+        "code": "4611",
+        "rawCode": "46.11",
+        "version": 2,
+        "group": "461",
+        "division": "46",
+        "section": "G",
+        "name": "Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods"
+    },
+    {
+        "code": "4612",
+        "rawCode": "46.12",
+        "version": 2,
+        "group": "461",
+        "division": "46",
+        "section": "G",
+        "name": "Agents involved in the sale of fuels, ores, metals and industrial chemicals"
+    },
+    {
+        "code": "4613",
+        "rawCode": "46.13",
+        "version": 2,
+        "group": "461",
+        "division": "46",
+        "section": "G",
+        "name": "Agents involved in the sale of timber and building materials"
+    },
+    {
+        "code": "4614",
+        "rawCode": "46.14",
+        "version": 2,
+        "group": "461",
+        "division": "46",
+        "section": "G",
+        "name": "Agents involved in the sale of machinery, industrial equipment, ships and aircraft"
+    },
+    {
+        "code": "4615",
+        "rawCode": "46.15",
+        "version": 2,
+        "group": "461",
+        "division": "46",
+        "section": "G",
+        "name": "Agents involved in the sale of furniture, household goods, hardware and ironmongery"
+    },
+    {
+        "code": "4616",
+        "rawCode": "46.16",
+        "version": 2,
+        "group": "461",
+        "division": "46",
+        "section": "G",
+        "name": "Agents involved in the sale of textiles, clothing, fur, footwear and leather goods"
+    },
+    {
+        "code": "4617",
+        "rawCode": "46.17",
+        "version": 2,
+        "group": "461",
+        "division": "46",
+        "section": "G",
+        "name": "Agents involved in the sale of food, beverages and tobacco"
+    },
+    {
+        "code": "4618",
+        "rawCode": "46.18",
+        "version": 2,
+        "group": "461",
+        "division": "46",
+        "section": "G",
+        "name": "Agents specialised in the sale of other particular products"
+    },
+    {
+        "code": "4619",
+        "rawCode": "46.19",
+        "version": 2,
+        "group": "461",
+        "division": "46",
+        "section": "G",
+        "name": "Agents involved in the sale of a variety of goods"
+    },
+    {
+        "code": "4621",
+        "rawCode": "46.21",
+        "version": 2,
+        "group": "462",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of grain, unmanufactured tobacco, seeds and animal feeds"
+    },
+    {
+        "code": "4622",
+        "rawCode": "46.22",
+        "version": 2,
+        "group": "462",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of flowers and plants"
+    },
+    {
+        "code": "4623",
+        "rawCode": "46.23",
+        "version": 2,
+        "group": "462",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of live animals"
+    },
+    {
+        "code": "4624",
+        "rawCode": "46.24",
+        "version": 2,
+        "group": "462",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of hides, skins and leather"
+    },
+    {
+        "code": "4631",
+        "rawCode": "46.31",
+        "version": 2,
+        "group": "463",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of fruit and vegetables"
+    },
+    {
+        "code": "4632",
+        "rawCode": "46.32",
+        "version": 2,
+        "group": "463",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of meat and meat products"
+    },
+    {
+        "code": "4633",
+        "rawCode": "46.33",
+        "version": 2,
+        "group": "463",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of dairy products, eggs and edible oils and fats"
+    },
+    {
+        "code": "4634",
+        "rawCode": "46.34",
+        "version": 2,
+        "group": "463",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of beverages"
+    },
+    {
+        "code": "4635",
+        "rawCode": "46.35",
+        "version": 2,
+        "group": "463",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of tobacco products"
+    },
+    {
+        "code": "4636",
+        "rawCode": "46.36",
+        "version": 2,
+        "group": "463",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of sugar and chocolate and sugar confectionery"
+    },
+    {
+        "code": "4637",
+        "rawCode": "46.37",
+        "version": 2,
+        "group": "463",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of coffee, tea, cocoa and spices"
+    },
+    {
+        "code": "4638",
+        "rawCode": "46.38",
+        "version": 2,
+        "group": "463",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of other food, including fish, crustaceans and molluscs"
+    },
+    {
+        "code": "4639",
+        "rawCode": "46.39",
+        "version": 2,
+        "group": "463",
+        "division": "46",
+        "section": "G",
+        "name": "Non-specialised wholesale of food, beverages and tobacco"
+    },
+    {
+        "code": "4641",
+        "rawCode": "46.41",
+        "version": 2,
+        "group": "464",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of textiles"
+    },
+    {
+        "code": "4642",
+        "rawCode": "46.42",
+        "version": 2,
+        "group": "464",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of clothing and footwear"
+    },
+    {
+        "code": "4643",
+        "rawCode": "46.43",
+        "version": 2,
+        "group": "464",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of electrical household appliances"
+    },
+    {
+        "code": "4644",
+        "rawCode": "46.44",
+        "version": 2,
+        "group": "464",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of china and glassware and cleaning materials"
+    },
+    {
+        "code": "4645",
+        "rawCode": "46.45",
+        "version": 2,
+        "group": "464",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of perfume and cosmetics"
+    },
+    {
+        "code": "4646",
+        "rawCode": "46.46",
+        "version": 2,
+        "group": "464",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of pharmaceutical goods"
+    },
+    {
+        "code": "4647",
+        "rawCode": "46.47",
+        "version": 2,
+        "group": "464",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of furniture, carpets and lighting equipment"
+    },
+    {
+        "code": "4648",
+        "rawCode": "46.48",
+        "version": 2,
+        "group": "464",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of watches and jewellery"
+    },
+    {
+        "code": "4649",
+        "rawCode": "46.49",
+        "version": 2,
+        "group": "464",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of other household goods"
+    },
+    {
+        "code": "4651",
+        "rawCode": "46.51",
+        "version": 2,
+        "group": "465",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of computers, computer peripheral equipment and software"
+    },
+    {
+        "code": "4652",
+        "rawCode": "46.52",
+        "version": 2,
+        "group": "465",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of electronic and telecommunications equipment and parts"
+    },
+    {
+        "code": "4661",
+        "rawCode": "46.61",
+        "version": 2,
+        "group": "466",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of agricultural machinery, equipment and supplies"
+    },
+    {
+        "code": "4662",
+        "rawCode": "46.62",
+        "version": 2,
+        "group": "466",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of machine tools"
+    },
+    {
+        "code": "4663",
+        "rawCode": "46.63",
+        "version": 2,
+        "group": "466",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of mining, construction and civil engineering machinery"
+    },
+    {
+        "code": "4664",
+        "rawCode": "46.64",
+        "version": 2,
+        "group": "466",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of machinery for the textile industry and of sewing and knitting machines"
+    },
+    {
+        "code": "4665",
+        "rawCode": "46.65",
+        "version": 2,
+        "group": "466",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of office furniture"
+    },
+    {
+        "code": "4666",
+        "rawCode": "46.66",
+        "version": 2,
+        "group": "466",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of other office machinery and equipment"
+    },
+    {
+        "code": "4669",
+        "rawCode": "46.69",
+        "version": 2,
+        "group": "466",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of other machinery and equipment"
+    },
+    {
+        "code": "4671",
+        "rawCode": "46.71",
+        "version": 2,
+        "group": "467",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of solid, liquid and gaseous fuels and related products"
+    },
+    {
+        "code": "4672",
+        "rawCode": "46.72",
+        "version": 2,
+        "group": "467",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of metals and metal ores"
+    },
+    {
+        "code": "4673",
+        "rawCode": "46.73",
+        "version": 2,
+        "group": "467",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of wood, construction materials and sanitary equipment"
+    },
+    {
+        "code": "4674",
+        "rawCode": "46.74",
+        "version": 2,
+        "group": "467",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of hardware, plumbing and heating equipment and supplies"
+    },
+    {
+        "code": "4675",
+        "rawCode": "46.75",
+        "version": 2,
+        "group": "467",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of chemical products"
+    },
+    {
+        "code": "4676",
+        "rawCode": "46.76",
+        "version": 2,
+        "group": "467",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of other intermediate products"
+    },
+    {
+        "code": "4677",
+        "rawCode": "46.77",
+        "version": 2,
+        "group": "467",
+        "division": "46",
+        "section": "G",
+        "name": "Wholesale of waste and scrap"
+    },
+    {
+        "code": "4690",
+        "rawCode": "46.90",
+        "version": 2,
+        "group": "469",
+        "division": "46",
+        "section": "G",
+        "name": "Non-specialised wholesale trade"
+    },
+    {
+        "code": "4711",
+        "rawCode": "47.11",
+        "version": 2,
+        "group": "471",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale in non-specialised stores with food, beverages or tobacco predominating"
+    },
+    {
+        "code": "4719",
+        "rawCode": "47.19",
+        "version": 2,
+        "group": "471",
+        "division": "47",
+        "section": "G",
+        "name": "Other retail sale in non-specialised stores"
+    },
+    {
+        "code": "4721",
+        "rawCode": "47.21",
+        "version": 2,
+        "group": "472",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of fruit and vegetables in specialised stores"
+    },
+    {
+        "code": "4722",
+        "rawCode": "47.22",
+        "version": 2,
+        "group": "472",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of meat and meat products in specialised stores"
+    },
+    {
+        "code": "4723",
+        "rawCode": "47.23",
+        "version": 2,
+        "group": "472",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of fish, crustaceans and molluscs in specialised stores"
+    },
+    {
+        "code": "4724",
+        "rawCode": "47.24",
+        "version": 2,
+        "group": "472",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores"
+    },
+    {
+        "code": "4725",
+        "rawCode": "47.25",
+        "version": 2,
+        "group": "472",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of beverages in specialised stores"
+    },
+    {
+        "code": "4726",
+        "rawCode": "47.26",
+        "version": 2,
+        "group": "472",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of tobacco products in specialised stores"
+    },
+    {
+        "code": "4729",
+        "rawCode": "47.29",
+        "version": 2,
+        "group": "472",
+        "division": "47",
+        "section": "G",
+        "name": "Other retail sale of food in specialised stores"
+    },
+    {
+        "code": "4730",
+        "rawCode": "47.30",
+        "version": 2,
+        "group": "473",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of automotive fuel in specialised stores"
+    },
+    {
+        "code": "4741",
+        "rawCode": "47.41",
+        "version": 2,
+        "group": "474",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of computers, peripheral units and software in specialised stores"
+    },
+    {
+        "code": "4742",
+        "rawCode": "47.42",
+        "version": 2,
+        "group": "474",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of telecommunications equipment in specialised stores"
+    },
+    {
+        "code": "4743",
+        "rawCode": "47.43",
+        "version": 2,
+        "group": "474",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of audio and video equipment in specialised stores"
+    },
+    {
+        "code": "4751",
+        "rawCode": "47.51",
+        "version": 2,
+        "group": "475",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of textiles in specialised stores"
+    },
+    {
+        "code": "4752",
+        "rawCode": "47.52",
+        "version": 2,
+        "group": "475",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of hardware, paints and glass in specialised stores"
+    },
+    {
+        "code": "4753",
+        "rawCode": "47.53",
+        "version": 2,
+        "group": "475",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of carpets, rugs, wall and floor coverings in specialised stores"
+    },
+    {
+        "code": "4754",
+        "rawCode": "47.54",
+        "version": 2,
+        "group": "475",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of electrical household appliances in specialised stores"
+    },
+    {
+        "code": "4759",
+        "rawCode": "47.59",
+        "version": 2,
+        "group": "475",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of furniture, lighting equipment and other household articles in specialised stores"
+    },
+    {
+        "code": "4761",
+        "rawCode": "47.61",
+        "version": 2,
+        "group": "476",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of books in specialised stores"
+    },
+    {
+        "code": "4762",
+        "rawCode": "47.62",
+        "version": 2,
+        "group": "476",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of newspapers and stationery in specialised stores"
+    },
+    {
+        "code": "4763",
+        "rawCode": "47.63",
+        "version": 2,
+        "group": "476",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of music and video recordings in specialised stores"
+    },
+    {
+        "code": "4764",
+        "rawCode": "47.64",
+        "version": 2,
+        "group": "476",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of sporting equipment in specialised stores"
+    },
+    {
+        "code": "4765",
+        "rawCode": "47.65",
+        "version": 2,
+        "group": "476",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of games and toys in specialised stores"
+    },
+    {
+        "code": "4771",
+        "rawCode": "47.71",
+        "version": 2,
+        "group": "477",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of clothing in specialised stores"
+    },
+    {
+        "code": "4772",
+        "rawCode": "47.72",
+        "version": 2,
+        "group": "477",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of footwear and leather goods in specialised stores"
+    },
+    {
+        "code": "4773",
+        "rawCode": "47.73",
+        "version": 2,
+        "group": "477",
+        "division": "47",
+        "section": "G",
+        "name": "Dispensing chemist in specialised stores"
+    },
+    {
+        "code": "4774",
+        "rawCode": "47.74",
+        "version": 2,
+        "group": "477",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of medical and orthopaedic goods in specialised stores"
+    },
+    {
+        "code": "4775",
+        "rawCode": "47.75",
+        "version": 2,
+        "group": "477",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of cosmetic and toilet articles in specialised stores"
+    },
+    {
+        "code": "4776",
+        "rawCode": "47.76",
+        "version": 2,
+        "group": "477",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food in specialised stores"
+    },
+    {
+        "code": "4777",
+        "rawCode": "47.77",
+        "version": 2,
+        "group": "477",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of watches and jewellery in specialised stores"
+    },
+    {
+        "code": "4778",
+        "rawCode": "47.78",
+        "version": 2,
+        "group": "477",
+        "division": "47",
+        "section": "G",
+        "name": "Other retail sale of new goods in specialised stores"
+    },
+    {
+        "code": "4779",
+        "rawCode": "47.79",
+        "version": 2,
+        "group": "477",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale of second-hand goods in stores"
+    },
+    {
+        "code": "4781",
+        "rawCode": "47.81",
+        "version": 2,
+        "group": "478",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale via stalls and markets of food, beverages and tobacco products"
+    },
+    {
+        "code": "4782",
+        "rawCode": "47.82",
+        "version": 2,
+        "group": "478",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale via stalls and markets of textiles, clothing and footwear"
+    },
+    {
+        "code": "4789",
+        "rawCode": "47.89",
+        "version": 2,
+        "group": "478",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale via stalls and markets of other goods"
+    },
+    {
+        "code": "4791",
+        "rawCode": "47.91",
+        "version": 2,
+        "group": "479",
+        "division": "47",
+        "section": "G",
+        "name": "Retail sale via mail order houses or via Internet"
+    },
+    {
+        "code": "4799",
+        "rawCode": "47.99",
+        "version": 2,
+        "group": "479",
+        "division": "47",
+        "section": "G",
+        "name": "Other retail sale not in stores, stalls or markets"
+    },
+    {
+        "code": "4910",
+        "rawCode": "49.10",
+        "version": 2,
+        "group": "491",
+        "division": "49",
+        "section": "H",
+        "name": "Passenger rail transport, interurban"
+    },
+    {
+        "code": "4920",
+        "rawCode": "49.20",
+        "version": 2,
+        "group": "492",
+        "division": "49",
+        "section": "H",
+        "name": "Freight rail transport"
+    },
+    {
+        "code": "4931",
+        "rawCode": "49.31",
+        "version": 2,
+        "group": "493",
+        "division": "49",
+        "section": "H",
+        "name": "Urban and suburban passenger land transport"
+    },
+    {
+        "code": "4932",
+        "rawCode": "49.32",
+        "version": 2,
+        "group": "493",
+        "division": "49",
+        "section": "H",
+        "name": "Taxi operation"
+    },
+    {
+        "code": "4939",
+        "rawCode": "49.39",
+        "version": 2,
+        "group": "493",
+        "division": "49",
+        "section": "H",
+        "name": "Other passenger land transport n.e.c."
+    },
+    {
+        "code": "4941",
+        "rawCode": "49.41",
+        "version": 2,
+        "group": "494",
+        "division": "49",
+        "section": "H",
+        "name": "Freight transport by road"
+    },
+    {
+        "code": "4942",
+        "rawCode": "49.42",
+        "version": 2,
+        "group": "494",
+        "division": "49",
+        "section": "H",
+        "name": "Removal services"
+    },
+    {
+        "code": "4950",
+        "rawCode": "49.50",
+        "version": 2,
+        "group": "495",
+        "division": "49",
+        "section": "H",
+        "name": "Transport via pipeline"
+    },
+    {
+        "code": "5010",
+        "rawCode": "50.10",
+        "version": 2,
+        "group": "501",
+        "division": "50",
+        "section": "H",
+        "name": "Sea and coastal passenger water transport"
+    },
+    {
+        "code": "5020",
+        "rawCode": "50.20",
+        "version": 2,
+        "group": "502",
+        "division": "50",
+        "section": "H",
+        "name": "Sea and coastal freight water transport"
+    },
+    {
+        "code": "5030",
+        "rawCode": "50.30",
+        "version": 2,
+        "group": "503",
+        "division": "50",
+        "section": "H",
+        "name": "Inland passenger water transport"
+    },
+    {
+        "code": "5040",
+        "rawCode": "50.40",
+        "version": 2,
+        "group": "504",
+        "division": "50",
+        "section": "H",
+        "name": "Inland freight water transport"
+    },
+    {
+        "code": "5110",
+        "rawCode": "51.10",
+        "version": 2,
+        "group": "511",
+        "division": "51",
+        "section": "H",
+        "name": "Passenger air transport"
+    },
+    {
+        "code": "5121",
+        "rawCode": "51.21",
+        "version": 2,
+        "group": "512",
+        "division": "51",
+        "section": "H",
+        "name": "Freight air transport"
+    },
+    {
+        "code": "5122",
+        "rawCode": "51.22",
+        "version": 2,
+        "group": "512",
+        "division": "51",
+        "section": "H",
+        "name": "Space transport"
+    },
+    {
+        "code": "5210",
+        "rawCode": "52.10",
+        "version": 2,
+        "group": "521",
+        "division": "52",
+        "section": "H",
+        "name": "Warehousing and storage"
+    },
+    {
+        "code": "5221",
+        "rawCode": "52.21",
+        "version": 2,
+        "group": "522",
+        "division": "52",
+        "section": "H",
+        "name": "Service activities incidental to land transportation"
+    },
+    {
+        "code": "5222",
+        "rawCode": "52.22",
+        "version": 2,
+        "group": "522",
+        "division": "52",
+        "section": "H",
+        "name": "Service activities incidental to water transportation"
+    },
+    {
+        "code": "5223",
+        "rawCode": "52.23",
+        "version": 2,
+        "group": "522",
+        "division": "52",
+        "section": "H",
+        "name": "Service activities incidental to air transportation"
+    },
+    {
+        "code": "5224",
+        "rawCode": "52.24",
+        "version": 2,
+        "group": "522",
+        "division": "52",
+        "section": "H",
+        "name": "Cargo handling"
+    },
+    {
+        "code": "5229",
+        "rawCode": "52.29",
+        "version": 2,
+        "group": "522",
+        "division": "52",
+        "section": "H",
+        "name": "Other transportation support activities"
+    },
+    {
+        "code": "5310",
+        "rawCode": "53.10",
+        "version": 2,
+        "group": "531",
+        "division": "53",
+        "section": "H",
+        "name": "Postal activities under universal service obligation"
+    },
+    {
+        "code": "5320",
+        "rawCode": "53.20",
+        "version": 2,
+        "group": "532",
+        "division": "53",
+        "section": "H",
+        "name": "Other postal and courier activities"
+    },
+    {
+        "code": "5510",
+        "rawCode": "55.10",
+        "version": 2,
+        "group": "551",
+        "division": "55",
+        "section": "I",
+        "name": "Hotels and similar accommodation"
+    },
+    {
+        "code": "5520",
+        "rawCode": "55.20",
+        "version": 2,
+        "group": "552",
+        "division": "55",
+        "section": "I",
+        "name": "Holiday and other short-stay accommodation"
+    },
+    {
+        "code": "5530",
+        "rawCode": "55.30",
+        "version": 2,
+        "group": "553",
+        "division": "55",
+        "section": "I",
+        "name": "Camping grounds, recreational vehicle parks and trailer parks"
+    },
+    {
+        "code": "5590",
+        "rawCode": "55.90",
+        "version": 2,
+        "group": "559",
+        "division": "55",
+        "section": "I",
+        "name": "Other accommodation"
+    },
+    {
+        "code": "5610",
+        "rawCode": "56.10",
+        "version": 2,
+        "group": "561",
+        "division": "56",
+        "section": "I",
+        "name": "Restaurants and mobile food service activities"
+    },
+    {
+        "code": "5621",
+        "rawCode": "56.21",
+        "version": 2,
+        "group": "562",
+        "division": "56",
+        "section": "I",
+        "name": "Event catering activities"
+    },
+    {
+        "code": "5629",
+        "rawCode": "56.29",
+        "version": 2,
+        "group": "562",
+        "division": "56",
+        "section": "I",
+        "name": "Other food service activities"
+    },
+    {
+        "code": "5630",
+        "rawCode": "56.30",
+        "version": 2,
+        "group": "563",
+        "division": "56",
+        "section": "I",
+        "name": "Beverage serving activities"
+    },
+    {
+        "code": "5811",
+        "rawCode": "58.11",
+        "version": 2,
+        "group": "581",
+        "division": "58",
+        "section": "J",
+        "name": "Book publishing"
+    },
+    {
+        "code": "5812",
+        "rawCode": "58.12",
+        "version": 2,
+        "group": "581",
+        "division": "58",
+        "section": "J",
+        "name": "Publishing of directories and mailing lists"
+    },
+    {
+        "code": "5813",
+        "rawCode": "58.13",
+        "version": 2,
+        "group": "581",
+        "division": "58",
+        "section": "J",
+        "name": "Publishing of newspapers"
+    },
+    {
+        "code": "5814",
+        "rawCode": "58.14",
+        "version": 2,
+        "group": "581",
+        "division": "58",
+        "section": "J",
+        "name": "Publishing of journals and periodicals"
+    },
+    {
+        "code": "5819",
+        "rawCode": "58.19",
+        "version": 2,
+        "group": "581",
+        "division": "58",
+        "section": "J",
+        "name": "Other publishing activities"
+    },
+    {
+        "code": "5821",
+        "rawCode": "58.21",
+        "version": 2,
+        "group": "582",
+        "division": "58",
+        "section": "J",
+        "name": "Publishing of computer games"
+    },
+    {
+        "code": "5829",
+        "rawCode": "58.29",
+        "version": 2,
+        "group": "582",
+        "division": "58",
+        "section": "J",
+        "name": "Other software publishing"
+    },
+    {
+        "code": "5911",
+        "rawCode": "59.11",
+        "version": 2,
+        "group": "591",
+        "division": "59",
+        "section": "J",
+        "name": "Motion picture, video and television programme production activities"
+    },
+    {
+        "code": "5912",
+        "rawCode": "59.12",
+        "version": 2,
+        "group": "591",
+        "division": "59",
+        "section": "J",
+        "name": "Motion picture, video and television programme post-production activities"
+    },
+    {
+        "code": "5913",
+        "rawCode": "59.13",
+        "version": 2,
+        "group": "591",
+        "division": "59",
+        "section": "J",
+        "name": "Motion picture, video and television programme distribution activities"
+    },
+    {
+        "code": "5914",
+        "rawCode": "59.14",
+        "version": 2,
+        "group": "591",
+        "division": "59",
+        "section": "J",
+        "name": "Motion picture projection activities"
+    },
+    {
+        "code": "5920",
+        "rawCode": "59.20",
+        "version": 2,
+        "group": "592",
+        "division": "59",
+        "section": "J",
+        "name": "Sound recording and music publishing activities"
+    },
+    {
+        "code": "6010",
+        "rawCode": "60.10",
+        "version": 2,
+        "group": "601",
+        "division": "60",
+        "section": "J",
+        "name": "Radio broadcasting"
+    },
+    {
+        "code": "6020",
+        "rawCode": "60.20",
+        "version": 2,
+        "group": "602",
+        "division": "60",
+        "section": "J",
+        "name": "Television programming and broadcasting activities"
+    },
+    {
+        "code": "6110",
+        "rawCode": "61.10",
+        "version": 2,
+        "group": "611",
+        "division": "61",
+        "section": "J",
+        "name": "Wired telecommunications activities"
+    },
+    {
+        "code": "6120",
+        "rawCode": "61.20",
+        "version": 2,
+        "group": "612",
+        "division": "61",
+        "section": "J",
+        "name": "Wireless telecommunications activities"
+    },
+    {
+        "code": "6130",
+        "rawCode": "61.30",
+        "version": 2,
+        "group": "613",
+        "division": "61",
+        "section": "J",
+        "name": "Satellite telecommunications activities"
+    },
+    {
+        "code": "6190",
+        "rawCode": "61.90",
+        "version": 2,
+        "group": "619",
+        "division": "61",
+        "section": "J",
+        "name": "Other telecommunications activities"
+    },
+    {
+        "code": "6201",
+        "rawCode": "62.01",
+        "version": 2,
+        "group": "620",
+        "division": "62",
+        "section": "J",
+        "name": "Computer programming activities"
+    },
+    {
+        "code": "6202",
+        "rawCode": "62.02",
+        "version": 2,
+        "group": "620",
+        "division": "62",
+        "section": "J",
+        "name": "Computer consultancy activities"
+    },
+    {
+        "code": "6203",
+        "rawCode": "62.03",
+        "version": 2,
+        "group": "620",
+        "division": "62",
+        "section": "J",
+        "name": "Computer facilities management activities"
+    },
+    {
+        "code": "6209",
+        "rawCode": "62.09",
+        "version": 2,
+        "group": "620",
+        "division": "62",
+        "section": "J",
+        "name": "Other information technology and computer service activities"
+    },
+    {
+        "code": "6311",
+        "rawCode": "63.11",
+        "version": 2,
+        "group": "631",
+        "division": "63",
+        "section": "J",
+        "name": "Data processing, hosting and related activities"
+    },
+    {
+        "code": "6312",
+        "rawCode": "63.12",
+        "version": 2,
+        "group": "631",
+        "division": "63",
+        "section": "J",
+        "name": "Web portals"
+    },
+    {
+        "code": "6391",
+        "rawCode": "63.91",
+        "version": 2,
+        "group": "639",
+        "division": "63",
+        "section": "J",
+        "name": "News agency activities"
+    },
+    {
+        "code": "6399",
+        "rawCode": "63.99",
+        "version": 2,
+        "group": "639",
+        "division": "63",
+        "section": "J",
+        "name": "Other information service activities n.e.c."
+    },
+    {
+        "code": "6411",
+        "rawCode": "64.11",
+        "version": 2,
+        "group": "641",
+        "division": "64",
+        "section": "K",
+        "name": "Central banking"
+    },
+    {
+        "code": "6419",
+        "rawCode": "64.19",
+        "version": 2,
+        "group": "641",
+        "division": "64",
+        "section": "K",
+        "name": "Other monetary intermediation"
+    },
+    {
+        "code": "6420",
+        "rawCode": "64.20",
+        "version": 2,
+        "group": "642",
+        "division": "64",
+        "section": "K",
+        "name": "Activities of holding companies"
+    },
+    {
+        "code": "6430",
+        "rawCode": "64.30",
+        "version": 2,
+        "group": "643",
+        "division": "64",
+        "section": "K",
+        "name": "Trusts, funds and similar financial entities"
+    },
+    {
+        "code": "6491",
+        "rawCode": "64.91",
+        "version": 2,
+        "group": "649",
+        "division": "64",
+        "section": "K",
+        "name": "Financial leasing"
+    },
+    {
+        "code": "6492",
+        "rawCode": "64.92",
+        "version": 2,
+        "group": "649",
+        "division": "64",
+        "section": "K",
+        "name": "Other credit granting"
+    },
+    {
+        "code": "6499",
+        "rawCode": "64.99",
+        "version": 2,
+        "group": "649",
+        "division": "64",
+        "section": "K",
+        "name": "Other financial service activities, except insurance and pension funding n.e.c."
+    },
+    {
+        "code": "6511",
+        "rawCode": "65.11",
+        "version": 2,
+        "group": "651",
+        "division": "65",
+        "section": "K",
+        "name": "Life insurance"
+    },
+    {
+        "code": "6512",
+        "rawCode": "65.12",
+        "version": 2,
+        "group": "651",
+        "division": "65",
+        "section": "K",
+        "name": "Non-life insurance"
+    },
+    {
+        "code": "6520",
+        "rawCode": "65.20",
+        "version": 2,
+        "group": "652",
+        "division": "65",
+        "section": "K",
+        "name": "Reinsurance"
+    },
+    {
+        "code": "6530",
+        "rawCode": "65.30",
+        "version": 2,
+        "group": "653",
+        "division": "65",
+        "section": "K",
+        "name": "Pension funding"
+    },
+    {
+        "code": "6611",
+        "rawCode": "66.11",
+        "version": 2,
+        "group": "661",
+        "division": "66",
+        "section": "K",
+        "name": "Administration of financial markets"
+    },
+    {
+        "code": "6612",
+        "rawCode": "66.12",
+        "version": 2,
+        "group": "661",
+        "division": "66",
+        "section": "K",
+        "name": "Security and commodity contracts brokerage"
+    },
+    {
+        "code": "6619",
+        "rawCode": "66.19",
+        "version": 2,
+        "group": "661",
+        "division": "66",
+        "section": "K",
+        "name": "Other activities auxiliary to financial services, except insurance and pension funding"
+    },
+    {
+        "code": "6621",
+        "rawCode": "66.21",
+        "version": 2,
+        "group": "662",
+        "division": "66",
+        "section": "K",
+        "name": "Risk and damage evaluation"
+    },
+    {
+        "code": "6622",
+        "rawCode": "66.22",
+        "version": 2,
+        "group": "662",
+        "division": "66",
+        "section": "K",
+        "name": "Activities of insurance agents and brokers"
+    },
+    {
+        "code": "6629",
+        "rawCode": "66.29",
+        "version": 2,
+        "group": "662",
+        "division": "66",
+        "section": "K",
+        "name": "Other activities auxiliary to insurance and pension funding"
+    },
+    {
+        "code": "6630",
+        "rawCode": "66.30",
+        "version": 2,
+        "group": "663",
+        "division": "66",
+        "section": "K",
+        "name": "Fund management activities"
+    },
+    {
+        "code": "6810",
+        "rawCode": "68.10",
+        "version": 2,
+        "group": "681",
+        "division": "68",
+        "section": "L",
+        "name": "Buying and selling of own real estate"
+    },
+    {
+        "code": "6820",
+        "rawCode": "68.20",
+        "version": 2,
+        "group": "682",
+        "division": "68",
+        "section": "L",
+        "name": "Renting and operating of own or leased real estate"
+    },
+    {
+        "code": "6831",
+        "rawCode": "68.31",
+        "version": 2,
+        "group": "683",
+        "division": "68",
+        "section": "L",
+        "name": "Real estate agencies"
+    },
+    {
+        "code": "6832",
+        "rawCode": "68.32",
+        "version": 2,
+        "group": "683",
+        "division": "68",
+        "section": "L",
+        "name": "Management of real estate on a fee or contract basis"
+    },
+    {
+        "code": "6910",
+        "rawCode": "69.10",
+        "version": 2,
+        "group": "691",
+        "division": "69",
+        "section": "M",
+        "name": "Legal activities"
+    },
+    {
+        "code": "6920",
+        "rawCode": "69.20",
+        "version": 2,
+        "group": "692",
+        "division": "69",
+        "section": "M",
+        "name": "Accounting, bookkeeping and auditing activities; tax consultancy"
+    },
+    {
+        "code": "7010",
+        "rawCode": "70.10",
+        "version": 2,
+        "group": "701",
+        "division": "70",
+        "section": "M",
+        "name": "Activities of head offices"
+    },
+    {
+        "code": "7021",
+        "rawCode": "70.21",
+        "version": 2,
+        "group": "702",
+        "division": "70",
+        "section": "M",
+        "name": "Public relations and communication activities"
+    },
+    {
+        "code": "7022",
+        "rawCode": "70.22",
+        "version": 2,
+        "group": "702",
+        "division": "70",
+        "section": "M",
+        "name": "Business and other management consultancy activities"
+    },
+    {
+        "code": "7111",
+        "rawCode": "71.11",
+        "version": 2,
+        "group": "711",
+        "division": "71",
+        "section": "M",
+        "name": "Architectural activities"
+    },
+    {
+        "code": "7112",
+        "rawCode": "71.12",
+        "version": 2,
+        "group": "711",
+        "division": "71",
+        "section": "M",
+        "name": "Engineering activities and related technical consultancy"
+    },
+    {
+        "code": "7120",
+        "rawCode": "71.20",
+        "version": 2,
+        "group": "712",
+        "division": "71",
+        "section": "M",
+        "name": "Technical testing and analysis"
+    },
+    {
+        "code": "7211",
+        "rawCode": "72.11",
+        "version": 2,
+        "group": "721",
+        "division": "72",
+        "section": "M",
+        "name": "Research and experimental development on biotechnology"
+    },
+    {
+        "code": "7219",
+        "rawCode": "72.19",
+        "version": 2,
+        "group": "721",
+        "division": "72",
+        "section": "M",
+        "name": "Other research and experimental development on natural sciences and engineering"
+    },
+    {
+        "code": "7220",
+        "rawCode": "72.20",
+        "version": 2,
+        "group": "722",
+        "division": "72",
+        "section": "M",
+        "name": "Research and experimental development on social sciences and humanities"
+    },
+    {
+        "code": "7311",
+        "rawCode": "73.11",
+        "version": 2,
+        "group": "731",
+        "division": "73",
+        "section": "M",
+        "name": "Advertising agencies"
+    },
+    {
+        "code": "7312",
+        "rawCode": "73.12",
+        "version": 2,
+        "group": "731",
+        "division": "73",
+        "section": "M",
+        "name": "Media representation"
+    },
+    {
+        "code": "7320",
+        "rawCode": "73.20",
+        "version": 2,
+        "group": "732",
+        "division": "73",
+        "section": "M",
+        "name": "Market research and public opinion polling"
+    },
+    {
+        "code": "7410",
+        "rawCode": "74.10",
+        "version": 2,
+        "group": "741",
+        "division": "74",
+        "section": "M",
+        "name": "Specialised design activities"
+    },
+    {
+        "code": "7420",
+        "rawCode": "74.20",
+        "version": 2,
+        "group": "742",
+        "division": "74",
+        "section": "M",
+        "name": "Photographic activities"
+    },
+    {
+        "code": "7430",
+        "rawCode": "74.30",
+        "version": 2,
+        "group": "743",
+        "division": "74",
+        "section": "M",
+        "name": "Translation and interpretation activities"
+    },
+    {
+        "code": "7490",
+        "rawCode": "74.90",
+        "version": 2,
+        "group": "749",
+        "division": "74",
+        "section": "M",
+        "name": "Other professional, scientific and technical activities n.e.c."
+    },
+    {
+        "code": "7500",
+        "rawCode": "75.00",
+        "version": 2,
+        "group": "750",
+        "division": "75",
+        "section": "M",
+        "name": "Veterinary activities"
+    },
+    {
+        "code": "7711",
+        "rawCode": "77.11",
+        "version": 2,
+        "group": "771",
+        "division": "77",
+        "section": "N",
+        "name": "Renting and leasing of cars and light motor vehicles"
+    },
+    {
+        "code": "7712",
+        "rawCode": "77.12",
+        "version": 2,
+        "group": "771",
+        "division": "77",
+        "section": "N",
+        "name": "Renting and leasing of trucks"
+    },
+    {
+        "code": "7721",
+        "rawCode": "77.21",
+        "version": 2,
+        "group": "772",
+        "division": "77",
+        "section": "N",
+        "name": "Renting and leasing of recreational and sports goods"
+    },
+    {
+        "code": "7722",
+        "rawCode": "77.22",
+        "version": 2,
+        "group": "772",
+        "division": "77",
+        "section": "N",
+        "name": "Renting of video tapes and disks"
+    },
+    {
+        "code": "7729",
+        "rawCode": "77.29",
+        "version": 2,
+        "group": "772",
+        "division": "77",
+        "section": "N",
+        "name": "Renting and leasing of other personal and household goods"
+    },
+    {
+        "code": "7731",
+        "rawCode": "77.31",
+        "version": 2,
+        "group": "773",
+        "division": "77",
+        "section": "N",
+        "name": "Renting and leasing of agricultural machinery and equipment"
+    },
+    {
+        "code": "7732",
+        "rawCode": "77.32",
+        "version": 2,
+        "group": "773",
+        "division": "77",
+        "section": "N",
+        "name": "Renting and leasing of construction and civil engineering machinery and equipment"
+    },
+    {
+        "code": "7733",
+        "rawCode": "77.33",
+        "version": 2,
+        "group": "773",
+        "division": "77",
+        "section": "N",
+        "name": "Renting and leasing of office machinery and equipment (including computers)"
+    },
+    {
+        "code": "7734",
+        "rawCode": "77.34",
+        "version": 2,
+        "group": "773",
+        "division": "77",
+        "section": "N",
+        "name": "Renting and leasing of water transport equipment"
+    },
+    {
+        "code": "7735",
+        "rawCode": "77.35",
+        "version": 2,
+        "group": "773",
+        "division": "77",
+        "section": "N",
+        "name": "Renting and leasing of air transport equipment"
+    },
+    {
+        "code": "7739",
+        "rawCode": "77.39",
+        "version": 2,
+        "group": "773",
+        "division": "77",
+        "section": "N",
+        "name": "Renting and leasing of other machinery, equipment and tangible goods n.e.c."
+    },
+    {
+        "code": "7740",
+        "rawCode": "77.40",
+        "version": 2,
+        "group": "774",
+        "division": "77",
+        "section": "N",
+        "name": "Leasing of intellectual property and similar products, except copyrighted works"
+    },
+    {
+        "code": "7810",
+        "rawCode": "78.10",
+        "version": 2,
+        "group": "781",
+        "division": "78",
+        "section": "N",
+        "name": "Activities of employment placement agencies"
+    },
+    {
+        "code": "7820",
+        "rawCode": "78.20",
+        "version": 2,
+        "group": "782",
+        "division": "78",
+        "section": "N",
+        "name": "Temporary employment agency activities"
+    },
+    {
+        "code": "7830",
+        "rawCode": "78.30",
+        "version": 2,
+        "group": "783",
+        "division": "78",
+        "section": "N",
+        "name": "Other human resources provision"
+    },
+    {
+        "code": "7911",
+        "rawCode": "79.11",
+        "version": 2,
+        "group": "791",
+        "division": "79",
+        "section": "N",
+        "name": "Travel agency activities"
+    },
+    {
+        "code": "7912",
+        "rawCode": "79.12",
+        "version": 2,
+        "group": "791",
+        "division": "79",
+        "section": "N",
+        "name": "Tour operator activities"
+    },
+    {
+        "code": "7990",
+        "rawCode": "79.90",
+        "version": 2,
+        "group": "799",
+        "division": "79",
+        "section": "N",
+        "name": "Other reservation service and related activities"
+    },
+    {
+        "code": "8010",
+        "rawCode": "80.10",
+        "version": 2,
+        "group": "801",
+        "division": "80",
+        "section": "N",
+        "name": "Private security activities"
+    },
+    {
+        "code": "8020",
+        "rawCode": "80.20",
+        "version": 2,
+        "group": "802",
+        "division": "80",
+        "section": "N",
+        "name": "Security systems service activities"
+    },
+    {
+        "code": "8030",
+        "rawCode": "80.30",
+        "version": 2,
+        "group": "803",
+        "division": "80",
+        "section": "N",
+        "name": "Investigation activities"
+    },
+    {
+        "code": "8110",
+        "rawCode": "81.10",
+        "version": 2,
+        "group": "811",
+        "division": "81",
+        "section": "N",
+        "name": "Combined facilities support activities"
+    },
+    {
+        "code": "8121",
+        "rawCode": "81.21",
+        "version": 2,
+        "group": "812",
+        "division": "81",
+        "section": "N",
+        "name": "General cleaning of buildings"
+    },
+    {
+        "code": "8122",
+        "rawCode": "81.22",
+        "version": 2,
+        "group": "812",
+        "division": "81",
+        "section": "N",
+        "name": "Other building and industrial cleaning activities"
+    },
+    {
+        "code": "8129",
+        "rawCode": "81.29",
+        "version": 2,
+        "group": "812",
+        "division": "81",
+        "section": "N",
+        "name": "Other cleaning activities"
+    },
+    {
+        "code": "8130",
+        "rawCode": "81.30",
+        "version": 2,
+        "group": "813",
+        "division": "81",
+        "section": "N",
+        "name": "Landscape service activities"
+    },
+    {
+        "code": "8211",
+        "rawCode": "82.11",
+        "version": 2,
+        "group": "821",
+        "division": "82",
+        "section": "N",
+        "name": "Combined office administrative service activities"
+    },
+    {
+        "code": "8219",
+        "rawCode": "82.19",
+        "version": 2,
+        "group": "821",
+        "division": "82",
+        "section": "N",
+        "name": "Photocopying, document preparation and other specialised office support activities"
+    },
+    {
+        "code": "8220",
+        "rawCode": "82.20",
+        "version": 2,
+        "group": "822",
+        "division": "82",
+        "section": "N",
+        "name": "Activities of call centres"
+    },
+    {
+        "code": "8230",
+        "rawCode": "82.30",
+        "version": 2,
+        "group": "823",
+        "division": "82",
+        "section": "N",
+        "name": "Organisation of conventions and trade shows"
+    },
+    {
+        "code": "8291",
+        "rawCode": "82.91",
+        "version": 2,
+        "group": "829",
+        "division": "82",
+        "section": "N",
+        "name": "Activities of collection agencies and credit bureaus"
+    },
+    {
+        "code": "8292",
+        "rawCode": "82.92",
+        "version": 2,
+        "group": "829",
+        "division": "82",
+        "section": "N",
+        "name": "Packaging activities"
+    },
+    {
+        "code": "8299",
+        "rawCode": "82.99",
+        "version": 2,
+        "group": "829",
+        "division": "82",
+        "section": "N",
+        "name": "Other business support service activities n.e.c."
+    },
+    {
+        "code": "8411",
+        "rawCode": "84.11",
+        "version": 2,
+        "group": "841",
+        "division": "84",
+        "section": "O",
+        "name": "General public administration activities"
+    },
+    {
+        "code": "8412",
+        "rawCode": "84.12",
+        "version": 2,
+        "group": "841",
+        "division": "84",
+        "section": "O",
+        "name": "Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security"
+    },
+    {
+        "code": "8413",
+        "rawCode": "84.13",
+        "version": 2,
+        "group": "841",
+        "division": "84",
+        "section": "O",
+        "name": "Regulation of and contribution to more efficient operation of businesses"
+    },
+    {
+        "code": "8421",
+        "rawCode": "84.21",
+        "version": 2,
+        "group": "842",
+        "division": "84",
+        "section": "O",
+        "name": "Foreign affairs"
+    },
+    {
+        "code": "8422",
+        "rawCode": "84.22",
+        "version": 2,
+        "group": "842",
+        "division": "84",
+        "section": "O",
+        "name": "Defence activities"
+    },
+    {
+        "code": "8423",
+        "rawCode": "84.23",
+        "version": 2,
+        "group": "842",
+        "division": "84",
+        "section": "O",
+        "name": "Justice and judicial activities"
+    },
+    {
+        "code": "8424",
+        "rawCode": "84.24",
+        "version": 2,
+        "group": "842",
+        "division": "84",
+        "section": "O",
+        "name": "Public order and safety activities"
+    },
+    {
+        "code": "8425",
+        "rawCode": "84.25",
+        "version": 2,
+        "group": "842",
+        "division": "84",
+        "section": "O",
+        "name": "Fire service activities"
+    },
+    {
+        "code": "8430",
+        "rawCode": "84.30",
+        "version": 2,
+        "group": "843",
+        "division": "84",
+        "section": "O",
+        "name": "Compulsory social security activities"
+    },
+    {
+        "code": "8510",
+        "rawCode": "85.10",
+        "version": 2,
+        "group": "851",
+        "division": "85",
+        "section": "P",
+        "name": "Pre-primary education"
+    },
+    {
+        "code": "8520",
+        "rawCode": "85.20",
+        "version": 2,
+        "group": "852",
+        "division": "85",
+        "section": "P",
+        "name": "Primary education"
+    },
+    {
+        "code": "8531",
+        "rawCode": "85.31",
+        "version": 2,
+        "group": "853",
+        "division": "85",
+        "section": "P",
+        "name": "General secondary education"
+    },
+    {
+        "code": "8532",
+        "rawCode": "85.32",
+        "version": 2,
+        "group": "853",
+        "division": "85",
+        "section": "P",
+        "name": "Technical and vocational secondary education"
+    },
+    {
+        "code": "8541",
+        "rawCode": "85.41",
+        "version": 2,
+        "group": "854",
+        "division": "85",
+        "section": "P",
+        "name": "Post-secondary non-tertiary education"
+    },
+    {
+        "code": "8542",
+        "rawCode": "85.42",
+        "version": 2,
+        "group": "854",
+        "division": "85",
+        "section": "P",
+        "name": "Tertiary education"
+    },
+    {
+        "code": "8551",
+        "rawCode": "85.51",
+        "version": 2,
+        "group": "855",
+        "division": "85",
+        "section": "P",
+        "name": "Sports and recreation education"
+    },
+    {
+        "code": "8552",
+        "rawCode": "85.52",
+        "version": 2,
+        "group": "855",
+        "division": "85",
+        "section": "P",
+        "name": "Cultural education"
+    },
+    {
+        "code": "8553",
+        "rawCode": "85.53",
+        "version": 2,
+        "group": "855",
+        "division": "85",
+        "section": "P",
+        "name": "Driving school activities"
+    },
+    {
+        "code": "8559",
+        "rawCode": "85.59",
+        "version": 2,
+        "group": "855",
+        "division": "85",
+        "section": "P",
+        "name": "Other education n.e.c."
+    },
+    {
+        "code": "8560",
+        "rawCode": "85.60",
+        "version": 2,
+        "group": "856",
+        "division": "85",
+        "section": "P",
+        "name": "Educational support activities"
+    },
+    {
+        "code": "8610",
+        "rawCode": "86.10",
+        "version": 2,
+        "group": "861",
+        "division": "86",
+        "section": "Q",
+        "name": "Hospital activities"
+    },
+    {
+        "code": "8621",
+        "rawCode": "86.21",
+        "version": 2,
+        "group": "862",
+        "division": "86",
+        "section": "Q",
+        "name": "General medical practice activities"
+    },
+    {
+        "code": "8622",
+        "rawCode": "86.22",
+        "version": 2,
+        "group": "862",
+        "division": "86",
+        "section": "Q",
+        "name": "Specialist medical practice activities"
+    },
+    {
+        "code": "8623",
+        "rawCode": "86.23",
+        "version": 2,
+        "group": "862",
+        "division": "86",
+        "section": "Q",
+        "name": "Dental practice activities"
+    },
+    {
+        "code": "8690",
+        "rawCode": "86.90",
+        "version": 2,
+        "group": "869",
+        "division": "86",
+        "section": "Q",
+        "name": "Other human health activities"
+    },
+    {
+        "code": "8710",
+        "rawCode": "87.10",
+        "version": 2,
+        "group": "871",
+        "division": "87",
+        "section": "Q",
+        "name": "Residential nursing care activities"
+    },
+    {
+        "code": "8720",
+        "rawCode": "87.20",
+        "version": 2,
+        "group": "872",
+        "division": "87",
+        "section": "Q",
+        "name": "Residential care activities for mental retardation, mental health and substance abuse"
+    },
+    {
+        "code": "8730",
+        "rawCode": "87.30",
+        "version": 2,
+        "group": "873",
+        "division": "87",
+        "section": "Q",
+        "name": "Residential care activities for the elderly and disabled"
+    },
+    {
+        "code": "8790",
+        "rawCode": "87.90",
+        "version": 2,
+        "group": "879",
+        "division": "87",
+        "section": "Q",
+        "name": "Other residential care activities"
+    },
+    {
+        "code": "8810",
+        "rawCode": "88.10",
+        "version": 2,
+        "group": "881",
+        "division": "88",
+        "section": "Q",
+        "name": "Social work activities without accommodation for the elderly and disabled"
+    },
+    {
+        "code": "8891",
+        "rawCode": "88.91",
+        "version": 2,
+        "group": "889",
+        "division": "88",
+        "section": "Q",
+        "name": "Child day-care activities"
+    },
+    {
+        "code": "8899",
+        "rawCode": "88.99",
+        "version": 2,
+        "group": "889",
+        "division": "88",
+        "section": "Q",
+        "name": "Other social work activities without accommodation n.e.c."
+    },
+    {
+        "code": "9001",
+        "rawCode": "90.01",
+        "version": 2,
+        "group": "900",
+        "division": "90",
+        "section": "R",
+        "name": "Performing arts"
+    },
+    {
+        "code": "9002",
+        "rawCode": "90.02",
+        "version": 2,
+        "group": "900",
+        "division": "90",
+        "section": "R",
+        "name": "Support activities to performing arts"
+    },
+    {
+        "code": "9003",
+        "rawCode": "90.03",
+        "version": 2,
+        "group": "900",
+        "division": "90",
+        "section": "R",
+        "name": "Artistic creation"
+    },
+    {
+        "code": "9004",
+        "rawCode": "90.04",
+        "version": 2,
+        "group": "900",
+        "division": "90",
+        "section": "R",
+        "name": "Operation of arts facilities"
+    },
+    {
+        "code": "9101",
+        "rawCode": "91.01",
+        "version": 2,
+        "group": "910",
+        "division": "91",
+        "section": "R",
+        "name": "Library and archives activities"
+    },
+    {
+        "code": "9102",
+        "rawCode": "91.02",
+        "version": 2,
+        "group": "910",
+        "division": "91",
+        "section": "R",
+        "name": "Museums activities"
+    },
+    {
+        "code": "9103",
+        "rawCode": "91.03",
+        "version": 2,
+        "group": "910",
+        "division": "91",
+        "section": "R",
+        "name": "Operation of historical sites and buildings and similar visitor attractions"
+    },
+    {
+        "code": "9104",
+        "rawCode": "91.04",
+        "version": 2,
+        "group": "910",
+        "division": "91",
+        "section": "R",
+        "name": "Botanical and zoological gardens and nature reserves activities"
+    },
+    {
+        "code": "9200",
+        "rawCode": "92.00",
+        "version": 2,
+        "group": "920",
+        "division": "92",
+        "section": "R",
+        "name": "Gambling and betting activities"
+    },
+    {
+        "code": "9311",
+        "rawCode": "93.11",
+        "version": 2,
+        "group": "931",
+        "division": "93",
+        "section": "R",
+        "name": "Operation of sports facilities"
+    },
+    {
+        "code": "9312",
+        "rawCode": "93.12",
+        "version": 2,
+        "group": "931",
+        "division": "93",
+        "section": "R",
+        "name": "Activities of sport clubs"
+    },
+    {
+        "code": "9313",
+        "rawCode": "93.13",
+        "version": 2,
+        "group": "931",
+        "division": "93",
+        "section": "R",
+        "name": "Fitness facilities"
+    },
+    {
+        "code": "9319",
+        "rawCode": "93.19",
+        "version": 2,
+        "group": "931",
+        "division": "93",
+        "section": "R",
+        "name": "Other sports activities"
+    },
+    {
+        "code": "9321",
+        "rawCode": "93.21",
+        "version": 2,
+        "group": "932",
+        "division": "93",
+        "section": "R",
+        "name": "Activities of amusement parks and theme parks"
+    },
+    {
+        "code": "9329",
+        "rawCode": "93.29",
+        "version": 2,
+        "group": "932",
+        "division": "93",
+        "section": "R",
+        "name": "Other amusement and recreation activities"
+    },
+    {
+        "code": "9411",
+        "rawCode": "94.11",
+        "version": 2,
+        "group": "941",
+        "division": "94",
+        "section": "S",
+        "name": "Activities of business and employers membership organisations"
+    },
+    {
+        "code": "9412",
+        "rawCode": "94.12",
+        "version": 2,
+        "group": "941",
+        "division": "94",
+        "section": "S",
+        "name": "Activities of professional membership organisations"
+    },
+    {
+        "code": "9420",
+        "rawCode": "94.20",
+        "version": 2,
+        "group": "942",
+        "division": "94",
+        "section": "S",
+        "name": "Activities of trade unions"
+    },
+    {
+        "code": "9491",
+        "rawCode": "94.91",
+        "version": 2,
+        "group": "949",
+        "division": "94",
+        "section": "S",
+        "name": "Activities of religious organisations"
+    },
+    {
+        "code": "9492",
+        "rawCode": "94.92",
+        "version": 2,
+        "group": "949",
+        "division": "94",
+        "section": "S",
+        "name": "Activities of political organisations"
+    },
+    {
+        "code": "9499",
+        "rawCode": "94.99",
+        "version": 2,
+        "group": "949",
+        "division": "94",
+        "section": "S",
+        "name": "Activities of other membership organisations n.e.c."
+    },
+    {
+        "code": "9511",
+        "rawCode": "95.11",
+        "version": 2,
+        "group": "951",
+        "division": "95",
+        "section": "S",
+        "name": "Repair of computers and peripheral equipment"
+    },
+    {
+        "code": "9512",
+        "rawCode": "95.12",
+        "version": 2,
+        "group": "951",
+        "division": "95",
+        "section": "S",
+        "name": "Repair of communication equipment"
+    },
+    {
+        "code": "9521",
+        "rawCode": "95.21",
+        "version": 2,
+        "group": "952",
+        "division": "95",
+        "section": "S",
+        "name": "Repair of consumer electronics"
+    },
+    {
+        "code": "9522",
+        "rawCode": "95.22",
+        "version": 2,
+        "group": "952",
+        "division": "95",
+        "section": "S",
+        "name": "Repair of household appliances and home and garden equipment"
+    },
+    {
+        "code": "9523",
+        "rawCode": "95.23",
+        "version": 2,
+        "group": "952",
+        "division": "95",
+        "section": "S",
+        "name": "Repair of footwear and leather goods"
+    },
+    {
+        "code": "9524",
+        "rawCode": "95.24",
+        "version": 2,
+        "group": "952",
+        "division": "95",
+        "section": "S",
+        "name": "Repair of furniture and home furnishings"
+    },
+    {
+        "code": "9525",
+        "rawCode": "95.25",
+        "version": 2,
+        "group": "952",
+        "division": "95",
+        "section": "S",
+        "name": "Repair of watches, clocks and jewellery"
+    },
+    {
+        "code": "9529",
+        "rawCode": "95.29",
+        "version": 2,
+        "group": "952",
+        "division": "95",
+        "section": "S",
+        "name": "Repair of other personal and household goods"
+    },
+    {
+        "code": "9601",
+        "rawCode": "96.01",
+        "version": 2,
+        "group": "960",
+        "division": "96",
+        "section": "S",
+        "name": "Washing and (dry-)cleaning of textile and fur products"
+    },
+    {
+        "code": "9602",
+        "rawCode": "96.02",
+        "version": 2,
+        "group": "960",
+        "division": "96",
+        "section": "S",
+        "name": "Hairdressing and other beauty treatment"
+    },
+    {
+        "code": "9603",
+        "rawCode": "96.03",
+        "version": 2,
+        "group": "960",
+        "division": "96",
+        "section": "S",
+        "name": "Funeral and related activities"
+    },
+    {
+        "code": "9604",
+        "rawCode": "96.04",
+        "version": 2,
+        "group": "960",
+        "division": "96",
+        "section": "S",
+        "name": "Physical well-being activities"
+    },
+    {
+        "code": "9609",
+        "rawCode": "96.09",
+        "version": 2,
+        "group": "960",
+        "division": "96",
+        "section": "S",
+        "name": "Other personal service activities n.e.c."
+    },
+    {
+        "code": "9700",
+        "rawCode": "97.00",
+        "version": 2,
+        "group": "970",
+        "division": "97",
+        "section": "T",
+        "name": "Activities of households as employers of domestic personnel"
+    },
+    {
+        "code": "9810",
+        "rawCode": "98.10",
+        "version": 2,
+        "group": "981",
+        "division": "98",
+        "section": "T",
+        "name": "Undifferentiated goods-producing activities of private households for own use"
+    },
+    {
+        "code": "9820",
+        "rawCode": "98.20",
+        "version": 2,
+        "group": "982",
+        "division": "98",
+        "section": "T",
+        "name": "Undifferentiated service-producing activities of private households for own use"
+    },
+    {
+        "code": "9900",
+        "rawCode": "99.00",
+        "version": 2,
+        "group": "990",
+        "division": "99",
+        "section": "U",
+        "name": "Activities of extraterritorial organisations and bodies"
+    }
+]

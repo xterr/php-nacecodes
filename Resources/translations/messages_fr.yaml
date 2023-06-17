@@ -1,0 +1,849 @@
+'AGRICULTURE, FORESTRY AND FISHING': 'AGRICULTURE, SYLVICULTURE ET PÊCHE'
+'MINING AND QUARRYING': 'INDUSTRIES EXTRACTIVES'
+CONSTRUCTION: CONSTRUCTION
+EDUCATION: ENSEIGNEMENT
+'ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY': "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ"
+'FINANCIAL AND INSURANCE ACTIVITIES': "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE"
+MANUFACTURING: 'INDUSTRIE MANUFACTURIÈRE'
+'PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY': 'ADMINISTRATION PUBLIQUE'
+'REAL ESTATE ACTIVITIES': 'ACTIVITÉS IMMOBILIÈRES'
+'WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES': "PRODUCTION ET DISTRIBUTION D'EAU; ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION"
+'WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES': "COMMERCE; RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES"
+'TRANSPORTATION AND STORAGE': 'TRANSPORTS ET ENTREPOSAGE'
+'ACCOMMODATION AND FOOD SERVICE ACTIVITIES': 'HÉBERGEMENT ET RESTAURATION'
+'INFORMATION AND COMMUNICATION': 'INFORMATION ET COMMUNICATION'
+'PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES': 'ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES'
+'ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES': 'ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN'
+'ARTS, ENTERTAINMENT AND RECREATION': 'ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES'
+'HUMAN HEALTH AND SOCIAL WORK ACTIVITIES': 'SANTÉ HUMAINE ET ACTION SOCIALE'
+'OTHER SERVICE ACTIVITIES': 'AUTRES ACTIVITÉS DE SERVICES'
+'ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS- AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE': "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS; ACTIVITÉS INDIFFÉRENCIÉES DES MÉNAGES EN TANT QUE PRODUCTEURS DE BIENS ET SERVICES POUR USAGE PROPRE"
+'ACTIVITIES OF EXTRATERRITORIAL ORGANISATIONS AND BODIES': 'ACTIVITÉS EXTRA-TERRITORIALES'
+'Crop and animal production, hunting and related service activities': 'Culture et production animale, chasse et services annexes'
+'Forestry and logging': 'Sylviculture et exploitation forestière'
+'Fishing and aquaculture': 'Pêche et aquaculture'
+'Mining of coal and lignite': 'Extraction de houille et de lignite'
+'Extraction of crude petroleum and natural gas': "Extraction d'hydrocarbures"
+'Mining of metal ores': 'Extraction de minerais métalliques'
+'Other mining and quarrying': 'Autres industries extractives'
+'Mining support service activities': 'Services de soutien aux industries extractives'
+'Manufacture of food products': 'Industries alimentaires'
+'Manufacture of beverages': 'Fabrication de boissons'
+'Manufacture of tobacco products': 'Fabrication de produits à base de tabac'
+'Manufacture of textiles': 'Fabrication de textiles'
+'Manufacture of wearing apparel': "Industrie de l'habillement"
+'Manufacture of leather and related products': 'Industrie du cuir et de la chaussure'
+'Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials': "Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles; fabrication d'articles en vannerie et sparterie"
+'Manufacture of paper and paper products': 'Industrie du papier et du carton'
+'Printing and reproduction of recorded media': "Imprimerie et reproduction d'enregistrements"
+'Manufacture of coke and refined petroleum products': 'Cokéfaction et raffinage'
+'Manufacture of chemicals and chemical products': 'Industrie chimique'
+'Manufacture of basic pharmaceutical products and pharmaceutical preparations': 'Industrie pharmaceutique'
+'Manufacture of rubber and plastic products': 'Fabrication de produits en caoutchouc et en plastique'
+'Manufacture of other non-metallic mineral products': "Fabrication d'autres produits minéraux non métalliques"
+'Manufacture of basic metals': Métallurgie
+'Manufacture of fabricated metal products, except machinery and equipment': "Fabrication de produits métalliques, à l'exception des machines et des équipements"
+'Manufacture of computer, electronic and optical products': 'Fabrication de produits informatiques, électroniques et optiques'
+'Manufacture of electrical equipment': "Fabrication d'équipements électriques"
+'Manufacture of machinery and equipment n.e.c.': 'Fabrication de machines et équipements n.c.a.'
+'Manufacture of motor vehicles, trailers and semi-trailers': 'Industrie automobile'
+'Manufacture of other transport equipment': "Fabrication d'autres matériels de transport"
+'Manufacture of furniture': 'Fabrication de meubles'
+'Other manufacturing': 'Autres industries manufacturières'
+'Repair and installation of machinery and equipment': "Réparation et installation de machines et d'équipements"
+'Electricity, gas, steam and air conditioning supply': "Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+'Water collection, treatment and supply': "Captage, traitement et distribution d'eau"
+Sewerage: 'Collecte et traitement des eaux usées'
+'Waste collection, treatment and disposal activities; materials recovery': 'Collecte, traitement et élimination des déchets; récupération'
+'Remediation activities and other waste management services': 'Dépollution et autres services de gestion des déchets'
+'Construction of buildings': 'Construction de bâtiments'
+'Civil engineering': 'Génie civil'
+'Specialised construction activities': 'Travaux de construction spécialisés'
+'Wholesale and retail trade and repair of motor vehicles and motorcycles': "Commerce et réparation d'automobiles et de motocycles"
+'Wholesale trade, except of motor vehicles and motorcycles': "Commerce de gros, à l'exception des automobiles et des motocycles"
+'Retail trade, except of motor vehicles and motorcycles': "Commerce de détail, à l'exception des automobiles et des motocycles"
+'Land transport and transport via pipelines': 'Transports terrestres et transport par conduites'
+'Water transport': 'Transports par eau'
+'Air transport': 'Transports aériens'
+'Warehousing and support activities for transportation': 'Entreposage et services auxiliaires des transports'
+'Postal and courier activities': 'Activités de poste et de courrier'
+Accommodation: Hébergement
+'Food and beverage service activities': Restauration
+'Publishing activities': Édition
+'Motion picture, video and television programme production, sound recording and music publishing activities': 'Production de films cinématographiques, de vidéo et de programmes de télévision; enregistrement sonore et édition musicale'
+'Programming and broadcasting activities': 'Programmation et diffusion'
+Telecommunications: Télécommunications
+'Computer programming, consultancy and related activities': 'Programmation, conseil et autres activités informatiques'
+'Information service activities': "Services d'information"
+'Financial service activities, except insurance and pension funding': 'Activités des services financiers, hors assurance et caisses de retraite'
+'Insurance, reinsurance and pension funding, except compulsory social security': Assurance
+'Activities auxiliary to financial services and insurance activities': "Activités auxiliaires de services financiers et d'assurance"
+'Real estate activities': 'Activités immobilières'
+'Legal and accounting activities': 'Activités juridiques et comptables'
+'Activities of head offices; management consultancy activities': 'Activités des sièges sociaux; conseil de gestion'
+'Architectural and engineering activities; technical testing and analysis': "Activités d'architecture et d'ingénierie; activités de contrôle et analyses techniques"
+'Scientific research and development': 'Recherche-développement scientifique'
+'Advertising and market research': 'Publicité et études de marché'
+'Other professional, scientific and technical activities': 'Autres activités spécialisées, scientifiques et techniques'
+'Veterinary activities': 'Activités vétérinaires'
+'Rental and leasing activities': 'Activités de location et location-bail'
+'Employment activities': "Activités liées à l'emploi"
+'Travel agency, tour operator reservation service and related activities': 'Activités des agences de voyage, voyagistes, services de réservation et activités connexes'
+'Security and investigation activities': 'Enquêtes et sécurité'
+'Services to buildings and landscape activities': 'Services relatifs aux bâtiments et aménagement paysager'
+'Office administrative, office support and other business support activities': 'Activités administratives et autres activités de soutien aux entreprises'
+'Public administration and defence; compulsory social security': 'Administration publique et défense; sécurité sociale obligatoire'
+Education: Enseignement
+'Human health activities': 'Activités pour la santé humaine'
+'Residential care activities': 'Hébergement médico-social et social'
+'Social work activities without accommodation': 'Action sociale sans hébergement'
+'Creative, arts and entertainment activities': 'Activités créatives, artistiques et de spectacle'
+'Libraries, archives, museums and other cultural activities': 'Bibliothèques, archives, musées et autres activités culturelles'
+'Gambling and betting activities': "Organisation de jeux de hasard et d'argent"
+'Sports activities and amusement and recreation activities': 'Activités sportives, récréatives et de loisirs'
+'Activities of membership organisations': 'Activités des organisations associatives'
+'Repair of computers and personal and household goods': "Réparation d'ordinateurs et de biens personnels et domestiques"
+'Other personal service activities': 'Autres services personnels'
+'Activities of households as employers of domestic personnel': "Activités des ménages en tant qu'employeurs de personnel domestique"
+'Undifferentiated goods- and services-producing activities of private households for own use': 'Activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre'
+'Activities of extraterritorial organisations and bodies': 'Activités des organisations et organismes extraterritoriaux'
+'Growing of non-perennial crops': 'Cultures non permanentes'
+'Growing of perennial crops': 'Cultures permanentes'
+'Plant propagation': 'Reproduction de plantes'
+'Animal production': 'Production animale'
+'Mixed farming': 'Culture et élevage associés'
+'Support activities to agriculture and post-harvest crop activities': "Activités de soutien à l'agriculture et traitement primaire des récoltes"
+'Hunting, trapping and related service activities': 'Chasse, piégeage et services annexes'
+'Silviculture and other forestry activities': 'Sylviculture et autres activités forestières'
+Logging: 'Exploitation forestière'
+'Gathering of wild growing non-wood products': "Récolte de produits forestiers non ligneux poussant à l'état sauvage"
+'Support services to forestry': "Services de soutien à l'exploitation forestière"
+Fishing: Pêche
+Aquaculture: Aquaculture
+'Mining of hard coal': 'Extraction de houille'
+'Mining of lignite': 'Extraction de lignite'
+'Extraction of crude petroleum': 'Extraction de pétrole brut'
+'Extraction of natural gas': 'Extraction de gaz naturel'
+'Mining of iron ores': 'Extraction de minerais de fer'
+'Mining of non-ferrous metal ores': 'Extraction de minerais de métaux non ferreux'
+'Quarrying of stone, sand and clay': "Extraction de pierres, de sables et d'argiles"
+'Mining and quarrying n.e.c.': 'Activités extractives n.c.a.'
+'Support activities for petroleum and natural gas extraction': "Activités de soutien à l'extraction d'hydrocarbures"
+'Support activities for other mining and quarrying': 'Activités de soutien aux autres industries extractives'
+'Processing and preserving of meat and production of meat products': 'Transformation et conservation de la viande et préparation de produits à base de viande'
+'Processing and preserving of fish, crustaceans and molluscs': 'Transformation et conservation de poisson, de crustacés et de mollusques'
+'Processing and preserving of fruit and vegetables': 'Transformation et conservation de fruits et légumes'
+'Manufacture of vegetable and animal oils and fats': "Fabrication d'huiles et graisses végétales et animales"
+'Manufacture of dairy products': 'Fabrication de produits laitiers'
+'Manufacture of grain mill products, starches and starch products': 'Travail des grains; fabrication de produits amylacés'
+'Manufacture of bakery and farinaceous products': 'Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires'
+'Manufacture of other food products': "Fabrication d'autres produits alimentaires"
+'Manufacture of prepared animal feeds': "Fabrication d'aliments pour animaux"
+'Preparation and spinning of textile fibres': 'Préparation de fibres textiles et filature'
+'Weaving of textiles': Tissage
+'Finishing of textiles': 'Ennoblissement textile'
+'Manufacture of other textiles': "Fabrication d'autres textiles"
+'Manufacture of wearing apparel, except fur apparel': "Fabrication de vêtements, autres qu'en fourrure"
+'Manufacture of articles of fur': "Fabrication d'articles en fourrure"
+'Manufacture of knitted and crocheted apparel': "Fabrication d'articles à mailles"
+'Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur': "Apprêt et tannage des cuirs; préparation et teinture des fourrures; fabrication d'articles de voyage, de maroquinerie et de sellerie"
+'Manufacture of footwear': 'Fabrication de chaussures'
+'Sawmilling and planing of wood': 'Sciage et rabotage du bois'
+'Manufacture of products of wood, cork, straw and plaiting materials': "Fabrication d'articles en bois, liège, vannerie et sparterie"
+'Manufacture of pulp, paper and paperboard': 'Fabrication de pâte à papier, de papier et de carton'
+'Manufacture of articles of paper and paperboard': "Fabrication d'articles en papier ou en carton"
+'Printing and service activities related to printing': 'Imprimerie et services annexes'
+'Reproduction of recorded media': "Reproduction d'enregistrements"
+'Manufacture of coke oven products': Cokéfaction
+'Manufacture of refined petroleum products': 'Raffinage du pétrole'
+'Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms': "Fabrication de produits chimiques de base, de produits azotés et d'engrais, de matières plastiques de base et de caoutchouc synthétique"
+'Manufacture of pesticides and other agrochemical products': "Fabrication de pesticides et d'autres produits agrochimiques"
+'Manufacture of paints, varnishes and similar coatings, printing ink and mastics': 'Fabrication de peintures, vernis, encres et mastics'
+'Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations': "Fabrication de savons, de produits d'entretien et de parfums"
+'Manufacture of other chemical products': "Fabrication d'autres produits chimiques"
+'Manufacture of man-made fibres': 'Fabrication de fibres artificielles ou synthétiques'
+'Manufacture of basic pharmaceutical products': 'Fabrication de produits pharmaceutiques de base'
+'Manufacture of pharmaceutical preparations': 'Fabrication de préparations pharmaceutiques'
+'Manufacture of rubber products': 'Fabrication de produits en caoutchouc'
+'Manufacture of plastics products': 'Fabrication de produits en plastique'
+'Manufacture of glass and glass products': "Fabrication de verre et d'articles en verre"
+'Manufacture of refractory products': 'Fabrication de produits réfractaires'
+'Manufacture of clay building materials': 'Fabrication de matériaux de construction en terre cuite'
+'Manufacture of other porcelain and ceramic products': "Fabrication d'autres produits en céramique et en porcelaine"
+'Manufacture of cement, lime and plaster': 'Fabrication de ciment, chaux et plâtre'
+'Manufacture of articles of concrete, cement and plaster': "Fabrication d'ouvrages en béton, en ciment ou en plâtre"
+'Cutting, shaping and finishing of stone': 'Taille, façonnage et finissage de pierres'
+'Manufacture of abrasive products and non-metallic mineral products n.e.c.': 'Fabrication de produits abrasifs et de produits minéraux non métalliques n.c.a.'
+'Manufacture of basic iron and steel and of ferro-alloys': Sidérurgie
+'Manufacture of tubes, pipes, hollow profiles and related fittings, of steel': 'Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier'
+'Manufacture of other products of first processing of steel': "Fabrication d'autres produits de première transformation de l'acier"
+'Manufacture of basic precious and other non-ferrous metals': "Production de métaux précieux et d'autres métaux non ferreux"
+'Casting of metals': Fonderie
+'Manufacture of structural metal products': "Fabrication d'éléments en métal pour la construction"
+'Manufacture of tanks, reservoirs and containers of metal': 'Fabrication de réservoirs, citernes et conteneurs métalliques'
+'Manufacture of steam generators, except central heating hot water boilers': "Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central"
+'Manufacture of weapons and ammunition': "Fabrication d'armes et de munitions"
+'Forging, pressing, stamping and roll-forming of metal; powder metallurgy': 'Forge, emboutissage, estampage; métallurgie des poudres'
+'Treatment and coating of metals; machining': 'Traitement et revêtement des métaux; usinage'
+'Manufacture of cutlery, tools and general hardware': "Fabrication de coutellerie, d'outillage et de quincaillerie"
+'Manufacture of other fabricated metal products': "Fabrication d'autres ouvrages en métaux"
+'Manufacture of electronic components and boards': 'Fabrication de composants et cartes électroniques'
+'Manufacture of computers and peripheral equipment': "Fabrication d'ordinateurs et d'équipements périphériques"
+'Manufacture of communication equipment': "Fabrication d'équipements de communication"
+'Manufacture of consumer electronics': 'Fabrication de produits électroniques grand public'
+'Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks': "Fabrication d'instruments et d'appareils de mesure, d'essai et de navigation; horlogerie"
+'Manufacture of irradiation, electromedical and electrotherapeutic equipment': "Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques"
+'Manufacture of optical instruments and photographic equipment': 'Fabrication de matériels optique et photographique'
+'Manufacture of magnetic and optical media': 'Fabrication de supports magnétiques et optiques'
+'Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus': 'Fabrication de moteurs, génératrices et transformateurs électriques et de matériel de distribution et de commande électrique'
+'Manufacture of batteries and accumulators': "Fabrication de piles et d'accumulateurs électriques"
+'Manufacture of wiring and wiring devices': "Fabrication de fils et câbles et de matériel d'installation électrique"
+'Manufacture of electric lighting equipment': "Fabrication d'appareils d'éclairage électrique"
+'Manufacture of domestic appliances': "Fabrication d'appareils ménagers"
+'Manufacture of other electrical equipment': "Fabrication d'autres matériels électriques"
+'Manufacture of general — purpose machinery': "Fabrication de machines d'usage général"
+'Manufacture of other general-purpose machinery': "Fabrication d'autres machines d'usage général"
+'Manufacture of agricultural and forestry machinery': 'Fabrication de machines agricoles et forestières'
+'Manufacture of metal forming machinery and machine tools': 'Fabrication de machines de formage des métaux et de machines-outils'
+'Manufacture of other special-purpose machinery': "Fabrication d'autres machines d'usage spécifique"
+'Manufacture of motor vehicles': 'Construction de véhicules automobiles'
+'Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers': 'Fabrication de carrosseries et remorques'
+'Manufacture of parts and accessories for motor vehicles': "Fabrication d'équipements automobiles"
+'Building of ships and boats': 'Construction navale'
+'Manufacture of railway locomotives and rolling stock': "Construction de locomotives et d'autre matériel ferroviaire roulant"
+'Manufacture of air and spacecraft and related machinery': 'Construction aéronautique et spatiale'
+'Manufacture of military fighting vehicles': 'Construction de véhicules militaires de combat'
+'Manufacture of transport equipment n.e.c.': 'Fabrication de matériels de transport n.c.a.'
+'Manufacture of jewellery, bijouterie and related articles': "Fabrication d'articles de joaillerie, bijouterie et articles similaires"
+'Manufacture of musical instruments': "Fabrication d'instruments de musique"
+'Manufacture of sports goods': "Fabrication d'articles de sport"
+'Manufacture of games and toys': 'Fabrication de jeux et jouets'
+'Manufacture of medical and dental instruments and supplies': "Fabrication d'instruments et de fournitures à usage médical et dentaire"
+'Manufacturing n.e.c.': 'Activités manufacturières n.c.a.'
+'Repair of fabricated metal products, machinery and equipment': "Réparation d'ouvrages en métaux, de machines et d'équipements"
+'Installation of industrial machinery and equipment': "Installation de machines et d'équipements industriels"
+'Electric power generation, transmission and distribution': "Production, transport et distribution d'électricité"
+'Manufacture of gas; distribution of gaseous fuels through mains': 'Production et distribution de combustibles gazeux'
+'Steam and air conditioning supply': "Production et distribution de vapeur et d'air conditionné"
+'Waste collection': 'Collecte des déchets'
+'Waste treatment and disposal': 'Traitement et élimination des déchets'
+'Materials recovery': Récupération
+'Development of building projects': 'Promotion immobilière'
+'Construction of residential and non-residential buildings': 'Construction de bâtiments résidentiels et non résidentiels'
+'Construction of roads and railways': 'Construction de routes et de voies ferrées'
+'Construction of utility projects': 'Construction de réseaux et de lignes'
+'Construction of other civil engineering projects': "Construction d'autres ouvrages de génie civil"
+'Demolition and site preparation': 'Démolition et préparation des sites'
+'Electrical, plumbing and other construction installation activities': "Travaux d'installation électrique, plomberie et autres travaux d'installation"
+'Building completion and finishing': 'Travaux de finition'
+'Other specialised construction activities': 'Autres travaux de construction spécialisés'
+'Sale of motor vehicles': 'Commerce de véhicules automobiles'
+'Maintenance and repair of motor vehicles': 'Entretien et réparation de véhicules automobiles'
+'Sale of motor vehicle parts and accessories': "Commerce d'équipements automobiles"
+'Sale, maintenance and repair of motorcycles and related parts and accessories': 'Commerce et réparation de motocycles'
+'Wholesale on a fee or contract basis': 'Intermédiaires du commerce de gros'
+'Wholesale of agricultural raw materials and live animals': "Commerce de gros de produits agricoles bruts et d'animaux vivants"
+'Wholesale of food, beverages and tobacco': 'Commerce de gros de produits alimentaires, de boissons et de tabac'
+'Wholesale of household goods': 'Commerce de gros de biens domestiques'
+'Wholesale of information and communication equipment': "Commerce de gros d'équipements de l'information et de la communication"
+'Wholesale of other machinery, equipment and supplies': "Commerce de gros d'autres équipements industriels"
+'Other specialised wholesale': 'Autres commerces de gros spécialisés'
+'Non-specialised wholesale trade': 'Commerce de gros non spécialisé'
+'Retail sale in non-specialised stores': 'Commerce de détail en magasin non spécialisé'
+'Retail sale of food, beverages and tobacco in specialised stores': 'Commerce de détail alimentaire en magasin spécialisé'
+'Retail sale of automotive fuel in specialised stores': 'Commerce de détail de carburants en magasin spécialisé'
+'Retail sale of information and communication equipment in specialised stores': "Commerce de détail d'équipements de l'information et de la communication en magasin spécialisé"
+'Retail sale of other household equipment in specialised stores': "Commerce de détail d'autres équipements du foyer en magasin spécialisé"
+'Retail sale of cultural and recreation goods in specialised stores': 'Commerce de détail de biens culturels et de loisirs en magasin spécialisé'
+'Retail sale of other goods in specialised stores': 'Autres commerces de détail en magasin spécialisé'
+'Retail sale via stalls and markets': 'Commerce de détail sur éventaires et marchés'
+'Retail trade not in stores, stalls or markets': 'Commerce de détail hors magasin, éventaires ou marchés'
+'Passenger rail transport, interurban': 'Transport ferroviaire interurbain de voyageurs'
+'Freight rail transport': 'Transports ferroviaires de fret'
+'Other passenger land transport': 'Autres transports terrestres de voyageurs'
+'Freight transport by road and removal services': 'Transports routiers de fret et services de déménagement'
+'Transport via pipeline': 'Transports par conduites'
+'Sea and coastal passenger water transport': 'Transports maritimes et côtiers de passagers'
+'Sea and coastal freight water transport': 'Transports maritimes et côtiers de fret'
+'Inland passenger water transport': 'Transports fluviaux de passagers'
+'Inland freight water transport': 'Transports fluviaux de fret'
+'Passenger air transport': 'Transports aériens de passagers'
+'Freight air transport and space transport': 'Transports aériens de fret et transports spatiaux'
+'Warehousing and storage': 'Entreposage et stockage'
+'Support activities for transportation': 'Services auxiliaires des transports'
+'Postal activities under universal service obligation': "Activités de poste dans le cadre d'une obligation de service universel"
+'Other postal and courier activities': 'Autres activités de poste et de courrier'
+'Hotels and similar accommodation': 'Hôtels et hébergement similaire'
+'Holiday and other short-stay accommodation': 'Hébergement touristique et autre hébergement de courte durée'
+'Camping grounds, recreational vehicle parks and trailer parks': 'Terrains de camping et parcs pour caravanes ou véhicules de loisirs'
+'Other accommodation': 'Autres hébergements'
+'Restaurants and mobile food service activities': 'Restaurants et services de restauration mobile'
+'Event catering and other food service activities': 'Traiteurs et autres services de restauration'
+'Beverage serving activities': 'Débits de boissons'
+'Publishing of books, periodicals and other publishing activities': "Édition de livres et périodiques et autres activités d'édition"
+'Software publishing': 'Édition de logiciels'
+'Motion picture, video and television programme activities': 'Activités cinématographiques, vidéo et de télévision'
+'Sound recording and music publishing activities': 'Enregistrement sonore et édition musicale'
+'Radio broadcasting': 'Édition et diffusion de programmes radio'
+'Television programming and broadcasting activities': 'Programmation de télévision et télédiffusion'
+'Wired telecommunications activities': 'Télécommunications filaires'
+'Wireless telecommunications activities': 'Télécommunications sans fil'
+'Satellite telecommunications activities': 'Télécommunications par satellite'
+'Other telecommunications activities': 'Autres activités de télécommunication'
+'Data processing, hosting and related activities; web portals': 'Traitement de données, hébergement et activités connexes; portails Internet'
+'Other information service activities': "Autres services d'information"
+'Monetary intermediation': 'Intermédiation monétaire'
+'Activities of holding companies': 'Activités des sociétés holding'
+'Trusts, funds and similar financial entities': 'Fonds de placement et entités financières similaires'
+'Other financial service activities, except insurance and pension funding': 'Autres activités des services financiers, hors assurance et caisses de retraite'
+Insurance: Assurance
+Reinsurance: Réassurance
+'Pension funding': 'Caisses de retraite'
+'Activities auxiliary to financial services, except insurance and pension funding': 'Activités auxiliaires de services financiers, hors assurance et caisses de retraite'
+'Activities auxiliary to insurance and pension funding': "Activités auxiliaires d'assurance et de caisses de retraite"
+'Fund management activities': 'Gestion de fonds'
+'Buying and selling of own real estate': 'Activités des marchands de biens immobiliers'
+'Renting and operating of own or leased real estate': 'Location et exploitation de biens immobiliers propres ou loués'
+'Real estate activities on a fee or contract basis': 'Activités immobilières pour compte de tiers'
+'Legal activities': 'Activités juridiques'
+'Accounting, bookkeeping and auditing activities; tax consultancy': 'Activités comptables'
+'Activities of head offices': 'Activités des sièges sociaux'
+'Management consultancy activities': 'Conseil de gestion'
+'Architectural and engineering activities and related technical consultancy': "Activités d'architecture et d'ingénierie"
+'Technical testing and analysis': 'Activités de contrôle et analyses techniques'
+'Research and experimental development on natural sciences and engineering': 'Recherche-développement en sciences physiques et naturelles'
+'Research and experimental development on social sciences and humanities': 'Recherche-développement en sciences humaines et sociales'
+Advertising: Publicité
+'Market research and public opinion polling': 'Études de marché et sondages'
+'Specialised design activities': 'Activités spécialisées de design'
+'Photographic activities': 'Activités photographiques'
+'Translation and interpretation activities': 'Traduction et interprétation'
+'Other professional, scientific and technical activities n.e.c.': 'Autres activités spécialisées, scientifiques et techniques n.c.a.'
+'Renting and leasing of motor vehicles': 'Location et location-bail de véhicules automobiles'
+'Renting and leasing of personal and household goods': 'Location et location-bail de biens personnels et domestiques'
+'Renting and leasing of other machinery, equipment and tangible goods': "Location et location-bail d'autres machines, équipements et biens"
+'Leasing of intellectual property and similar products, except copyrighted works': "Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright"
+'Activities of employment placement agencies': "Activités des agences de placement de main-d'œuvre"
+'Temporary employment agency activities': 'Activités des agences de travail temporaire'
+'Other human resources provision': 'Autre mise à disposition de ressources humaines'
+'Travel agency and tour operator activities': 'Activités des agences de voyage et voyagistes'
+'Other reservation service and related activities': 'Autres services de réservation et activités connexes'
+'Private security activities': 'Activités de sécurité privée'
+'Security systems service activities': 'Activités liées aux systèmes de sécurité'
+'Investigation activities': "Activités d'enquête"
+'Combined facilities support activities': 'Activités combinées de soutien lié aux bâtiments'
+'Cleaning activities': 'Activités de nettoyage'
+'Landscape service activities': "Services d'aménagement paysager"
+'Office administrative and support activities': 'Activités administratives'
+'Activities of call centres': "Activités de centres d'appels"
+'Organisation of conventions and trade shows': 'Organisation de salons professionnels et congrès'
+'Business support service activities n.e.c.': 'Activités de soutien aux entreprises n.c.a.'
+'Administration of the State and the economic and social policy of the community': 'Administration générale, économique et sociale'
+'Provision of services to the community as a whole': 'Services de prérogative publique'
+'Compulsory social security activities': 'Sécurité sociale obligatoire'
+'Pre-primary education': 'Enseignement pré-primaire'
+'Primary education': 'Enseignement primaire'
+'Secondary education': 'Enseignement secondaire'
+'Higher education': 'Enseignement supérieur et post-secondaire non supérieur'
+'Other education': "Autres activités d'enseignement"
+'Educational support activities': "Activités de soutien à l'enseignement"
+'Hospital activities': 'Activités hospitalières'
+'Medical and dental practice activities': 'Activité des médecins et des dentistes'
+'Other human health activities': 'Autres activités pour la santé humaine'
+'Residential nursing care activities': 'Hébergement médicalisé'
+'Residential care activities for mental retardation, mental health and substance abuse': 'Hébergement social pour personnes handicapées mentales, malades mentales et toxicomanes'
+'Residential care activities for the elderly and disabled': 'Hébergement social pour personnes âgées ou handicapées physiques'
+'Other residential care activities': "Autres activités d'hébergement social"
+'Social work activities without accommodation for the elderly and disabled': 'Action sociale sans hébergement pour personnes âgées et pour personnes handicapées'
+'Other social work activities without accommodation': 'Autre action sociale sans hébergement'
+'Sports activities': 'Activités liées au sport'
+'Amusement and recreation activities': 'Activités récréatives et de loisirs'
+'Activities of business, employers and professional membership organisations': 'Activités des organisations économiques, patronales et professionnelles'
+'Activities of trade unions': 'Activités des syndicats de salariés'
+'Activities of other membership organisations': 'Activités des autres organisations associatives'
+'Repair of computers and communication equipment': "Réparation d'ordinateurs et d'équipements de communication"
+'Repair of personal and household goods': 'Réparation de biens personnels et domestiques'
+'Undifferentiated goods-producing activities of private households for own use': 'Activités indifférenciées des ménages en tant que producteurs de biens pour usage propre'
+'Undifferentiated service-producing activities of private households for own use': 'Activités indifférenciées des ménages en tant que producteurs de services pour usage propre'
+'Growing of cereals (except rice), leguminous crops and oil seeds': "Culture de céréales (à l'exception du riz), de légumineuses et de graines oléagineuses"
+'Growing of rice': 'Culture du riz'
+'Growing of vegetables and melons, roots and tubers': 'Culture de légumes, de melons, de racines et de tubercules'
+'Growing of sugar cane': 'Culture de la canne à sucre'
+'Growing of tobacco': 'Culture du tabac'
+'Growing of fibre crops': 'Culture de plantes à fibres'
+'Growing of other non-perennial crops': 'Autres cultures non permanentes'
+'Growing of grapes': 'Culture de la vigne'
+'Growing of tropical and subtropical fruits': 'Culture de fruits tropicaux et subtropicaux'
+'Growing of citrus fruits': "Culture d'agrumes"
+'Growing of pome fruits and stone fruits': 'Culture de fruits à pépins et à noyau'
+'Growing of other tree and bush fruits and nuts': "Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque"
+'Growing of oleaginous fruits': 'Culture de fruits oléagineux'
+'Growing of beverage crops': 'Culture de plantes à boissons'
+'Growing of spices, aromatic, drug and pharmaceutical crops': 'Culture de plantes à épices, aromatiques, médicinales et pharmaceutiques'
+'Growing of other perennial crops': 'Autres cultures permanentes'
+'Raising of dairy cattle': 'Élevage de vaches laitières'
+'Raising of other cattle and buffaloes': "Élevage d'autres bovins et de buffles"
+'Raising of horses and other equines': "Élevage de chevaux et d'autres équidés"
+'Raising of camels and camelids': "Élevage de chameaux et d'autres camélidés"
+'Raising of sheep and goats': "Élevage d'ovins et de caprins"
+'Raising of swine/pigs': 'Élevage de porcins'
+'Raising of poultry': 'Élevage de volailles'
+'Raising of other animals': "Élevage d'autres animaux"
+'Support activities for crop production': 'Activités de soutien aux cultures'
+'Support activities for animal production': 'Activités de soutien à la production animale'
+'Post-harvest crop activities': 'Traitement primaire des récoltes'
+'Seed processing for propagation': 'Traitement des semences'
+'Marine fishing': 'Pêche en mer'
+'Freshwater fishing': 'Pêche en eau douce'
+'Marine aquaculture': 'Aquaculture en mer'
+'Freshwater aquaculture': 'Aquaculture en eau douce'
+'Mining of uranium and thorium ores': "Extraction de minerais d'uranium et de thorium"
+'Mining of other non-ferrous metal ores': "Extraction d'autres minerais de métaux non ferreux"
+'Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate': "Extraction de pierres ornementales et de construction, de calcaire industriel, de gypse, de craie et d'ardoise"
+'Operation of gravel and sand pits; mining of clays and kaolin': "Exploitation de gravières et sablières, extraction d'argiles et de kaolin"
+'Mining of chemical and fertiliser minerals': "Extraction des minéraux chimiques et d'engrais minéraux"
+'Extraction of peat': 'Extraction de tourbe'
+'Extraction of salt': 'Production de sel'
+'Other mining and quarrying n.e.c.': 'Autres activités extractives n.c.a.'
+'Processing and preserving of meat': 'Transformation et conservation de la viande de boucherie'
+'Processing and preserving of poultry meat': 'Transformation et conservation de la viande de volaille'
+'Production of meat and poultry meat products': 'Préparation de produits à base de viande'
+'Processing and preserving of potatoes': 'Transformation et conservation de pommes de terre'
+'Manufacture of fruit and vegetable juice': 'Préparation de jus de fruits et légumes'
+'Other processing and preserving of fruit and vegetables': 'Autre transformation et conservation de fruits et légumes'
+'Manufacture of oils and fats': "Fabrication d'huiles et graisses"
+'Manufacture of margarine and similar edible fats': 'Fabrication de margarine et graisses comestibles similaires'
+'Operation of dairies and cheese making': 'Exploitation de laiteries et fabrication de fromage'
+'Manufacture of ice cream': 'Fabrication de glaces et sorbets'
+'Manufacture of grain mill products': 'Travail des grains'
+'Manufacture of starches and starch products': 'Fabrication de produits amylacés'
+'Manufacture of bread; manufacture of fresh pastry goods and cakes': 'Fabrication de pain et de pâtisserie fraîche'
+'Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes': 'Fabrication de biscuits, biscottes et pâtisseries de conservation'
+'Manufacture of macaroni, noodles, couscous and similar farinaceous products': 'Fabrication de pâtes alimentaires'
+'Manufacture of sugar': 'Fabrication de sucre'
+'Manufacture of cocoa, chocolate and sugar confectionery': 'Fabrication de cacao, chocolat et de produits de confiserie'
+'Processing of tea and coffee': 'Transformation du thé et du café'
+'Manufacture of condiments and seasonings': 'Fabrication de condiments et assaisonnements'
+'Manufacture of prepared meals and dishes': 'Fabrication de plats préparés'
+'Manufacture of homogenised food preparations and dietetic food': "Fabrication d'aliments homogénéisés et diététiques"
+'Manufacture of other food products n.e.c.': "Fabrication d'autres produits alimentaires n.c.a."
+'Manufacture of prepared feeds for farm animals': "Fabrication d'aliments pour animaux de ferme"
+'Manufacture of prepared pet foods': "Fabrication d'aliments pour animaux de compagnie"
+'Distilling, rectifying and blending of spirits': 'Production de boissons alcooliques distillées'
+'Manufacture of wine from grape': 'Production de vin (de raisin)'
+'Manufacture of cider and other fruit wines': 'Fabrication de cidre et de vins de fruits'
+'Manufacture of other non-distilled fermented beverages': "Production d'autres boissons fermentées non distillées"
+'Manufacture of beer': 'Fabrication de bière'
+'Manufacture of malt': 'Fabrication de malt'
+'Manufacture of soft drinks; production of mineral waters and other bottled waters': 'Industrie des eaux minérales et autres eaux embouteillées et des boissons rafraîchissantes'
+'Manufacture of knitted and crocheted fabrics': "Fabrication d'étoffes à mailles"
+'Manufacture of made-up textile articles, except apparel': "Fabrication d'articles textiles, sauf habillement"
+'Manufacture of carpets and rugs': 'Fabrication de tapis et moquettes'
+'Manufacture of cordage, rope, twine and netting': 'Fabrication de ficelles, cordes et filets'
+'Manufacture of non-wovens and articles made from non-wovens, except apparel': 'Fabrication de non-tissés, sauf habillement'
+'Manufacture of other technical and industrial textiles': "Fabrication d'autres textiles techniques et industriels"
+'Manufacture of other textiles n.e.c.': "Fabrication d'autres textiles n.c.a."
+'Manufacture of leather clothes': 'Fabrication de vêtements en cuir'
+'Manufacture of workwear': 'Fabrication de vêtements de travail'
+'Manufacture of other outerwear': 'Fabrication de vêtements de dessus'
+'Manufacture of underwear': 'Fabrication de vêtements de dessous'
+'Manufacture of other wearing apparel and accessories': "Fabrication d'autres vêtements et accessoires"
+'Manufacture of knitted and crocheted hosiery': "Fabrication d'articles chaussants à mailles"
+'Manufacture of other knitted and crocheted apparel': "Fabrication d'autres articles à mailles"
+'Tanning and dressing of leather; dressing and dyeing of fur': 'Apprêt et tannage des cuirs; préparation et teinture des fourrures'
+'Manufacture of luggage, handbags and the like, saddlery and harness': "Fabrication d'articles de voyage, de maroquinerie et de sellerie"
+'Manufacture of veneer sheets and wood-based panels': 'Fabrication de placage et de panneaux de bois'
+'Manufacture of assembled parquet floors': 'Fabrication de parquets assemblés'
+"Manufacture of other builders' carpentry and joinery": "Fabrication de charpentes et d'autres menuiseries"
+'Manufacture of wooden containers': "Fabrication d'emballages en bois"
+'Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials': "Fabrication d'objets divers en bois; fabrication d'objets en liège, vannerie et sparterie"
+'Manufacture of pulp': 'Fabrication de pâte à papier'
+'Manufacture of paper and paperboard': 'Fabrication de papier et de carton'
+'Manufacture of corrugated paper and paperboard and of containers of paper and paperboard': "Fabrication de papier et carton ondulés et d'emballages en papier ou en carton"
+'Manufacture of household and sanitary goods and of toilet requisites': "Fabrication d'articles en papier à usage sanitaire ou domestique"
+'Manufacture of paper stationery': "Fabrication d'articles de papeterie"
+'Manufacture of wallpaper': 'Fabrication de papiers peints'
+'Manufacture of other articles of paper and paperboard': "Fabrication d'autres articles en papier ou en carton"
+'Printing of newspapers': 'Imprimerie de journaux'
+'Other printing': 'Autre imprimerie (labeur)'
+'Pre-press and pre-media services': 'Activités de pré-presse'
+'Binding and related services': 'Reliure et activités connexes'
+'Manufacture of industrial gases': 'Fabrication de gaz industriels'
+'Manufacture of dyes and pigments': 'Fabrication de colorants et de pigments'
+'Manufacture of other inorganic basic chemicals': "Fabrication d'autres produits chimiques inorganiques de base"
+'Manufacture of other organic basic chemicals': "Fabrication d'autres produits chimiques organiques de base"
+'Manufacture of fertilisers and nitrogen compounds': "Fabrication de produits azotés et d'engrais"
+'Manufacture of plastics in primary forms': 'Fabrication de matières plastiques de base'
+'Manufacture of synthetic rubber in primary forms': 'Fabrication de caoutchouc synthétique'
+'Manufacture of soap and detergents, cleaning and polishing preparations': "Fabrication de savons, détergents et produits d'entretien"
+'Manufacture of perfumes and toilet preparations': 'Fabrication de parfums et de produits pour la toilette'
+'Manufacture of explosives': 'Fabrication de produits explosifs'
+'Manufacture of glues': 'Fabrication de colles'
+'Manufacture of essential oils': "Fabrication d'huiles essentielles"
+'Manufacture of other chemical products n.e.c.': "Fabrication d'autres produits chimiques n.c.a."
+'Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres': 'Fabrication et rechapage de pneumatiques'
+'Manufacture of other rubber products': "Fabrication d'autres articles en caoutchouc"
+'Manufacture of plastic plates, sheets, tubes and profiles': 'Fabrication de plaques, feuilles, tubes et profilés en matières plastiques'
+'Manufacture of plastic packing goods': "Fabrication d'emballages en matières plastiques"
+"Manufacture of builders' ware of plastic": "Fabrication d'éléments en matières plastiques pour la construction"
+'Manufacture of other plastic products': "Fabrication d'autres articles en matières plastiques"
+'Manufacture of flat glass': 'Fabrication de verre plat'
+'Shaping and processing of flat glass': 'Façonnage et transformation du verre plat'
+'Manufacture of hollow glass': 'Fabrication de verre creux'
+'Manufacture of glass fibres': 'Fabrication de fibres de verre'
+'Manufacture and processing of other glass, including technical glassware': "Fabrication et façonnage d'autres articles en verre, y compris verre technique"
+'Manufacture of ceramic tiles and flags': 'Fabrication de carreaux en céramique'
+'Manufacture of bricks, tiles and construction products, in baked clay': 'Fabrication de briques, tuiles et produits de construction, en terre cuite'
+'Manufacture of ceramic household and ornamental articles': "Fabrication d'articles céramiques à usage domestique ou ornemental"
+'Manufacture of ceramic sanitary fixtures': "Fabrication d'appareils sanitaires en céramique"
+'Manufacture of ceramic insulators and insulating fittings': "Fabrication d'isolateurs et pièces isolantes en céramique"
+'Manufacture of other technical ceramic products': "Fabrication d'autres produits céramiques à usage technique"
+'Manufacture of other ceramic products': "Fabrication d'autres produits céramiques"
+'Manufacture of cement': 'Fabrication de ciment'
+'Manufacture of lime and plaster': 'Fabrication de chaux et plâtre'
+'Manufacture of concrete products for construction purposes': "Fabrication d'éléments en béton pour la construction"
+'Manufacture of plaster products for construction purposes': "Fabrication d'éléments en plâtre pour la construction"
+'Manufacture of ready-mixed concrete': "Fabrication de béton prêt à l'emploi"
+'Manufacture of mortars': 'Fabrication de mortiers et bétons secs'
+'Manufacture of fibre cement': "Fabrication d'ouvrages en fibre-ciment"
+'Manufacture of other articles of concrete, plaster and cement': "Fabrication d'autres ouvrages en béton, en ciment ou en plâtre"
+'Production of abrasive products': 'Fabrication de produits abrasifs'
+'Manufacture of other non-metallic mineral products n.e.c.': "Fabrication d'autres produits minéraux non métalliques n.c.a."
+'Cold drawing of bars': 'Étirage à froid de barres'
+'Cold rolling of narrow strip': 'Laminage à froid de feuillards'
+'Cold forming or folding': 'Profilage à froid par formage ou pliage'
+'Cold drawing of wire': 'Tréfilage à froid'
+'Precious metals production': 'Production de métaux précieux'
+'Aluminium production': "Métallurgie de l'aluminium"
+'Lead, zinc and tin production': "Métallurgie du plomb, du zinc ou de l'étain"
+'Copper production': 'Métallurgie du cuivre'
+'Other non-ferrous metal production': 'Métallurgie des autres métaux non ferreux'
+'Processing of nuclear fuel': 'Élaboration et transformation de matières nucléaires'
+'Casting of iron': 'Fonderie de fonte'
+'Casting of steel': "Fonderie d'acier"
+'Casting of light metals': 'Fonderie de métaux légers'
+'Casting of other non-ferrous metals': "Fonderie d'autres métaux non ferreux"
+'Manufacture of metal structures and parts of structures': 'Fabrication de structures métalliques et de parties de structures'
+'Manufacture of doors and windows of metal': 'Fabrication de portes et fenêtres en métal'
+'Manufacture of central heating radiators and boilers': 'Fabrication de radiateurs et de chaudières pour le chauffage central'
+'Manufacture of other tanks, reservoirs and containers of metal': "Fabrication d'autres réservoirs, citernes et conteneurs métalliques"
+'Treatment and coating of metals': 'Traitement et revêtement des métaux'
+Machining: Usinage
+'Manufacture of cutlery': 'Fabrication de coutellerie'
+'Manufacture of locks and hinges': 'Fabrication de serrures et de ferrures'
+'Manufacture of tools': "Fabrication d'outillage"
+'Manufacture of steel drums and similar containers': 'Fabrication de fûts et emballages métalliques similaires'
+'Manufacture of light metal packaging': "Fabrication d'emballages métalliques légers"
+'Manufacture of wire products, chain and springs': "Fabrication d'articles en fils métalliques, de chaînes et de ressorts"
+'Manufacture of fasteners and screw machine products': 'Fabrication de vis et de boulons'
+'Manufacture of other fabricated metal products n.e.c.': "Fabrication d'autres produits métalliques n.c.a."
+'Manufacture of electronic components': 'Fabrication de composants électroniques'
+'Manufacture of loaded electronic boards': 'Fabrication de cartes électroniques assemblées'
+'Manufacture of instruments and appliances for measuring, testing and navigation': "Fabrication d'instruments et d'appareils de mesure, d'essai et de navigation"
+'Manufacture of watches and clocks': Horlogerie
+'Manufacture of electric motors, generators and transformers': 'Fabrication de moteurs, génératrices et transformateurs électriques'
+'Manufacture of electricity distribution and control apparatus': 'Fabrication de matériel de distribution et de commande électrique'
+'Manufacture of fibre optic cables': 'Fabrication de câbles de fibres optiques'
+'Manufacture of other electronic and electric wires and cables': "Fabrication d'autres fils et câbles électroniques ou électriques"
+'Manufacture of wiring devices': "Fabrication de matériel d'installation électrique"
+'Manufacture of electric domestic appliances': "Fabrication d'appareils électroménagers"
+'Manufacture of non-electric domestic appliances': "Fabrication d'appareils ménagers non électriques"
+'Manufacture of engines and turbines, except aircraft, vehicle and cycle engines': "Fabrication de moteurs et turbines, à l'exception des moteurs d'avions et de véhicules"
+'Manufacture of fluid power equipment': "Fabrication d'équipements hydrauliques et pneumatiques"
+'Manufacture of other pumps and compressors': "Fabrication d'autres pompes et compresseurs"
+'Manufacture of other taps and valves': "Fabrication d'autres articles de robinetterie"
+'Manufacture of bearings, gears, gearing and driving elements': "Fabrication d'engrenages et d'organes mécaniques de transmission"
+'Manufacture of ovens, furnaces and furnace burners': 'Fabrication de fours et brûleurs'
+'Manufacture of lifting and handling equipment': 'Fabrication de matériel de levage et de manutention'
+'Manufacture of office machinery and equipment (except computers and peripheral equipment)': "Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques)"
+'Manufacture of power-driven hand tools': "Fabrication d'outillage portatif à moteur incorporé"
+'Manufacture of non-domestic cooling and ventilation equipment': "Fabrication d'équipements aérauliques et frigorifiques industriels"
+'Manufacture of other general-purpose machinery n.e.c.': "Fabrication de machines diverses d'usage général"
+'Manufacture of metal forming machinery': 'Fabrication de machines de formage des métaux'
+'Manufacture of other machine tools': "Fabrication d'autres machines-outils"
+'Manufacture of machinery for metallurgy': 'Fabrication de machines pour la métallurgie'
+'Manufacture of machinery for mining, quarrying and construction': "Fabrication de machines pour l'extraction ou la construction"
+'Manufacture of machinery for food, beverage and tobacco processing': "Fabrication de machines pour l'industrie agro-alimentaire"
+'Manufacture of machinery for textile, apparel and leather production': 'Fabrication de machines pour les industries textiles'
+'Manufacture of machinery for paper and paperboard production': 'Fabrication de machines pour les industries du papier et du carton'
+'Manufacture of plastic and rubber machinery': 'Fabrication de machines pour le travail du caoutchouc ou des plastiques'
+'Manufacture of other special-purpose machinery n.e.c.': "Fabrication d'autres machines d'usage spécifique n.c.a."
+'Manufacture of electrical and electronic equipment for motor vehicles': "Fabrication d'équipements électriques et électroniques automobiles"
+'Manufacture of other parts and accessories for motor vehicles': "Fabrication d'autres équipements automobiles"
+'Building of ships and floating structures': 'Construction de navires et de structures flottantes'
+'Building of pleasure and sporting boats': 'Construction de bateaux de plaisance'
+'Manufacture of motorcycles': 'Fabrication de motocycles'
+'Manufacture of bicycles and invalid carriages': 'Fabrication de bicyclettes et de véhicules pour invalides'
+'Manufacture of other transport equipment n.e.c.': "Fabrication d'autres équipements de transport n.c.a."
+'Manufacture of office and shop furniture': 'Fabrication de meubles de bureau et de magasin'
+'Manufacture of kitchen furniture': 'Fabrication de meubles de cuisine'
+'Manufacture of mattresses': 'Fabrication de matelas'
+'Manufacture of other furniture': "Fabrication d'autres meubles"
+'Striking of coins': 'Frappe de monnaie'
+'Manufacture of jewellery and related articles': "Fabrication d'articles de joaillerie et bijouterie"
+'Manufacture of imitation jewellery and related articles': "Fabrication d'articles de bijouterie fantaisie et articles similaires"
+'Manufacture of brooms and brushes': "Fabrication d'articles de brosserie"
+'Other manufacturing n.e.c.': 'Autres activités manufacturières n.c.a.'
+'Repair of fabricated metal products': "Réparation d'ouvrages en métaux"
+'Repair of machinery': 'Réparation de machines et équipements mécaniques'
+'Repair of electronic and optical equipment': 'Réparation de matériels électroniques et optiques'
+'Repair of electrical equipment': "Réparation d'équipements électriques"
+'Repair and maintenance of ships and boats': 'Réparation et maintenance navale'
+'Repair and maintenance of aircraft and spacecraft': "Réparation et maintenance d'aéronefs et d'engins spatiaux"
+'Repair and maintenance of other transport equipment': "Réparation et maintenance d'autres équipements de transport"
+'Repair of other equipment': "Réparation d'autres équipements"
+'Production of electricity': "Production d'électricité"
+'Transmission of electricity': "Transport d'électricité"
+'Distribution of electricity': "Distribution d'électricité"
+'Trade of electricity': "Commerce d'électricité"
+'Manufacture of gas': 'Production de combustibles gazeux'
+'Distribution of gaseous fuels through mains': 'Distribution de combustibles gazeux par conduites'
+'Trade of gas through mains': 'Commerce de combustibles gazeux par conduites'
+'Collection of non-hazardous waste': 'Collecte des déchets non dangereux'
+'Collection of hazardous waste': 'Collecte des déchets dangereux'
+'Treatment and disposal of non-hazardous waste': 'Traitement et élimination des déchets non dangereux'
+'Treatment and disposal of hazardous waste': 'Traitement et élimination des déchets dangereux'
+'Dismantling of wrecks': "Démantèlement d'épaves"
+'Recovery of sorted materials': 'Récupération de déchets triés'
+'Construction of roads and motorways': 'Construction de routes et autoroutes'
+'Construction of railways and underground railways': 'Construction de voies ferrées de surface et souterraines'
+'Construction of bridges and tunnels': 'Construction de ponts et tunnels'
+'Construction of utility projects for fluids': 'Construction de réseaux pour fluides'
+'Construction of utility projects for electricity and telecommunications': 'Construction de réseaux électriques et de télécommunications'
+'Construction of water projects': "Construction d'ouvrages maritimes et fluviaux"
+'Construction of other civil engineering projects n.e.c.': "Construction d'autres ouvrages de génie civil n.c.a."
+Demolition: 'Travaux de démolition'
+'Site preparation': 'Travaux de préparation des sites'
+'Test drilling and boring': 'Forages et sondages'
+'Electrical installation': 'Installation électrique'
+'Plumbing, heat and air conditioning installation': "Travaux de plomberie et installation de chauffage et de conditionnement d'air"
+'Other construction installation': "Autres travaux d'installation"
+Plastering: 'Travaux de plâtrerie'
+'Joinery installation': 'Travaux de menuiserie'
+'Floor and wall covering': 'Travaux de revêtement des sols et des murs'
+'Painting and glazing': 'Travaux de peinture et vitrerie'
+'Other building completion and finishing': 'Autres travaux de finition'
+'Roofing activities': 'Travaux de couverture'
+'Other specialised construction activities n.e.c.': 'Autres travaux de construction spécialisés n.c.a.'
+'Sale of cars and light motor vehicles': 'Commerce de voitures et de véhicules automobiles légers'
+'Sale of other motor vehicles': "Commerce d'autres véhicules automobiles"
+'Wholesale trade of motor vehicle parts and accessories': "Commerce de gros d'équipements automobiles"
+'Retail trade of motor vehicle parts and accessories': "Commerce de détail d'équipements automobiles"
+'Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods': 'Intermédiaires du commerce en matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis'
+'Agents involved in the sale of fuels, ores, metals and industrial chemicals': 'Intermédiaires du commerce en combustibles, métaux, minéraux et produits chimiques'
+'Agents involved in the sale of timber and building materials': 'Intermédiaires du commerce en bois et matériaux de construction'
+'Agents involved in the sale of machinery, industrial equipment, ships and aircraft': 'Intermédiaires du commerce en machines, équipements industriels, navires et avions'
+'Agents involved in the sale of furniture, household goods, hardware and ironmongery': 'Intermédiaires du commerce en meubles, articles de ménage et quincaillerie'
+'Agents involved in the sale of textiles, clothing, fur, footwear and leather goods': 'Intermédiaires du commerce en textiles, habillement, fourrures, chaussures et articles en cuir'
+'Agents involved in the sale of food, beverages and tobacco': 'Intermédiaires du commerce en denrées, boissons et tabac'
+'Agents specialised in the sale of other particular products': "Intermédiaires spécialisés dans le commerce d'autres produits spécifiques"
+'Agents involved in the sale of a variety of goods': 'Intermédiaires du commerce en produits divers'
+'Wholesale of grain, unmanufactured tobacco, seeds and animal feeds': "Commerce de gros de céréales, de tabac non manufacturé, de semences et d'aliments pour le bétail"
+'Wholesale of flowers and plants': 'Commerce de gros de fleurs et plantes'
+'Wholesale of live animals': "Commerce de gros d'animaux vivants"
+'Wholesale of hides, skins and leather': 'Commerce de gros de cuirs et peaux'
+'Wholesale of fruit and vegetables': 'Commerce de gros de fruits et légumes'
+'Wholesale of meat and meat products': 'Commerce de gros de viandes et de produits à base de viande'
+'Wholesale of dairy products, eggs and edible oils and fats': 'Commerce de gros de produits laitiers, œufs, huiles et matières grasses comestibles'
+'Wholesale of beverages': 'Commerce de gros de boissons'
+'Wholesale of tobacco products': 'Commerce de gros de produits à base de de tabac'
+'Wholesale of sugar and chocolate and sugar confectionery': 'Commerce de gros de sucre, chocolat et confiserie'
+'Wholesale of coffee, tea, cocoa and spices': 'Commerce de gros de café, thé, cacao et épices'
+'Wholesale of other food, including fish, crustaceans and molluscs': "Commerce de gros d'autres produits alimentaires, y compris poissons, crustacés et mollusques"
+'Non-specialised wholesale of food, beverages and tobacco': 'Commerce de gros non spécialisé de denrées, boissons et tabac'
+'Wholesale of textiles': 'Commerce de gros de textiles'
+'Wholesale of clothing and footwear': "Commerce de gros d'habillement et de chaussures"
+'Wholesale of electrical household appliances': "Commerce de gros d'appareils électroménagers"
+'Wholesale of china and glassware and cleaning materials': "Commerce de gros de vaisselle, verrerie et produits d'entretien"
+'Wholesale of perfume and cosmetics': 'Commerce de gros de parfumerie et de produits de beauté'
+'Wholesale of pharmaceutical goods': 'Commerce de gros de produits pharmaceutiques'
+'Wholesale of furniture, carpets and lighting equipment': "Commerce de gros de meubles, de tapis et d'appareils d'éclairage"
+'Wholesale of watches and jewellery': "Commerce de gros d'articles d'horlogerie et de bijouterie"
+'Wholesale of other household goods': 'Commerce de gros dautres biens domestiques'
+'Wholesale of computers, computer peripheral equipment and software': "Commerce de gros d'ordinateurs, d'équipements informatiques périphériques et de logiciels"
+'Wholesale of electronic and telecommunications equipment and parts': "Commerce de gros de composants et d'équipements électroniques et de télécommunication"
+'Wholesale of agricultural machinery, equipment and supplies': 'Commerce de gros de matériel agricole'
+'Wholesale of machine tools': 'Commerce de gros de machines-outils'
+'Wholesale of mining, construction and civil engineering machinery': "Commerce de gros de machines pour l'extraction, la construction et le génie civil"
+'Wholesale of machinery for the textile industry and of sewing and knitting machines': "Commerce de gros de machines pour l'industrie textile et l'habillement"
+'Wholesale of office furniture': 'Commerce de gros de mobilier de bureau'
+'Wholesale of other office machinery and equipment': "Commerce de gros d'autres machines et équipements de bureau"
+'Wholesale of other machinery and equipment': "Commerce de gros d'autres machines et équipements"
+'Wholesale of solid, liquid and gaseous fuels and related products': 'Commerce de gros de combustibles et de produits annexes'
+'Wholesale of metals and metal ores': 'Commerce de gros de minerais et métaux'
+'Wholesale of wood, construction materials and sanitary equipment': "Commerce de gros de bois, de matériaux de construction et d'appareils sanitaires"
+'Wholesale of hardware, plumbing and heating equipment and supplies': 'Commerce de gros de quincaillerie et fournitures pour plomberie et chauffage'
+'Wholesale of chemical products': 'Commerce de gros de produits chimiques'
+'Wholesale of other intermediate products': "Commerce de gros d'autres produits intermédiaires"
+'Wholesale of waste and scrap': 'Commerce de gros de déchets et débris'
+'Retail sale in non-specialised stores with food, beverages or tobacco predominating': 'Commerce de détail en magasin non spécialisé à prédominance alimentaire'
+'Other retail sale in non-specialised stores': 'Autre commerce de détail en magasin non spécialisé'
+'Retail sale of fruit and vegetables in specialised stores': 'Commerce de détail de fruits et légumes en magasin spécialisé'
+'Retail sale of meat and meat products in specialised stores': 'Commerce de détail de viandes et de produits à base de viande en magasin spécialisé'
+'Retail sale of fish, crustaceans and molluscs in specialised stores': 'Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé'
+'Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores': 'Commerce de détail de pain, pâtisserie et confiserie en magasin spécialisé'
+'Retail sale of beverages in specialised stores': 'Commerce de détail de boissons en magasin spécialisé'
+'Retail sale of tobacco products in specialised stores': 'Commerce de détail de produits à base de tabac en magasin spécialisé'
+'Other retail sale of food in specialised stores': 'Autres commerces de détail alimentaires en magasin spécialisé'
+'Retail sale of computers, peripheral units and software in specialised stores': "Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé"
+'Retail sale of telecommunications equipment in specialised stores': 'Commerce de détail de matériels de télécommunication en magasin spécialisé'
+'Retail sale of audio and video equipment in specialised stores': 'Commerce de détail de matériels audio/vidéo en magasin spécialisé'
+'Retail sale of textiles in specialised stores': 'Commerce de détail de textiles en magasin spécialisé'
+'Retail sale of hardware, paints and glass in specialised stores': 'Commerce de détail de quincaillerie, peintures et verres en magasin spécialisé'
+'Retail sale of carpets, rugs, wall and floor coverings in specialised stores': 'Commerce de détail de tapis, moquettes et revêtements de murs et de sols en magasin spécialisé'
+'Retail sale of electrical household appliances in specialised stores': "Commerce de détail d'appareils électroménagers en magasin spécialisé"
+'Retail sale of furniture, lighting equipment and other household articles in specialised stores': "Commerce de détail de meubles, appareils d'éclairage et autres articles de ménage en magasin spécialisé"
+'Retail sale of books in specialised stores': 'Commerce de détail de livres en magasin spécialisé'
+'Retail sale of newspapers and stationery in specialised stores': 'Commerce de détail de journaux et papeterie en magasin spécialisé'
+'Retail sale of music and video recordings in specialised stores': "Commerce de détail d'enregistrements musicaux et vidéo en magasin spécialisé"
+'Retail sale of sporting equipment in specialised stores': "Commerce de détail d'articles de sport en magasin spécialisé"
+'Retail sale of games and toys in specialised stores': 'Commerce de détail de jeux et jouets en magasin spécialisé'
+'Retail sale of clothing in specialised stores': "Commerce de détail d'habillement en magasin spécialisé"
+'Retail sale of footwear and leather goods in specialised stores': "Commerce de détail de chaussures et d'articles en cuir en magasin spécialisé"
+'Dispensing chemist in specialised stores': 'Commerce de détail de produits pharmaceutiques en magasin spécialisé'
+'Retail sale of medical and orthopaedic goods in specialised stores': "Commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé"
+'Retail sale of cosmetic and toilet articles in specialised stores': 'Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé'
+'Retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food in specialised stores': 'Commerce de détail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin spécialisé'
+'Retail sale of watches and jewellery in specialised stores': "Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé"
+'Other retail sale of new goods in specialised stores': 'Autre commerce de détail de biens neufs en magasin spécialisé'
+'Retail sale of second-hand goods in stores': "Commerce de détail de biens d'occasion en magasin"
+'Retail sale via stalls and markets of food, beverages and tobacco products': 'Commerce de détail alimentaire sur éventaires et marchés'
+'Retail sale via stalls and markets of textiles, clothing and footwear': "Commerce de détail de textiles, d'habillement et de chaussures sur éventaires et marchés"
+'Retail sale via stalls and markets of other goods': 'Autres commerces de détail sur éventaires et marchés'
+'Retail sale via mail order houses or via Internet': 'Vente à distance'
+'Other retail sale not in stores, stalls or markets': 'Autres commerces de détail hors magasin, éventaires ou marchés'
+'Urban and suburban passenger land transport': 'Transports urbains et suburbains de voyageurs'
+'Taxi operation': 'Transports de voyageurs par taxis'
+'Other passenger land transport n.e.c.': 'Autres transports terrestres de voyageurs n.c.a.'
+'Freight transport by road': 'Transports routiers de fret'
+'Removal services': 'Services de déménagement'
+'Freight air transport': 'Transports aériens de fret'
+'Space transport': 'Transports spatiaux'
+'Service activities incidental to land transportation': 'Services auxiliaires des transports terrestres'
+'Service activities incidental to water transportation': 'Services auxiliaires des transports par eau'
+'Service activities incidental to air transportation': 'Services auxiliaires des transports aériens'
+'Cargo handling': Manutention
+'Other transportation support activities': 'Autres services auxiliaires des transports'
+'Event catering activities': 'Services des traiteurs'
+'Other food service activities': 'Autres services de restauration'
+'Book publishing': 'Édition de livres'
+'Publishing of directories and mailing lists': "Édition de répertoires et de fichiers d'adresses"
+'Publishing of newspapers': 'Édition de journaux'
+'Publishing of journals and periodicals': 'Édition de revues et périodiques'
+'Other publishing activities': "Autres activités d'édition"
+'Publishing of computer games': 'Édition de jeux électroniques'
+'Other software publishing': "Édition d'autres logiciels"
+'Motion picture, video and television programme production activities': 'Production de films cinématographiques, de vidéo et de programmes de télévision'
+'Motion picture, video and television programme post-production activities': 'Post-production de films cinématographiques, de vidéo et de programmes de télévision'
+'Motion picture, video and television programme distribution activities': 'Distribution de films cinématographiques, de vidéo et de programmes de télévision'
+'Motion picture projection activities': 'Projection de films cinématographiques'
+'Computer programming activities': 'Programmation informatique'
+'Computer consultancy activities': 'Conseil informatique'
+'Computer facilities management activities': "Gestion d'installations informatiques"
+'Other information technology and computer service activities': 'Autres activités informatiques'
+'Data processing, hosting and related activities': 'Traitement de données, hébergement et activités connexes'
+'Web portals': 'Portails Internet'
+'News agency activities': 'Activités des agences de presse'
+'Other information service activities n.e.c.': "Autres services d'information n.c.a."
+'Central banking': 'Activités de banque centrale'
+'Other monetary intermediation': 'Autres intermédiations monétaires'
+'Financial leasing': Crédit-bail
+'Other credit granting': 'Autre distribution de crédit'
+'Other financial service activities, except insurance and pension funding n.e.c.': 'Autres activités des services financiers, hors assurance et caisses de retraite, n.c.a.'
+'Life insurance': 'Assurance vie'
+'Non-life insurance': 'Autres assurances'
+'Administration of financial markets': 'Administration de marchés financiers'
+'Security and commodity contracts brokerage': 'Courtage de valeurs mobilières et de marchandises'
+'Other activities auxiliary to financial services, except insurance and pension funding': 'Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite'
+'Risk and damage evaluation': 'Évaluation des risques et dommages'
+'Activities of insurance agents and brokers': "Activités des agents et courtiers d'assurances"
+'Other activities auxiliary to insurance and pension funding': "Autres activités auxiliaires d'assurance et de caisses de retraite"
+'Real estate agencies': 'Agences immobilières'
+'Management of real estate on a fee or contract basis': 'Administration de biens immobiliers'
+'Public relations and communication activities': 'Conseil en relations publiques et communication'
+'Business and other management consultancy activities': 'Conseil pour les affaires et autres conseils de gestion'
+'Architectural activities': "Activités d'architecture"
+'Engineering activities and related technical consultancy': "Activités d'ingénierie"
+'Research and experimental development on biotechnology': 'Recherche-développement en biotechnologie'
+'Other research and experimental development on natural sciences and engineering': 'Recherche-développement en autres sciences physiques et naturelles'
+'Advertising agencies': 'Activités des agences de publicité'
+'Media representation': 'Régie publicitaire de médias'
+'Renting and leasing of cars and light motor vehicles': 'Location et location-bail de voitures et de véhicules automobiles légers'
+'Renting and leasing of trucks': 'Location et location-bail de camions'
+'Renting and leasing of recreational and sports goods': "Location et location-bail d'articles de loisirs et de sport"
+'Renting of video tapes and disks': 'Location de vidéocassettes et disques vidéo'
+'Renting and leasing of other personal and household goods': "Location et location-bail d'autres biens personnels et domestiques"
+'Renting and leasing of agricultural machinery and equipment': 'Location et location bail de machines et équipements agricoles'
+'Renting and leasing of construction and civil engineering machinery and equipment': 'Location et location-bail de machines et équipements pour la construction'
+'Renting and leasing of office machinery and equipment (including computers)': 'Location et location-bail de machines de bureau et de matériel informatique'
+'Renting and leasing of water transport equipment': 'Location et location-bail de matériels de transport par eau'
+'Renting and leasing of air transport equipment': 'Location et location-bail de matériels de transport aérien'
+'Renting and leasing of other machinery, equipment and tangible goods n.e.c.': "Location et location-bail d'autres machines, équipements et biens matériels n.c.a."
+'Travel agency activities': 'Activités des agences de voyage'
+'Tour operator activities': 'Activités des voyagistes'
+'General cleaning of buildings': 'Nettoyage courant des bâtiments'
+'Other building and industrial cleaning activities': 'Autres activités de nettoyage des bâtiments et nettoyage industriel'
+'Other cleaning activities': 'Autres activités de nettoyage'
+'Combined office administrative service activities': 'Services administratifs combinés de bureau'
+'Photocopying, document preparation and other specialised office support activities': 'Photocopie, préparation de documents et autres activités spécialisées de soutien de bureau'
+'Activities of collection agencies and credit bureaus': "Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle"
+'Packaging activities': 'Activités de conditionnement'
+'Other business support service activities n.e.c.': 'Autres activités de soutien aux entreprises n.c.a.'
+'General public administration activities': 'Administration publique générale'
+'Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security': 'Administration publique (tutelle) de la santé, de la formation, de la culture et des services sociaux, autre que sécurité sociale'
+'Regulation of and contribution to more efficient operation of businesses': 'Administration publique (tutelle) des activités économiques'
+'Foreign affairs': 'Affaires étrangères'
+'Defence activities': Défense
+'Justice and judicial activities': Justice
+'Public order and safety activities': "Activités d'ordre public et de sécurité"
+'Fire service activities': 'Services du feu et de secours'
+'General secondary education': 'Enseignement secondaire général'
+'Technical and vocational secondary education': 'Enseignement secondaire technique ou professionnel'
+'Post-secondary non-tertiary education': 'Enseignement post-secondaire non supérieur'
+'Tertiary education': 'Enseignement supérieur'
+'Sports and recreation education': "Enseignement de disciplines sportives et d'activités de loisirs"
+'Cultural education': 'Enseignement culturel'
+'Driving school activities': 'Enseignement de la conduite'
+'Other education n.e.c.': 'Enseignements divers'
+'General medical practice activities': 'Activité des médecins généralistes'
+'Specialist medical practice activities': 'Activité des médecins spécialistes'
+'Dental practice activities': 'Pratique dentaire'
+'Child day-care activities': 'Action sociale sans hébergement pour jeunes enfants'
+'Other social work activities without accommodation n.e.c.': 'Autre action sociale sans hébergement n.c.a.'
+'Performing arts': 'Arts du spectacle vivant'
+'Support activities to performing arts': 'Activités de soutien au spectacle vivant'
+'Artistic creation': 'Création artistique'
+'Operation of arts facilities': 'Gestion de salles de spectacles'
+'Library and archives activities': 'Gestion des bibliothèques et des archives'
+'Museums activities': 'Gestion des musées'
+'Operation of historical sites and buildings and similar visitor attractions': 'Gestion des sites et monuments historiques et des attractions touristiques similaires'
+'Botanical and zoological gardens and nature reserves activities': 'Gestion des jardins botaniques et zoologiques et des réserves naturelles'
+'Operation of sports facilities': "Gestion d'installations sportives"
+'Activities of sport clubs': 'Activités de clubs de sports'
+'Fitness facilities': 'Activités des centres de culture physique'
+'Other sports activities': 'Autres activités liées au sport'
+'Activities of amusement parks and theme parks': "Activités des parcs d'attractions et parcs à thèmes"
+'Other amusement and recreation activities': 'Autres activités récréatives et de loisirs'
+'Activities of business and employers membership organisations': 'Activités des organisations patronales et consulaires'
+'Activities of professional membership organisations': 'Activités des organisations professionnelles'
+'Activities of religious organisations': 'Activités des organisations religieuses'
+'Activities of political organisations': 'Activités des organisations politiques'
+'Activities of other membership organisations n.e.c.': 'Activités des organisations associatives n.c.a.'
+'Repair of computers and peripheral equipment': "Réparation d'ordinateurs et d'équipements périphériques"
+'Repair of communication equipment': "Réparation d'équipements de communication"
+'Repair of consumer electronics': 'Réparation de produits électroniques grand public'
+'Repair of household appliances and home and garden equipment': "Réparation d'appareils électroménagers et d'équipements pour la maison et le jardin"
+'Repair of footwear and leather goods': "Réparation de chaussures et d'articles en cuir"
+'Repair of furniture and home furnishings': "Réparation de meubles et d'équipements du foyer"
+'Repair of watches, clocks and jewellery': "Réparation d'articles d'horlogerie et de bijouterie"
+'Repair of other personal and household goods': "Réparation d'autres biens personnels et domestiques"
+'Washing and (dry-)cleaning of textile and fur products': Blanchisserie-teinturerie
+'Hairdressing and other beauty treatment': 'Coiffure et soins de beauté'
+'Funeral and related activities': 'Services funéraires'
+'Physical well-being activities': 'Entretien corporel'
+'Other personal service activities n.e.c.': 'Autres services personnels n.c.a.'
+'Capital goods': 'Biens d’investissement'
+'Consumer durables': 'Biens de consommation durables'
+'Consumer non-durables': 'Biens de consommation non durables'
+Energy: Énergie
+'Intermediate goods': 'Biens intermédiaires'

@@ -1,0 +1,618 @@
+[
+    {
+        "code": "01",
+        "rawCode": "01",
+        "version": 2,
+        "section": "A",
+        "name": "Crop and animal production, hunting and related service activities"
+    },
+    {
+        "code": "02",
+        "rawCode": "02",
+        "version": 2,
+        "section": "A",
+        "name": "Forestry and logging"
+    },
+    {
+        "code": "03",
+        "rawCode": "03",
+        "version": 2,
+        "section": "A",
+        "name": "Fishing and aquaculture"
+    },
+    {
+        "code": "05",
+        "rawCode": "05",
+        "version": 2,
+        "section": "B",
+        "name": "Mining of coal and lignite"
+    },
+    {
+        "code": "06",
+        "rawCode": "06",
+        "version": 2,
+        "section": "B",
+        "name": "Extraction of crude petroleum and natural gas"
+    },
+    {
+        "code": "07",
+        "rawCode": "07",
+        "version": 2,
+        "section": "B",
+        "name": "Mining of metal ores"
+    },
+    {
+        "code": "08",
+        "rawCode": "08",
+        "version": 2,
+        "section": "B",
+        "name": "Other mining and quarrying"
+    },
+    {
+        "code": "09",
+        "rawCode": "09",
+        "version": 2,
+        "section": "B",
+        "name": "Mining support service activities"
+    },
+    {
+        "code": "10",
+        "rawCode": "10",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of food products"
+    },
+    {
+        "code": "11",
+        "rawCode": "11",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of beverages"
+    },
+    {
+        "code": "12",
+        "rawCode": "12",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of tobacco products"
+    },
+    {
+        "code": "13",
+        "rawCode": "13",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of textiles"
+    },
+    {
+        "code": "14",
+        "rawCode": "14",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of wearing apparel"
+    },
+    {
+        "code": "15",
+        "rawCode": "15",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of leather and related products"
+    },
+    {
+        "code": "16",
+        "rawCode": "16",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+    },
+    {
+        "code": "17",
+        "rawCode": "17",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of paper and paper products"
+    },
+    {
+        "code": "18",
+        "rawCode": "18",
+        "version": 2,
+        "section": "C",
+        "name": "Printing and reproduction of recorded media"
+    },
+    {
+        "code": "19",
+        "rawCode": "19",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of coke and refined petroleum products"
+    },
+    {
+        "code": "20",
+        "rawCode": "20",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of chemicals and chemical products"
+    },
+    {
+        "code": "21",
+        "rawCode": "21",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of basic pharmaceutical products and pharmaceutical preparations"
+    },
+    {
+        "code": "22",
+        "rawCode": "22",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of rubber and plastic products"
+    },
+    {
+        "code": "23",
+        "rawCode": "23",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of other non-metallic mineral products"
+    },
+    {
+        "code": "24",
+        "rawCode": "24",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of basic metals"
+    },
+    {
+        "code": "25",
+        "rawCode": "25",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of fabricated metal products, except machinery and equipment"
+    },
+    {
+        "code": "26",
+        "rawCode": "26",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of computer, electronic and optical products"
+    },
+    {
+        "code": "27",
+        "rawCode": "27",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of electrical equipment"
+    },
+    {
+        "code": "28",
+        "rawCode": "28",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of machinery and equipment n.e.c."
+    },
+    {
+        "code": "29",
+        "rawCode": "29",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of motor vehicles, trailers and semi-trailers"
+    },
+    {
+        "code": "30",
+        "rawCode": "30",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of other transport equipment"
+    },
+    {
+        "code": "31",
+        "rawCode": "31",
+        "version": 2,
+        "section": "C",
+        "name": "Manufacture of furniture"
+    },
+    {
+        "code": "32",
+        "rawCode": "32",
+        "version": 2,
+        "section": "C",
+        "name": "Other manufacturing"
+    },
+    {
+        "code": "33",
+        "rawCode": "33",
+        "version": 2,
+        "section": "C",
+        "name": "Repair and installation of machinery and equipment"
+    },
+    {
+        "code": "35",
+        "rawCode": "35",
+        "version": 2,
+        "section": "D",
+        "name": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "code": "36",
+        "rawCode": "36",
+        "version": 2,
+        "section": "E",
+        "name": "Water collection, treatment and supply"
+    },
+    {
+        "code": "37",
+        "rawCode": "37",
+        "version": 2,
+        "section": "E",
+        "name": "Sewerage"
+    },
+    {
+        "code": "38",
+        "rawCode": "38",
+        "version": 2,
+        "section": "E",
+        "name": "Waste collection, treatment and disposal activities; materials recovery"
+    },
+    {
+        "code": "39",
+        "rawCode": "39",
+        "version": 2,
+        "section": "E",
+        "name": "Remediation activities and other waste management services"
+    },
+    {
+        "code": "41",
+        "rawCode": "41",
+        "version": 2,
+        "section": "F",
+        "name": "Construction of buildings"
+    },
+    {
+        "code": "42",
+        "rawCode": "42",
+        "version": 2,
+        "section": "F",
+        "name": "Civil engineering"
+    },
+    {
+        "code": "43",
+        "rawCode": "43",
+        "version": 2,
+        "section": "F",
+        "name": "Specialised construction activities"
+    },
+    {
+        "code": "45",
+        "rawCode": "45",
+        "version": 2,
+        "section": "G",
+        "name": "Wholesale and retail trade and repair of motor vehicles and motorcycles"
+    },
+    {
+        "code": "46",
+        "rawCode": "46",
+        "version": 2,
+        "section": "G",
+        "name": "Wholesale trade, except of motor vehicles and motorcycles"
+    },
+    {
+        "code": "47",
+        "rawCode": "47",
+        "version": 2,
+        "section": "G",
+        "name": "Retail trade, except of motor vehicles and motorcycles"
+    },
+    {
+        "code": "49",
+        "rawCode": "49",
+        "version": 2,
+        "section": "H",
+        "name": "Land transport and transport via pipelines"
+    },
+    {
+        "code": "50",
+        "rawCode": "50",
+        "version": 2,
+        "section": "H",
+        "name": "Water transport"
+    },
+    {
+        "code": "51",
+        "rawCode": "51",
+        "version": 2,
+        "section": "H",
+        "name": "Air transport"
+    },
+    {
+        "code": "52",
+        "rawCode": "52",
+        "version": 2,
+        "section": "H",
+        "name": "Warehousing and support activities for transportation"
+    },
+    {
+        "code": "53",
+        "rawCode": "53",
+        "version": 2,
+        "section": "H",
+        "name": "Postal and courier activities"
+    },
+    {
+        "code": "55",
+        "rawCode": "55",
+        "version": 2,
+        "section": "I",
+        "name": "Accommodation"
+    },
+    {
+        "code": "56",
+        "rawCode": "56",
+        "version": 2,
+        "section": "I",
+        "name": "Food and beverage service activities"
+    },
+    {
+        "code": "58",
+        "rawCode": "58",
+        "version": 2,
+        "section": "J",
+        "name": "Publishing activities"
+    },
+    {
+        "code": "59",
+        "rawCode": "59",
+        "version": 2,
+        "section": "J",
+        "name": "Motion picture, video and television programme production, sound recording and music publishing activities"
+    },
+    {
+        "code": "60",
+        "rawCode": "60",
+        "version": 2,
+        "section": "J",
+        "name": "Programming and broadcasting activities"
+    },
+    {
+        "code": "61",
+        "rawCode": "61",
+        "version": 2,
+        "section": "J",
+        "name": "Telecommunications"
+    },
+    {
+        "code": "62",
+        "rawCode": "62",
+        "version": 2,
+        "section": "J",
+        "name": "Computer programming, consultancy and related activities"
+    },
+    {
+        "code": "63",
+        "rawCode": "63",
+        "version": 2,
+        "section": "J",
+        "name": "Information service activities"
+    },
+    {
+        "code": "64",
+        "rawCode": "64",
+        "version": 2,
+        "section": "K",
+        "name": "Financial service activities, except insurance and pension funding"
+    },
+    {
+        "code": "65",
+        "rawCode": "65",
+        "version": 2,
+        "section": "K",
+        "name": "Insurance, reinsurance and pension funding, except compulsory social security"
+    },
+    {
+        "code": "66",
+        "rawCode": "66",
+        "version": 2,
+        "section": "K",
+        "name": "Activities auxiliary to financial services and insurance activities"
+    },
+    {
+        "code": "68",
+        "rawCode": "68",
+        "version": 2,
+        "section": "L",
+        "name": "Real estate activities"
+    },
+    {
+        "code": "69",
+        "rawCode": "69",
+        "version": 2,
+        "section": "M",
+        "name": "Legal and accounting activities"
+    },
+    {
+        "code": "70",
+        "rawCode": "70",
+        "version": 2,
+        "section": "M",
+        "name": "Activities of head offices; management consultancy activities"
+    },
+    {
+        "code": "71",
+        "rawCode": "71",
+        "version": 2,
+        "section": "M",
+        "name": "Architectural and engineering activities; technical testing and analysis"
+    },
+    {
+        "code": "72",
+        "rawCode": "72",
+        "version": 2,
+        "section": "M",
+        "name": "Scientific research and development"
+    },
+    {
+        "code": "73",
+        "rawCode": "73",
+        "version": 2,
+        "section": "M",
+        "name": "Advertising and market research"
+    },
+    {
+        "code": "74",
+        "rawCode": "74",
+        "version": 2,
+        "section": "M",
+        "name": "Other professional, scientific and technical activities"
+    },
+    {
+        "code": "75",
+        "rawCode": "75",
+        "version": 2,
+        "section": "M",
+        "name": "Veterinary activities"
+    },
+    {
+        "code": "77",
+        "rawCode": "77",
+        "version": 2,
+        "section": "N",
+        "name": "Rental and leasing activities"
+    },
+    {
+        "code": "78",
+        "rawCode": "78",
+        "version": 2,
+        "section": "N",
+        "name": "Employment activities"
+    },
+    {
+        "code": "79",
+        "rawCode": "79",
+        "version": 2,
+        "section": "N",
+        "name": "Travel agency, tour operator reservation service and related activities"
+    },
+    {
+        "code": "80",
+        "rawCode": "80",
+        "version": 2,
+        "section": "N",
+        "name": "Security and investigation activities"
+    },
+    {
+        "code": "81",
+        "rawCode": "81",
+        "version": 2,
+        "section": "N",
+        "name": "Services to buildings and landscape activities"
+    },
+    {
+        "code": "82",
+        "rawCode": "82",
+        "version": 2,
+        "section": "N",
+        "name": "Office administrative, office support and other business support activities"
+    },
+    {
+        "code": "84",
+        "rawCode": "84",
+        "version": 2,
+        "section": "O",
+        "name": "Public administration and defence; compulsory social security"
+    },
+    {
+        "code": "85",
+        "rawCode": "85",
+        "version": 2,
+        "section": "P",
+        "name": "Education"
+    },
+    {
+        "code": "86",
+        "rawCode": "86",
+        "version": 2,
+        "section": "Q",
+        "name": "Human health activities"
+    },
+    {
+        "code": "87",
+        "rawCode": "87",
+        "version": 2,
+        "section": "Q",
+        "name": "Residential care activities"
+    },
+    {
+        "code": "88",
+        "rawCode": "88",
+        "version": 2,
+        "section": "Q",
+        "name": "Social work activities without accommodation"
+    },
+    {
+        "code": "90",
+        "rawCode": "90",
+        "version": 2,
+        "section": "R",
+        "name": "Creative, arts and entertainment activities"
+    },
+    {
+        "code": "91",
+        "rawCode": "91",
+        "version": 2,
+        "section": "R",
+        "name": "Libraries, archives, museums and other cultural activities"
+    },
+    {
+        "code": "92",
+        "rawCode": "92",
+        "version": 2,
+        "section": "R",
+        "name": "Gambling and betting activities"
+    },
+    {
+        "code": "93",
+        "rawCode": "93",
+        "version": 2,
+        "section": "R",
+        "name": "Sports activities and amusement and recreation activities"
+    },
+    {
+        "code": "94",
+        "rawCode": "94",
+        "version": 2,
+        "section": "S",
+        "name": "Activities of membership organisations"
+    },
+    {
+        "code": "95",
+        "rawCode": "95",
+        "version": 2,
+        "section": "S",
+        "name": "Repair of computers and personal and household goods"
+    },
+    {
+        "code": "96",
+        "rawCode": "96",
+        "version": 2,
+        "section": "S",
+        "name": "Other personal service activities"
+    },
+    {
+        "code": "97",
+        "rawCode": "97",
+        "version": 2,
+        "section": "T",
+        "name": "Activities of households as employers of domestic personnel"
+    },
+    {
+        "code": "98",
+        "rawCode": "98",
+        "version": 2,
+        "section": "T",
+        "name": "Undifferentiated goods- and services-producing activities of private households for own use"
+    },
+    {
+        "code": "99",
+        "rawCode": "99",
+        "version": 2,
+        "section": "U",
+        "name": "Activities of extraterritorial organisations and bodies"
+    }
+]

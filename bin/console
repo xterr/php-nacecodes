@@ -1,0 +1,172 @@
+#!/usr/bin/env php
+<?php
+
+require __DIR__ . '/../vendor/autoload.php';
+
+use EasyRdf\Graph;
+use Symfony\Component\Console\Exception\InvalidArgumentException;
+use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Input\InputOption;
+use Symfony\Component\Console\Output\OutputInterface;
+use Symfony\Component\Console\SingleCommandApplication;
+use Symfony\Component\Yaml\Yaml;
+
+const VERSION = 2;
+
+(new SingleCommandApplication())
+    ->setVersion('2.0')
+    ->addOption('file', 'f', InputOption::VALUE_REQUIRED)
+    ->addOption('output-dir', 'o', InputOption::VALUE_OPTIONAL, 'Output Directory', __DIR__ . '/../Resources')
+    ->setCode(function (InputInterface $input, OutputInterface $output) {
+        $filename = $input->getOption('file');
+        $outputDir = $input->getOption('output-dir');
+
+        if (!$filename) {
+            throw new InvalidArgumentException('File option is required');
+        }
+
+        $doc = new Graph();
+        $doc->parseFile($filename);
+
+        foreach ($doc->allResources('http://data.europa.eu/ux2/nace2/sections', 'skos:member') as $resource) {
+            /** @var \EasyRdf\Resource $resource */
+
+            $code = $resource->get('skos:notation')->getValue();
+            $aSections[$code] = [
+                'code' => $code,
+                'rawCode' => $code,
+                'version' => VERSION,
+            ];
+
+            foreach ($resource->all('skos:altLabel') as $altLabel) {
+                if ($altLabel->getLang() === 'en') {
+                    $aSections[$code]['name'] = $altLabel->getValue();
+                }
+            }
+
+            foreach ($resource->all('skos:altLabel') as $altLabel) {
+                if ($altLabel->getLang() !== 'en') {
+                    $aTranslations[$altLabel->getLang()][$aSections[$code]['name']] = $altLabel->getValue();
+                }
+            }
+        }
+
+        foreach ($doc->allResources('http://data.europa.eu/ux2/nace2/divisions', 'skos:member') as $resource) {
+            /** @var \EasyRdf\Resource $resource */
+
+            $code = $resource->get('skos:notation')->getValue();
+            $aDivisions[$code] = [
+                'code' => $code,
+                'rawCode' => $code,
+                'version' => VERSION,
+                'section' => str_replace('.', '', $resource->get('skos:broader')->get('skos:notation')->getValue()),
+            ];
+
+            foreach ($resource->all('skos:altLabel') as $altLabel) {
+                if ($altLabel->getLang() === 'en') {
+                    $aDivisions[$code]['name'] = $altLabel->getValue();
+                }
+            }
+
+            foreach ($resource->all('skos:altLabel') as $altLabel) {
+                if ($altLabel->getLang() !== 'en') {
+                    $aTranslations[$altLabel->getLang()][$aDivisions[$code]['name']] = $altLabel->getValue();
+                }
+            }
+        }
+
+        foreach ($doc->allResources('http://data.europa.eu/ux2/nace2/groups', 'skos:member') as $resource) {
+            /** @var \EasyRdf\Resource $resource */
+
+            $code = $resource->get('skos:notation')->getValue();
+            $aGroups[$code] = [
+                'code' => str_replace('.', '', $code),
+                'rawCode' => $code,
+                'version' => VERSION,
+                'division' => str_replace('.', '', $resource->get('skos:broader')->get('skos:notation')->getValue()),
+            ];
+
+            $aGroups[$code]['section'] = $aDivisions[$aGroups[$code]['division']]['section'];
+
+            foreach ($resource->all('skos:altLabel') as $altLabel) {
+                if ($altLabel->getLang() === 'en') {
+                    $aGroups[$code]['name'] = $altLabel->getValue();
+                }
+            }
+
+            foreach ($resource->all('skos:altLabel') as $altLabel) {
+                if ($altLabel->getLang() !== 'en') {
+                    $aTranslations[$altLabel->getLang()][$aGroups[$code]['name']] = $altLabel->getValue();
+                }
+            }
+        }
+
+        foreach ($doc->allResources('http://data.europa.eu/ux2/nace2/classes', 'skos:member') as $resource) {
+            /** @var \EasyRdf\Resource $resource */
+
+            $code = $resource->get('skos:notation')->getValue();
+            $aClasses[$code] = [
+                'code' => str_replace('.', '', $code),
+                'rawCode' => $code,
+                'version' => VERSION,
+                'group' => str_replace('.', '', $resource->get('skos:broader')->get('skos:notation')->getValue()),
+            ];
+
+            $aClasses[$code]['division'] = $aGroups[$resource->get('skos:broader')->get('skos:notation')->getValue()]['division'];
+            $aClasses[$code]['section'] = $aDivisions[$aClasses[$code]['division']]['section'];
+
+            foreach ($resource->all('skos:altLabel') as $altLabel) {
+                if ($altLabel->getLang() === 'en') {
+                    $aClasses[$code]['name'] = $altLabel->getValue();
+                }
+            }
+
+            foreach ($resource->all('skos:altLabel') as $altLabel) {
+                if ($altLabel->getLang() !== 'en') {
+                    $aTranslations[$altLabel->getLang()][$aClasses[$code]['name']] = $altLabel->getValue();
+                }
+            }
+        }
+
+        foreach ($doc->allResources('http://data.europa.eu/ux2/nace2/MIG', 'skos:member') as $resource) {
+            /** @var \EasyRdf\Resource $resource */
+
+            $code = $resource->get('skos:notation')->getValue();
+            $aMigs[$code] = [
+                'code' => $code,
+                'rawCode' => $code,
+                'version' => VERSION,
+                'members' => [],
+            ];
+
+            foreach ($resource->all('skos:prefLabel') as $altLabel) {
+                if ($altLabel->getLang() === 'en') {
+                    $aMigs[$code]['name'] = $altLabel->getValue();
+                } else {
+                    $aTranslations[$altLabel->getLang()][$aMigs[$code]['name']] = $altLabel->getValue();
+                }
+            }
+
+            foreach ($resource->all('skos:prefLabel') as $altLabel) {
+                if ($altLabel->getLang() !== 'en') {
+                    $aTranslations[$altLabel->getLang()][$aMigs[$code]['name']] = $altLabel->getValue();
+                }
+            }
+
+            foreach ($resource->all('skos:member') as $migMemberResource) {
+                $aMigs[$code]['members'][] = $migMemberResource->get('skos:notation')->getValue();
+            }
+        }
+
+        foreach ($aTranslations as $language => $messages) {
+            $yaml = Yaml::dump($messages, 2, 2);
+            file_put_contents(sprintf('./Resources/translations/messages_%s.yaml', $language), $yaml);
+        }
+
+        file_put_contents('./Resources/naceSections.json', json_encode(array_values($aSections), JSON_PRETTY_PRINT));
+        file_put_contents('./Resources/naceDivisions.json', json_encode(array_values($aDivisions), JSON_PRETTY_PRINT));
+        file_put_contents('./Resources/naceGroups.json', json_encode(array_values($aGroups), JSON_PRETTY_PRINT));
+        file_put_contents('./Resources/naceCodes.json', json_encode(array_values($aClasses), JSON_PRETTY_PRINT));
+        file_put_contents('./Resources/mig.json', json_encode(array_values($aMigs), JSON_PRETTY_PRINT));
+    })
+    ->run();

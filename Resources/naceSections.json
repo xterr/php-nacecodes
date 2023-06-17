@@ -1,0 +1,128 @@
+[
+    {
+        "code": "A",
+        "rawCode": "A",
+        "version": 2,
+        "name": "AGRICULTURE, FORESTRY AND FISHING"
+    },
+    {
+        "code": "B",
+        "rawCode": "B",
+        "version": 2,
+        "name": "MINING AND QUARRYING"
+    },
+    {
+        "code": "F",
+        "rawCode": "F",
+        "version": 2,
+        "name": "CONSTRUCTION"
+    },
+    {
+        "code": "P",
+        "rawCode": "P",
+        "version": 2,
+        "name": "EDUCATION"
+    },
+    {
+        "code": "D",
+        "rawCode": "D",
+        "version": 2,
+        "name": "ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY"
+    },
+    {
+        "code": "K",
+        "rawCode": "K",
+        "version": 2,
+        "name": "FINANCIAL AND INSURANCE ACTIVITIES"
+    },
+    {
+        "code": "C",
+        "rawCode": "C",
+        "version": 2,
+        "name": "MANUFACTURING"
+    },
+    {
+        "code": "O",
+        "rawCode": "O",
+        "version": 2,
+        "name": "PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY"
+    },
+    {
+        "code": "L",
+        "rawCode": "L",
+        "version": 2,
+        "name": "REAL ESTATE ACTIVITIES"
+    },
+    {
+        "code": "E",
+        "rawCode": "E",
+        "version": 2,
+        "name": "WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES"
+    },
+    {
+        "code": "G",
+        "rawCode": "G",
+        "version": 2,
+        "name": "WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES"
+    },
+    {
+        "code": "H",
+        "rawCode": "H",
+        "version": 2,
+        "name": "TRANSPORTATION AND STORAGE"
+    },
+    {
+        "code": "I",
+        "rawCode": "I",
+        "version": 2,
+        "name": "ACCOMMODATION AND FOOD SERVICE ACTIVITIES"
+    },
+    {
+        "code": "J",
+        "rawCode": "J",
+        "version": 2,
+        "name": "INFORMATION AND COMMUNICATION"
+    },
+    {
+        "code": "M",
+        "rawCode": "M",
+        "version": 2,
+        "name": "PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES"
+    },
+    {
+        "code": "N",
+        "rawCode": "N",
+        "version": 2,
+        "name": "ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES"
+    },
+    {
+        "code": "R",
+        "rawCode": "R",
+        "version": 2,
+        "name": "ARTS, ENTERTAINMENT AND RECREATION"
+    },
+    {
+        "code": "Q",
+        "rawCode": "Q",
+        "version": 2,
+        "name": "HUMAN HEALTH AND SOCIAL WORK ACTIVITIES"
+    },
+    {
+        "code": "S",
+        "rawCode": "S",
+        "version": 2,
+        "name": "OTHER SERVICE ACTIVITIES"
+    },
+    {
+        "code": "T",
+        "rawCode": "T",
+        "version": 2,
+        "name": "ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS- AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE"
+    },
+    {
+        "code": "U",
+        "rawCode": "U",
+        "version": 2,
+        "name": "ACTIVITIES OF EXTRATERRITORIAL ORGANISATIONS AND BODIES"
+    }
+]
