@@ -1,0 +1,59 @@
+{
+  "commit-msg": {
+    "enabled": true,
+    "actions": [
+      {
+        "action": "\\Ramsey\\CaptainHook\\ValidateConventionalCommit",
+        "options": {
+          "typeCase": "lower",
+          "types": [
+            "feature", "fix", "docs", "style", "lint", "refactor", "test", "revert", "bump", "merge", "update", "chore"
+          ],
+          "descriptionCase": "lower"
+        }
+      }
+    ]
+  },
+  "pre-push": {
+    "enabled": false,
+    "actions": [ ]
+  },
+  "pre-commit": {
+    "enabled": true,
+    "actions": [
+      {
+        "action": "\\CaptainHook\\App\\Hook\\Composer\\Action\\CheckLockFile"
+      },
+      {
+        "action": "./vendor/bin/phpunit"
+      },
+      {
+        "action": "./vendor/bin/psalm --threads=1 --no-cache"
+      }
+    ]
+  },
+  "prepare-commit-msg": {
+    "enabled": false,
+    "actions": [ ]
+  },
+  "post-commit": {
+    "enabled": false,
+    "actions": [ ]
+  },
+  "post-merge": {
+    "enabled": false,
+    "actions": [ ]
+  },
+  "post-checkout": {
+    "enabled": false,
+    "actions": [ ]
+  },
+  "post-rewrite": {
+    "enabled": false,
+    "actions": [ ]
+  },
+  "post-change": {
+    "enabled": false,
+    "actions": [ ]
+  }
+}
