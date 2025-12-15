@@ -2,11 +2,15 @@
 
 namespace Xterr\NaceCodes;
 
-use Symfony\Contracts\Translation\TranslatorInterface;
+use Xterr\NaceCodes\Translation\TranslatorInterface;
 
 class NaceDivisions extends AbstractDatabase
 {
-    public function __construct(string $baseDirectory, TranslatorInterface $translator = null)
+    /**
+     * @param string                   $baseDirectory
+     * @param TranslatorInterface|null $translator
+     */
+    public function __construct(string $baseDirectory, ?TranslatorInterface $translator = null)
     {
         parent::__construct($baseDirectory, NaceDivision::class, $translator);
     }

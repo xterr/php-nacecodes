@@ -14,15 +14,18 @@
     "ext-json": "*"
   },
   "require-dev": {
-    "captainhook/captainhook": "^5.24",
     "easyrdf/easyrdf": "^1.1",
-    "ergebnis/composer-normalize": "^2.31",
-    "phpunit/phpunit": "^10.2",
-    "ramsey/conventional-commits": "^1.5",
-    "symfony/console": "^6.0 || ^7.0",
-    "symfony/translation": "^6.0 || ^7.0",
-    "symfony/yaml": "^6.0 || ^7.0",
-    "vimeo/psalm": "^5.12"
+    "illuminate/contracts": "^5.8 || ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0 || ^11.0 || ^12.0",
+    "phpunit/phpunit": "^7.5 || ^8.5 || ^9.5 || ^10.0 || ^11.0",
+    "symfony/console": "^4.4 || ^5.0 || ^6.0 || ^7.0 || ^8.0",
+    "symfony/translation": "^4.4 || ^5.0 || ^6.0 || ^7.0 || ^8.0",
+    "symfony/translation-contracts": "^1.1 || ^2.0 || ^3.0",
+    "symfony/yaml": "^4.4 || ^5.0 || ^6.0 || ^7.0 || ^8.0",
+    "vimeo/psalm": "^4.30 || ^5.9 || ^6.0"
+  },
+  "suggest": {
+    "illuminate/contracts": "Required for Laravel integration",
+    "symfony/translation-contracts": "Required for Symfony integration"
   },
   "autoload": {
     "psr-4": {
@@ -32,11 +35,6 @@
   "autoload-dev": {
     "psr-4": {
       "Xterr\\NaceCodes\\Tests\\": "tests/"
-    }
-  },
-  "config": {
-    "allow-plugins": {
-      "ergebnis/composer-normalize": true
     }
   },
   "extra": {

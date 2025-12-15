@@ -2,7 +2,7 @@
 
 namespace Xterr\NaceCodes;
 
-use Symfony\Contracts\Translation\TranslatorInterface;
+use Xterr\NaceCodes\Translation\TranslatorInterface;
 
 class NaceCodesFactory
 {
@@ -12,37 +12,56 @@ class NaceCodesFactory
     private $baseDirectory;
 
     /**
-     * @var TranslatorInterface
+     * @var TranslatorInterface|null
      */
     private $translator;
 
-    public function __construct(string $baseDirectory = null, TranslatorInterface $translator = null)
+    /**
+     * @param string|null              $baseDirectory Base directory for data files
+     * @param TranslatorInterface|null $translator    Translator instance (optional)
+     */
+    public function __construct(?string $baseDirectory = null, ?TranslatorInterface $translator = null)
     {
         $this->baseDirectory = $baseDirectory ?? __DIR__ . '/../Resources';
         $this->translator = $translator;
     }
 
-    public function getCodes(): NaceCodes
+    /**
+     * @return NaceCodes
+     */
+    public function getCodes()
     {
         return new NaceCodes($this->baseDirectory, $this->translator);
     }
 
-    public function getSections(): NaceSections
+    /**
+     * @return NaceSections
+     */
+    public function getSections()
     {
         return new NaceSections($this->baseDirectory, $this->translator);
     }
 
-    public function getDivisions(): NaceDivisions
+    /**
+     * @return NaceDivisions
+     */
+    public function getDivisions()
     {
         return new NaceDivisions($this->baseDirectory, $this->translator);
     }
 
-    public function getGroups(): NaceGroups
+    /**
+     * @return NaceGroups
+     */
+    public function getGroups()
     {
         return new NaceGroups($this->baseDirectory, $this->translator);
     }
 
-    public function getMappings(): NaceCodesMappings
+    /**
+     * @return NaceCodesMappings
+     */
+    public function getMappings()
     {
         return new NaceCodesMappings($this->baseDirectory);
     }

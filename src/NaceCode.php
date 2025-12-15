@@ -35,6 +35,11 @@ class NaceCode
     private $name;
 
     /**
+     * @var string|null
+     */
+    private $localName;
+
+    /**
      * @var integer
      */
     private $version = NaceVersion::VERSION_2;
@@ -85,6 +90,16 @@ class NaceCode
     public function getName(): string
     {
         return $this->name;
+    }
+
+    /**
+     * Returns the translated name, or falls back to the English name.
+     *
+     * @return string
+     */
+    public function getLocalName(): string
+    {
+        return $this->localName ?? $this->name;
     }
 
     /**

@@ -5,7 +5,7 @@ namespace Xterr\NaceCodes;
 use Closure;
 use Countable;
 use Iterator;
-use Symfony\Contracts\Translation\TranslatorInterface;
+use Xterr\NaceCodes\Translation\TranslatorInterface;
 
 /**
  * @template-implements Iterator<mixed>
@@ -20,7 +20,7 @@ abstract class AbstractDatabase implements Iterator, Countable
     private $baseDirectory;
 
     /**
-     * @var TranslatorInterface
+     * @var TranslatorInterface|null
      */
     private $translator;
 
@@ -28,7 +28,12 @@ abstract class AbstractDatabase implements Iterator, Countable
 
     private $index = [];
 
-    public function __construct(string $baseDirectory, string $class, TranslatorInterface $translator = null)
+    /**
+     * @param string                   $baseDirectory
+     * @param string                   $class
+     * @param TranslatorInterface|null $translator
+     */
+    public function __construct(string $baseDirectory, string $class, ?TranslatorInterface $translator = null)
     {
         $this->baseDirectory = $baseDirectory;
         $this->class = $class;
@@ -68,6 +73,7 @@ abstract class AbstractDatabase implements Iterator, Countable
         reset($this->data);
     }
 
+    #[\ReturnTypeWillChange]
     public function current()
     {
         return $this->_arrayToEntry(current($this->data));
@@ -76,12 +82,17 @@ abstract class AbstractDatabase implements Iterator, Countable
     protected function _arrayToEntry(array $entry)
     {
         $class = $this->class;
+        $translator = $this->translator;
 
-        $closure = Closure::bind(static function () use ($entry, $class) {
+        $closure = Closure::bind(static function () use ($entry, $class, $translator) {
             $instance = new $class();
 
             foreach (array_keys($entry) as $field) {
                 $instance->$field = $entry[$field];
+            }
+
+            if ($translator !== null && isset($entry['name'])) {
+                $instance->localName = $translator->translate($entry['name']);
             }
 
             return $instance;
