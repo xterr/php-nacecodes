@@ -2,6 +2,7 @@
 .phpunit.result.cache
 .phpunit.cache
 .idea
+.claude
 NACE_Rev.2.rdf
 NACE_Rev.2.1.rdf
 composer.lock
